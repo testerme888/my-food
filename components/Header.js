@@ -309,14 +309,16 @@ export default function Header() {
         <nav className="flex-1">
           <ul className="flex">
             {navItems.map((item, i) => (
-              const isActive =
-          pathname === item.href ||
-          item.submenu?.some((sublink) => pathname === sublink.href);
               <li
                 key={i}
-                className={`py-2 relative group last:border-none ${
-                  isActive ? 'bg-white text-black' : ''
-                }`}
+                className={`
+      py-2 relative group last:border-none
+      ${
+        item.submenu?.some((sublink) => pathname === sublink.href)
+          ? 'bg-white text-black' // active submenu link
+          : ''
+      }
+    `}
               >
                 {item.submenu ? (
                   <span className="px-4 border-r border-gray-400 block hover:bg-blue cursor-pointer">
