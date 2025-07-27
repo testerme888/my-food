@@ -1,0 +1,1237 @@
+[
+  {
+    "label": "Indian Rustic Food",
+    "slug": "Indian-Rustic-Food",
+    "description": "Indian rustic food emphasizes fresh, locally sourced ingredients and simple cooking techniques, often highlighting traditional flavors passed down through generations.",
+    "cuisines":"Indian-rustic-food encompasses a wide array of dishes, often characterized by their use of fresh, local ingredients and traditional cooking methods. These dishes frequently feature hearty flavors and comforting textures, evoking a sense of home and tradition.",
+    "img": "https://www.onemedical.com/media/images/heart-healthy-food.original.jpg",
+    "cities": [
+      {
+      "img": "https://images.slurrp.com/prod/articles/ikkt9s08w3a.webp",
+      "title": "Dal Ka Dulha"
+      },
+      {
+        "img": "https://images.herzindagi.info/image/2022/Feb/rice-flour-recipes-at-home-fara-inside_3.jpg",
+        "title": "Chawal Ka Fara"
+      },
+      {
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2024/10/Matar-Ka-Nimona-2-3.jpg",
+        "title": "Nimona"
+      },
+      {
+        "img": "https://images.squarespace-cdn.com/content/v1/5cef7b136434550001a53d10/1610550373248-20EM04AMYTWMFIO9FCBR/roh+di+kheer-3+3.jpg",
+        "title": "Rasawa"
+      },
+      {
+        "img": "https://sameeraskitchen.files.wordpress.com/2021/12/img_20211027_115852__01__01.jpg",
+        "title": "Kachalu Chaat"
+      },
+      {
+        "img": "https://static.langimg.com/photo/imgsize-100640,msid-89715242/navbharat-times.jpg",
+        "title": "Dahi Ka Chilla"
+      },
+      {
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/03/bajra-bhakri-recipe-2.jpg",
+        "title": "Bajre Ki Roti"
+      },
+      {
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2014/12/Bathua-ka-Raita-2-3.jpg",
+        "title": "Bathua Ka Raita"
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05nKkQVNDmUuNjqdwD84Y6hQMiANN6QOFLA&s",
+        "title": "Besan Ki Rooti Lassi"
+      },
+      {
+        "img": "https://spicecravings.com/wp-content/uploads/2021/08/Moong-Dal-Featured-1.jpg",
+        "title": "Mong Ki Daal"
+      },
+      {
+        "img": "https://images.livemint.com/img/2023/01/11/1200x900/recipe_sarson_ka_saag_makki_ki_roti_1673434067783_1673434080193_1673434080193.jpg",
+        "title": "Makke Ki Roti Saag"
+      },
+      {
+        "img": "https://www.indianveggiedelight.com/wp-content/uploads/2023/01/sweet-lassi-recipe-featured.jpg",
+        "title": "Lassi"
+      },
+      {
+        "img": "https://images.slurrp.com/prod/articles/3j5uwwfdo8o.webp",
+        "title": "Tudkiya Bhath"
+      },
+      {
+        "img": "https://static.toiimg.com/thumb/71608958.cms?imgsize=1493213&width=800&height=800",
+        "title": "Babru"
+      },
+      {
+        "img": "https://vegecravings.com/wp-content/uploads/2023/04/Rajma-Madra-Recipe-Step-By-Step-Instructions-scaled.jpg",
+        "title": "Madra"
+      },
+      {
+        "img": "https://static.toiimg.com/thumb/52554168.cms?imgsize=572669&width=800&height=800",
+        "title": "Chha Gosht"
+      },
+      {
+        "img": "https://images.hindi.news18.com/ibnkhabar/uploads/2021/09/Siddu.jpg",
+        "title": "Siddu"
+      },
+      {
+        "img": "https://static.toiimg.com/thumb/58975118.cms?imgsize=669328&width=800&height=800",
+        "title": "Arsha"
+      },
+      {
+        "img": "https://www.funfoodfrolic.com/wp-content/uploads/2023/05/Badi-Bhaat-Blog.jpg",
+        "title": "Baadi"
+      },
+      {
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/10/kulcha-recipe-1.jpg",
+        "title": "Khaldari Kulcha"
+      },
+      {
+        "img": "https://blessmyfoodbypayal.com/wp-content/uploads/2023/11/IMG_1423.jpg",
+        "title": "Shufta"
+      },
+      {
+        "img": "https://static.wixstatic.com/media/e33d1e_ae7ffe76a753469baf08c23308aea514~mv2.jpg",
+        "title": "Perukia"
+      },
+      {
+        "img": "https://images.slurrp.com/prod/recipe_images/cms/7b6e202kv3r.webp",
+        "title": "Khaja"
+      },
+      {
+        "img": "https://img-global.cpcdn.com/recipes/38bb1f4b32eabc41/680x482cq70/litti-chokha-recipe-main-photo.jpg",
+        "title": "Litti Chokha"
+      },
+      {
+        "img": "https://i.redd.it/rsyr3jsfobb71.jpg",
+        "title": "Litti Murga"
+      },
+      {
+        "img": "https://sinfullyspicy.com/wp-content/uploads/2021/02/14.jpg",
+        "title": "Machhi Jhol"
+      },
+      {
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/11/thekua-recipe-2.jpg",
+        "title": "Thikua"
+      },
+      {
+        "img": "https://static.vecteezy.com/system/resources/previews/016/283/169/large_2x/bhagar-is-indian-fasting-food-recipe-made-using-barnyard-millet-free-photo.jpg",
+        "title": "Bhagara Mand"
+      },
+      {
+        "img": "https://images.slurrp.com/webstories/wp-content/uploads/2023/06/turai-chana-sabji-nenua-chana-Copy.jpg-rotated.jpg",
+        "title": "Biya Ki Sabji"
+      },
+      {
+        "img": "https://pipingpotcurry.com/wp-content/uploads/2023/11/Lapsi-Recipe-Piping-Pot-Curry.jpg",
+        "title": "Puri Ki Lapsi"
+      },
+      {
+        "img": "https://www.nehascookbook.com/wp-content/uploads/2022/10/Undhiyu-WS-500x500.jpg",
+        "title": "Undhiya"
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGepaRBL6aGzeuVyFoxzv0pw-o_w61-_FQmQ&s",
+        "title": "Rasiya Muthiya"
+      },
+      {
+        "img": "https://i.pinimg.com/736x/97/e4/91/97e49187a8b215121d704a59190f316f.jpg",
+        "title": "Rhengan Reveya"
+      },
+      {
+        "img": "https://palatesdesire.com/wp-content/uploads/2022/05/aam-panna-recipe@palates-desire.jpg",
+        "title": "Neem Aam Ka Paana"
+      },
+      {
+        "img": "https://www.flourandspiceblog.com/wp-content/uploads/2023/03/IMG_1953-500x500.jpg",
+        "title": "Arbi Ke Kofta Ka Salan"
+      },
+      {
+        "img": "https://images.herzindagi.info/image/2018/Feb/kerala-fish-curry-south-indian-recipe-main.jpg",
+        "title": "Kelli Ki Machli Curry"
+      },
+      {
+        "img": "https://aromaticessence.co/wp-content/uploads/2015/06/nankhatai_featured.jpg",
+        "title": "Naan Khati"
+      },
+      {
+        "img": "https://www.funfoodfrolic.com/wp-content/uploads/2020/07/Dal-Moradabad-Thumb.jpg",
+        "title": "Daal Muradabadi"
+      },
+      {
+        "img": "https://www.spiceupthecurry.com/wp-content/uploads/2017/11/bedmi-aloo-recipe-9-500x500.jpg",
+        "title": "Bedmi Puri Sabji"
+      },
+      {
+        "img": "https://img-global.cpcdn.com/recipes/6bc509f23aee150c/400x400cq70/photo.jpg",
+        "title": "Matha Aloo"
+      },
+      {
+        "img": "https://www.spiceupthecurry.com/wp-content/uploads/2012/04/paratha-recipe-1-500x500.jpg",
+        "title": "Paratha"
+      },
+      {
+        "img": "https://ministryofcurry.com/wp-content/uploads/2022/05/Jowar-Rotis-3.jpg",
+        "title": "Jowar Roti With Chouli Pallya"
+      },
+      {
+        "img": "https://dicencook.com/storage/2017/04/Curry-leaves-tambui-featured-imag.jpg",
+        "title": "Badanekai Tumbagaali"
+      },
+      {
+        "img": "https://cookwithrenu.com/wp-content/uploads/2023/08/Green-Tomato-Dry-Vegetable_Featured-Image.jpg",
+        "title": "Rawgreen Tomato Sabji"
+      },
+      {
+        "img": "https://pbs.twimg.com/media/E140d8IVIAEm4dh.jpg",
+        "title": "Dapati"
+      },
+      {
+        "img": "https://images.squarespace-cdn.com/content/v1/5cef7b136434550001a53d10/1559743327684-Q8MS9BUPOWGP4CSTLYXQ/image-asset.jpeg",
+        "title": "Kaima Unde"
+      },
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RAGI_MUDDE.JPG/1200px-RAGI_MUDDE.JPG",
+        "title": "Ragi Mudde"
+      },
+      {
+        "img": "https://thephotowali.files.wordpress.com/2017/11/23244508_710766719112747_1870403964596812880_n.jpg?w=520&h=520",
+        "title": "Hellikai Citranna"
+      }
+    ]
+  },
+  {
+    "label": "Nutrition Consultancy",
+    "slug": "Nutrition-Consultancy",
+    "description": "Nutrition Consultancy is your trusted partner in achieving optimal health through personalized nutrition. We provide expert guidance to help individuals make informed food choices, manage medical conditions, and embrace a balanced lifestyle.",
+    "cuisines":"Our consultancy offers tailored diet plans, lifestyle coaching, and evidence-based nutrition advice for all age groups. Whether your goal is weight loss, managing diabetes, improving gut health, or enhancing athletic performance, our certified nutritionists are here to guide you with practical, sustainable solutions.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPARKOu430g4OlxWDwK7vgNNW43JCW-XUbQ&s",
+    "cities": [
+      
+
+    ]
+  },
+  {
+    "label": "Indian Immunity Boasting Recipes",
+    "slug": "Indian-Immunity-Boasting-Recipes",
+    "description": "Discover the power of traditional Indian ingredients in boosting your immunity naturally. Rooted in Ayurveda and regional wisdom, these recipes blend taste and health for everyday wellness.",
+    "cuisines":"Indian Immunity-Boosting Recipes feature ingredients like turmeric, ginger, tulsi, amla, garlic, and spices known for their healing properties. From golden milk (haldi doodh) and kadha to moringa sabzi and herbal teas, these dishes are designed to strengthen your immune system while keeping your meals flavorful and wholesome.",
+    "img": "https://img.delicious.com.au/6HzlqtaR/del/2016/07/vermouth-mussels-with-olives-and-nettle-butter-33190-1.jpg",
+    "cities": [
+      {
+        "img": "https://images.slurrp.com/webstories/wp-content/uploads/2024/01/cropped-Amla-Murabba-1.jpg",
+        "title": "Jaggery Amla Murbba"
+      },
+      {
+        "img": "https://www.thespruceeats.com/thmb/Gk2Hs3UC9Us3H0w_yxrdNVFqz7s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spinach-and-rosemary-soup-in-bowl-with-swirl-of-cream-and-flowering-rosemary-sprig-garnish-149269249-588b54cd5f9b5874ee1e98cf.jpg",
+        "title": "Dal Palak Shorba"
+      },
+      {
+        "img": "https://i.pinimg.com/736x/50/79/10/507910e9a26af2054ce2238d6d04d7d4.jpg",
+        "title": "Chana Ghughari"
+      },
+      {
+        "img": "https://www.metropolisindia.com/upgrade/blog/upload/24/08/Turmeric_Milk1724416339.webp",
+        "title": "Turmeric Hony Milk"
+      },
+      {
+        "img": "https://www.netmeds.com/images/product-v1/600x600/1014461/herbal_canada_pure_aloevera_amla_juice_500_ml_0_0.jpg",
+        "title": "Tulsi Aloevera Sharbat"
+      },
+      {
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/03/sol-kadhi-recipe-1.jpg",
+        "title": "Kokum Sol Khadi"
+      },
+      {
+        "img": "https://www.effortlessfoodie.com/wp-content/uploads/2022/03/banana-porridge-4.jpg",
+        "title": "Banana Daliya"
+      },
+      {
+        "img": "https://resize.indiatv.in/resize/newbucket/400_-/2024/02/sahjan-ki-sabzi-24-02-2024-1708745033.webp",
+        "title": "Moringa Ki Sabji"
+      },
+      {
+        "img": "https://img-global.cpcdn.com/recipes/b221dcff3293129d/680x482cq70/%E0%A4%9A%E0%A4%B5%E0%A4%B2-%E0%A4%95-%E0%A4%86%E0%A4%9F-%E0%A4%B8-%E0%A4%95%E0%A4%A6%E0%A4%A6-%E0%A4%95-%E0%A4%9A%E0%A4%B2-chawal-ki-aate-se-kaddu-ki-cheela-recipe-in-hindi-%E0%A4%B0%E0%A4%B8%E0%A4%AA-%E0%A4%AE%E0%A4%96%E0%A4%AF-%E0%A4%A4%E0%A4%B8%E0%A4%B5%E0%A4%B0.jpg",
+        "title": "Kaddu Ka Chilla"
+      },
+      {
+        "img": "https://www.honeywhatscooking.com/wp-content/uploads/2023/11/Sweet-Potato-Chaat-main.jpg",
+        "title": "Bhune Sakarkand Ki Chaat"
+      },
+      {
+        "img": "https://www.madhuseverydayindian.com/wp-content/uploads/2020/06/dry-fruits-laddu.jpg",
+        "title": "Gur Mewa Ke Ladoo"
+      },
+      {
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2017/09/Multigrain-Roti-3.jpg",
+        "title": "Mix Grain Roti"
+      },
+      {
+        "img": "https://www.funfoodfrolic.com/wp-content/uploads/2023/01/Punjabi-Chitt-3.jpg",
+        "title": "Adrak Lesun Ki Sabji"
+      },
+      {
+        "img": "https://www.easycookingwithmolly.com/wp-content/uploads/2016/08/khoba-roti-recipe-480x480.jpg",
+        "title": "Khuba Ki Roti"
+      },
+      {
+        "img": "https://www.cookwithkushi.com/wp-content/uploads/2023/09/best_easy_badam_halwa_pudding_recipe-500x500.jpg",
+        "title": "Almond Ka Sheera"
+      },
+      {
+        "img": "https://sinfullyspicy.com/wp-content/uploads/2021/02/14.jpg",
+        "title": "Machhar Jhol"
+      },
+      {
+        "img": "https://static.toiimg.com/photo/105701032.cms",
+        "title": "Kadha"
+      },
+      {
+        "img": "https://img-global.cpcdn.com/steps/073113d62a46b44a/400x400cq80/photo.jpg",
+        "title": "Bajre Ki Lapsi"
+      },
+      {
+        "img": "https://www.jagranimages.com/images/newimg/17102021/17_10_2021-sattu_roti_22121600.jpg",
+        "title": "Sattu Ki Roti"
+      },
+      {
+        "img": "https://www.allrecipes.com/thmb/95vaXGhKoNoJj_POc3RWX_dC0Ss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-277220-russian-honey-cake-ddmfs-4x3-c4d6e70a2a73440486bf0039feced6f8.jpg",
+        "title": "Honey Cake"
+      }
+    ]
+  },
+  {
+    "label": "Indian Heart Healthy Recipes",
+    "slug": "Indian-Heart-Healthy-Recipes",
+    "description": "Promote a healthy heart the Indian way with wholesome recipes crafted to support cardiovascular wellness. Enjoy the richness of Indian cuisine with ingredients that are as good for your heart as they are for your taste buds.",
+    "cuisines":"Indian Heart-Healthy Recipes focus on low-oil cooking, high-fiber ingredients, and nutrient-rich superfoods like oats, millets, garlic, flax seeds, lentils, and leafy greens. These dishes are carefully curated to help manage cholesterol, blood pressure, and overall heart health—without compromising on flavor. Think bhuna oats khichdi, palak dal, grilled tandoori fish, and more!",
+    "img": "https://www.mealpro.net/wp-content/uploads/2022/11/Chicken-Fajita-Plated.jpg",
+    "cities": [
+      {
+        "img": "https://greenbowl2soul.com/wp-content/uploads/2020/01/moong-dal-khichdi.jpg",
+        "title": "Moong Dal Khichdi"
+      },
+      {
+        "img": "https://www.funfoodfrolic.com/wp-content/uploads/2021/05/Dalia-Khichdi-Blog-Thumbnail.jpg",
+        "title": "Vegitable Daliya"
+      },
+      {
+        "img": "https://www.indianveggiedelight.com/wp-content/uploads/2022/12/moong-dal-chilla-featured-500x500.jpg",
+        "title": "Moong Dal Palak Cheela"
+      },
+      {
+        "img": "https://pipingpotcurry.com/wp-content/uploads/2022/10/Tandoori-Mushroom-Tikka-Air-Fryer-indian-recipe-Piping-Pot-Curry.jpg",
+        "title": "Tandoori Masala Mushroom"
+      },
+      {
+        "img": "https://feastwithsafiya.com/wp-content/uploads/2021/08/Baked-fish-masala-recipe.jpg",
+        "title": "Grilled Masala Fish"
+      },
+      {
+        "img": "https://www.cubesnjuliennes.com/wp-content/uploads/2022/12/Tandoori-Chicken-Recipe.jpg",
+        "title": "Tandoori Chicken"
+      },
+      {
+        "img": "https://www.fatrainbow.com/wp-content/uploads/2021/09/instant-pot-dal-palak.jpg",
+        "title": "Dal Palak"
+      },
+      {
+        "img": "https://www.indianveggiedelight.com/wp-content/uploads/2023/01/masala-chaas-featured.jpg",
+        "title": "Masala Chaas"
+      },
+      {
+        "img": "https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup-recipe.jpg",
+        "title": "Soup's"
+      },
+      {
+        "img": "https://www.chewoutloud.com/wp-content/uploads/2018/01/roasted-veggies-0.jpg",
+        "title": "Roasted Vegetable"
+      },
+      {
+        "img": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/03/Paneer-Bhurji.jpg",
+        "title": "Paneer Bhurji"
+      },
+      {
+        "img": "https://i.pinimg.com/736x/ab/41/e0/ab41e081be55056236f4ee3abefdc1e7.jpg",
+        "title": "Mix Vegetable Poha"
+      },
+      {
+        "img": "https://www.puvi.co/uploaded_images/1664871235.png",
+        "title": "Makahna Kheer"
+      },
+      {
+        "img": "https://www.idfreshfood.com/wp-content/uploads/2020/12/ewerewg.jpg",
+        "title": "Vegetable Uttapam"
+      },
+      {
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2018/12/Missi-Roti-2-3.jpg",
+        "title": "Missi Roti"
+      },
+      {
+        "img": "https://bhojmasale.com/cdn/shop/articles/lauki-chana-dal-ki-sabji-553344_1024x1024.jpg",
+        "title": "Lauki Chana Curry"
+      },
+      {
+        "img": "https://www.wholesomeyum.com/wp-content/uploads/2023/01/wholesomeyum-Sauteed-Vegetables-6.jpg",
+        "title": "Saute Vegetable"
+      },
+      {
+        "img": "https://vaya.in/wp-content/uploads/2021/03/Top-10-Delicious-Fruit-Juices-Perfect-for-Summer-Time.jpg",
+        "title": "Fresh Juice"
+      },
+      {
+        "img": "https://www.carolinescooking.com/wp-content/uploads/2020/09/masala-omelette-photo.jpg",
+        "title": "Masala Omelette"
+      },
+      {
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2020/10/Jhal-Muri-2-3.jpg",
+        "title": "Jhal Mudi"
+      }
+      
+    ]
+  },
+  {
+    "label": "Indian Weight Loss Food Recipes",
+    "slug": "Indian-Weight-Loss-Food-Recipes",
+    "description": "Achieve your fitness goals with flavorful and nutritious Indian recipes tailored for weight loss. These meals are light, satisfying, and crafted to support fat-burning and portion control—without giving up on taste.",
+    "cuisines":"Indian Weight Loss Food Recipes combine traditional ingredients with modern nutritional insights. Enjoy dishes like moong dal chilla, quinoa upma, vegetable millet khichdi, low-oil sabzis, and detox drinks. High in fiber, protein-rich, and low in unhealthy fats, these recipes help you stay full longer, boost metabolism, and support sustainable weight management.",
+    "img": "https://www.eatingwell.com/thmb/088YHsNmHkUQ7iNGP4375MiAXOY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/article_7866255_foods-you-should-eat-every-week-to-lose-weight_-04-d58e9c481bce4a29b47295baade4072d.jpg",
+    "cities": [
+      {
+        "img": "https://www.indianveggiedelight.com/wp-content/uploads/2022/12/moong-dal-chilla-featured-500x500.jpg",
+        "title": "Moong Dal Cheela"
+      },
+      {
+        "img": "https://thebellyrulesthemind.net/wp-content/uploads/2023/11/IMG_9853-scaled-720x720.jpg",
+        "title": "Tandoori Soya Chaap"
+      },
+      {
+        "img": "https://nishkitchen.com/wp-content/uploads/2019/02/Fish-tikka-1B-480x480.jpg",
+        "title": "Tandoori Fish Tikka"
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlG3qIviYurL1f6sjjPCVCs8VES_-gvsLehA&s",
+        "title": "Lassoni Palak Corn Bhurji"
+      },
+      {
+        "img": "https://pipingpotcurry.com/wp-content/uploads/2022/10/Tandoori-Mushroom-Tikka-Air-Fryer-indian-recipe-Piping-Pot-Curry.jpg",
+        "title": "Tandoori Mushroom Tikka"
+      },
+      {
+        "img": "https://www.cookwithmanali.com/wp-content/uploads/2020/10/Besan-Halwa-500x500.jpg",
+        "title": "Besan Halwa In Jaggery Pwd"
+      },
+      {
+        "img": "https://chocolatecoveredkatie.com/wp-content/uploads/2020/05/Peanut-Butter-Protein-Bars.jpg",
+        "title": "Soya Nuts Proteen Bar"
+      },
+      {
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/04/roasted-makhana-recipe-1.jpg",
+        "title": "Roasted Makhana Chaat"
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOKYqWH59tvsIduYvQj3fiTcM6GoSQuKfqcw&s",
+        "title": "Jhal Muri"
+      },
+      {
+        "img": "https://5.imimg.com/data5/EX/YA/MY-50970384/anjeer-28dry-figs-29-500x500.jpg",
+        "title": "Anjeer Apricot Bar"
+      },
+      {
+        "img": "https://masalaandchai.com/wp-content/uploads/2020/11/Peanut-Chaat-Featured-Image.jpg",
+        "title": "Masala Peanut Chaat"
+      },
+      {
+        "img": "https://www.foodandwine.com/thmb/jqL0yU33CIpjJpo-MzIgimsxepk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/201012-xl-fruit-nut-trail-mix-2000-4d001d1e962e49708304a1cd2f648cd4.jpg",
+        "title": "Fruity Nuts Daliy"
+      },
+      {
+        "img": "https://www.cookwithkushi.com/wp-content/uploads/2019/07/IMG_3708_.jpg",
+        "title": "Aloo Chana Bheel"
+      },
+      {
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/03/bajra-bhakri-recipe-2.jpg",
+        "title": "Bajra Roti"
+      },
+      {
+        "img": "https://spicecravings.com/wp-content/uploads/2022/04/Fruit-Chaat-Featured.jpg",
+        "title": "Fresh Fruit Chaat"
+      },
+      {
+        "img": "https://images.squarespace-cdn.com/content/5d10b2995d7640000181db5d/1701962474252-LVPBTLLIPA94D9IZ77C0/IMG_4231.jpeg",
+        "title": "Sattu Paratha"
+      },
+      {
+        "img": "https://www.yellowthyme.com/wp-content/uploads/2018/11/Raagi-Dosa-4-of-6.jpg",
+        "title": "Ragi Dosa"
+      },
+      {
+        "img": "https://www.kannammacooks.com/wp-content/uploads/multi-grain-idli-dosai-batter-recipe-1-4.jpg",
+        "title": "Multigrain Idli"
+      },
+      {
+        "img": "https://static.toiimg.com/thumb/58911578.cms?imgsize=147919&width=800&height=800",
+        "title": "Sprouts Chaat"
+      },
+      {
+        "img": "https://i0.wp.com/afrovitalityeats.com/wp-content/uploads/2017/07/Spicy-Caribbean-Chickpea-Curry-with-rice.jpg?ssl=1",
+        "title": "Chickpea Curry With Rice"
+      }
+      
+    ]
+  },
+  {
+    "label": "Indian Gluten Free Dite Food Recipe",
+
+    "slug": "Indian-Gluten-Free-Dite-Food-Recipe",
+
+    "description": "Indian gluten-free diet recipes focus on naturally gluten-free ingredients like rice, lentils, chickpea flour, millet, and fresh vegetables, offering a rich blend of spices and regional flavors suitable for gluten-sensitive individuals.",
+
+    "cuisines":"Discover a variety of delicious and healthy Indian gluten-free recipes that cater to celiac or gluten-intolerant diets. From savory dishes like Besan Chilla, Dhokla, and Ragi Dosa to sweet treats like Kheer and Coconut Ladoo, these recipes use traditional, wholesome ingredients such as gram flour, rice, millets, and legumes—completely free from wheat, barley, and rye. Perfect for maintaining a balanced, flavorful Indian diet without compromising on taste or tradition.",
+
+    "img": "https://www.thedailymeal.com/img/gallery/which-indian-dish-do-you-most-want-to-try-exclusive-survey/intro-1674072240.jpg",
+
+    "cities": [
+      {
+        "img": "https://www.indianveggiedelight.com/wp-content/uploads/2021/08/bombay-potatoes-featured-360x360.jpg",
+        "title": "Turmeric"
+      },
+      {
+        "img": "https://www.sipandfeast.com/wp-content/uploads/2023/12/antipasto-platter-board-recipe-snippet-480x270.jpg",
+        "title": "Antipasto Platter"
+      },
+      {
+        "img": "https://res.cloudinary.com/purnesh/image/upload/w_540,f_auto,q_auto:eco,c_limit/21657535517034.jpg",
+        "title": "Weelicious"
+      },
+      {
+        "img": "https://assets.delawaretoday.com/2023/08/indian-food.jpg",
+        "title": "Sweet Orange"
+      },
+      {
+        "img": "https://images.squarespace-cdn.com/content/v1/612d4825ee7c3b7ba3e215b7/1667458982443-N6XGU1PU7335QEMVUP7M/Delicious+food.png",
+        "title": "San Antonio"
+      },
+      {
+        "img": "https://legalnomads.smugmug.com/India/Jaipur-and-Ghost-Capital/i-brHCQgh/0/620x465/PB099096-620x465.jpg",
+        "title": "Tripadvisor"
+      },
+      {
+        "img": "https://static.toiimg.com/photo/91623605.cms",
+        "title": "Anipasto"
+      },
+      {
+        "img": "https://qph.cf2.quoracdn.net/main-qimg-8c47b686ea577e2d6dfe36eadaca2e53-lq",
+        "title": "Honey Cake"
+      },
+      {
+        "img": "https://www.healthifyme.com/blog/wp-content/uploads/2018/07/Indian-foods-feature-1024x683.jpeg",
+        "title": "San Antonio"
+      },
+      {
+        "img": "https://images.ctfassets.net/eexbcii1ci83/6OtN4KptCymRLwU8FZahSb/c20dbf0a1ec9fc40441c3c3c3fc7857f/Indian_non-veg_diet_plan_for_weight_loss.jpg",
+        "title": "Tripadvisor"
+      },
+      {
+        "img": "https://images.ctfassets.net/eexbcii1ci83/5r6PHf2iTfxOAjH9VkY6ml/baa3f881ffe29085e5303f17cb7ba3af/Indian_non-veg_Diet_plan.png",
+        "title": "Anipasto"
+      },
+      {
+        "img": "https://images1.livehindustan.com/uploadimage/library/2022/03/29/16_9/16_9_6/non_veg_diet_plan_1648556647.jpg",
+        "title": "Honey Cake"
+      },
+      {
+        "img": "https://cdn2.stylecraze.com/wp-content/uploads/2013/05/40-iStock-653770008.jpg",
+        "title": "San Antonio"
+      },
+      {
+        "img": "https://images.immediate.co.uk/production/volatile/sites/30/2023/02/High-protein-foods-268221e.jpg?quality=90&resize=556,505",
+        "title": "Tripadvisor"
+      },
+      {
+        "img": "https://www.healthifyme.com/blog/wp-content/uploads/2021/11/shutterstock_1520270954-1.jpg",
+        "title": "Anipasto"
+      },
+      {
+        "img": "https://static.toiimg.com/thumb/msid-67851393,width-400,resizemode-4/67851393.jpg",
+        "title": "Honey Cake"
+      },
+      {
+        "img": "https://www.healthifyme.com/blog/wp-content/uploads/2023/05/shutterstock_519485686-1.jpg",
+        "title": "San Antonio"
+      },
+      {
+        "img": "https://hips.hearstapps.com/hmg-prod/images/close-up-of-healthy-salad-with-quinoa-green-peas-royalty-free-image-1638813663.jpg?crop=0.668xw:1.00xh;0.197xw,0&resize=2048:*",
+        "title": "Tripadvisor"
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV927jaSArp1VVV3-d2jAjUpFQ_SJSgepZSg&s",
+        "title": "Anipasto"
+      },
+      {
+        "img": "https://www.eatright.org/-/media/images/eatright-articles/eatright-article-thumbnails/whatistheketogenicdiet_600x450.jpg?h=450&w=600&rev=a611c614832d4b5fbc2bc87944f1353d&hash=5322C897F390BB4713E3E123EE5AF812",
+        "title": "Honey Cake"
+      }
+    ]
+  },
+  {
+    "label": "Indian Lactic Free Desserts",
+
+    "slug": "Indian-Lactic-Free-Desserts",
+
+    "description": "Indian lactose-free desserts are made without dairy products like milk, cream, or ghee, using plant-based alternatives and naturally dairy-free ingredients to create traditional sweets that are safe for lactose-intolerant individuals.",
+
+    "cuisines":"Explore a range of delicious Indian desserts crafted without any dairy, perfect for those with lactose intolerance or following a dairy-free lifestyle. From Coconut Barfi made with coconut milk to Dates and Nuts Ladoo, Jaggery-Sweetened Kheer with almond milk, and Vegan Halwa, these recipes offer all the traditional richness and flavor without milk, cream, or ghee. Using ingredients like almond milk, coconut milk, jaggery, dates, and dry fruits, these treats are both indulgent and gentle on the stomach.",
+
+    "img": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/flourless_chocolate_cake_43623_16x9.jpg",
+    
+    "cities": [
+      {
+        "img": "https://c.ndtvimg.com/2022-12/g0tqlbmg_halwa_625x300_17_December_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+        "title": "Moong Dal Halwa"
+      },
+      {
+        "img": "https://www.funfoodfrolic.com/wp-content/uploads/2020/10/Suji-Halwa-Thumbnail.jpg",
+        "title": "Suji Halwa"
+      },
+      {
+        "img": "https://images.squarespace-cdn.com/content/v1/5cef7b136434550001a53d10/1561025096405-7O56TFDEHHUBJP2QU39O/sweetpotatogulabjamuns.jpg",
+        "title": "Sweet Potato Gulab Jamun"
+      },
+      {
+        "img": "https://www.ruchiskitchen.com/wp-content/uploads/2017/03/Jalebi-recipe-1-1-500x500.jpg",
+        "title": "Jalebi"
+      },
+      {
+        "img": "https://img-global.cpcdn.com/recipes/20e27bcdeeb424f6/240x320cq80/photo.jpg",
+        "title": "Almond Milk Rava Kesari"
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTck50rKYfSVs2RDkcOp5mwp38zzSxURTZbgQ&s",
+        "title": "Paruppu Payasam"
+      },
+      {
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2021/08/Atta-Halwa-2-3.jpg",
+        "title": "Ahe Ka Sheera"
+      },
+      {
+        "img": "https://www.giftsmyntra.com/wp-content/uploads/2021/04/laddu2.jpg",
+        "title": "Moti Choor Ladoo"
+      },
+      {
+        "img": "https://vegecravings.com/wp-content/uploads/2017/07/malpua-recipe-step-by-step-instructions-17.jpg",
+        "title": "Malpua"
+      },
+      {
+        "img": "https://www.cookwithkushi.com/wp-content/uploads/2021/09/ganesh-chaturthi-modak-featured.jpg",
+        "title": "Modak"
+      },
+      {
+        "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2014/05/pumpkin-halwa-recipe-500x500.jpg",
+        "title": "Pumpkin Halwa"
+      },
+      {
+        "img": "https://meethikahani.com/cdn/shop/products/CopyofIMG_9872.jpg?v=1631973007",
+        "title": "Imarti"
+      },
+      {
+        "img": "https://5.imimg.com/data5/ECOM/Default/2022/11/BF/KC/UP/13510045/11-51a42f5f-84e5-4a68-8904-2fdd84725364-500x500.jpg",
+        "title": "Kesari Mohanthal"
+      },
+      {
+        "img": "https://panchhipetha.com/cdn/shop/products/kesarelaichicherry8906094660088_cca26ed8-fa5a-4b7c-a233-99efb14155c8.jpg?v=1702374973",
+        "title": "Kesari Angoori Petha"
+      },
+      {
+        "img": "https://indiasweethouse.in/cdn/shop/files/KajuKatli.jpg?v=1685445876",
+        "title": "Kaju Katli"
+      },
+      {
+        "img": "https://www.cookwithmanali.com/wp-content/uploads/2019/09/Sweet-Boondi-500x500.jpg",
+        "title": "Sweet Boondi"
+      },
+      {
+        "img": "https://bansiwala.co.in/cdn/shop/files/Gujiya_01.jpg?v=1698482860",
+        "title": "Gujiya"
+      },
+      {
+        "img": "https://www.indianveggiedelight.com/wp-content/uploads/2020/08/instant-pot-badam-halwa-featured.jpg",
+        "title": "Badam Ka Halwa"
+      },
+      {
+        "img": "https://aromaticessence.co/wp-content/uploads/2015/06/nankhatai_featured.jpg",
+        "title": "Naan Khatai"
+      },
+      {
+        "img": "https://cookwithrenu.com/wp-content/uploads/2020/09/Mishti-Doi-_Featured-Image-500x500.jpg",
+        "title": "Soya Mithai Dhoi"
+      }
+    ]
+  },
+  {
+    "label": "Indian Eatable Raw Foods",
+
+    "slug": "Indian-Eatable-Raw-Foods",
+
+    "description": "Indian eatable raw foods are natural, unprocessed ingredients like fruits, vegetables, nuts, seeds, and certain sprouted legumes, often consumed for their high nutritional value and digestive benefits in holistic diets.",
+
+    "cuisines":"Indian raw foods form a vital part of traditional and modern health-conscious diets. These include fresh fruits like bananas, papaya, and mangoes; vegetables such as cucumber, carrots, and tomatoes; and nutrient-rich items like sprouted moong, soaked almonds, dates, coconut, and flaxseeds. Often enjoyed as salads, smoothies, chutneys, or snacks, these raw foods support detoxification, aid digestion, and boost immunity, aligning with Ayurvedic and natural food principles.",
+
+    "img": "https://grazia.wwmindia.com/content/2019/oct/food41571904279.jpg",
+    
+    "cities": [
+      {
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2021/01/Kachumber-2-3.jpg",
+        "title": "Kuchumbri Salad"
+      },
+      {
+        "img": "https://www.funfoodfrolic.com/wp-content/uploads/2020/09/Sprout-Salad-Thumbnail.jpg",
+        "title": "Sprouted Salad"
+      },
+      {
+        "img": "https://yumveganlunchideas.com/wp-content/uploads/2020/09/banana-beet-smoothie-768x1024.jpg.webp",
+        "title": "Beetroot Banana Smoothie"
+      },
+      {
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2020/05/Mango-Lassi-2-3.jpg",
+        "title": "Mango Lassi"
+      },
+      {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b2/DriedfruitS.jpg",
+        "title": "Dried Fruits"
+      },
+      {
+        "img": "https://www.meatloafandmelodrama.com/wp-content/uploads/2023/04/tropical-fruit-salad-square.jpeg",
+        "title": "Fresh Fruit Salad"
+      },
+      {
+        "img": "https://www.indianveggiedelight.com/wp-content/uploads/2020/03/turmeric_milk-2-1.jpg",
+        "title": "Haldi Milk"
+      },
+      {
+        "img": "https://www.panningtheglobe.com/wp-content/uploads/2018/04/Cucumber-raita-sq.jpg",
+        "title": "Cucumber Raita"
+      },
+      {
+        "img": "https://foodtasia.com/wp-content/uploads/2021/07/banana-milkshake-34.jpg",
+        "title": "Banana Milk Shake"
+      },
+      {
+        "img": "https://img-global.cpcdn.com/recipes/4a1d2126eaef4a2b/400x400cq70/photo.jpg",
+        "title": "Gudh Ka Raab"
+      },
+      {
+        "img": "https://sharethespice.com/wp-content/uploads/2023/01/Garlic-Chutney.jpg",
+        "title": "Lassoni Chutney"
+      },
+      {
+        "img": "https://spicecravings.com/wp-content/uploads/2020/09/Mint-Chutney-Featured-1.jpg",
+        "title": "Mint Chutney"
+      },
+      {
+        "img": "https://www.cookwithkushi.com/wp-content/uploads/2021/08/dahi_poha_curd_poha_gopalkala.jpg",
+        "title": "Dudh Dahi Poha"
+      },
+      {
+        "img": "https://delightfulmomfood.com/wp-content/uploads/2022/12/citrus-salad-recipe.jpg",
+        "title": "Detox Food Fruit Salad"
+      },
+      {
+        "img": "https://www.balcalnutrefy.com/wp-content/uploads/2022/03/Dudh-Poha.jpg",
+        "title": "Soaked Poha Milk With Nuts"
+      },
+      {
+        "img": "https://images.squarespace-cdn.com/content/v1/578753d7d482e9c3a909de40/1637034512351-S1MM1G6UIHYR7ITZ2CKH/main-qimg-8d4e0e33822615b3ff4259798f8e2add.jpeg?format=2500w",
+        "title": "Sattu"
+      },
+      {
+        "img": "https://www.cookwithmanali.com/wp-content/uploads/2015/03/Thandai-Indian-Drink-500x500.jpg",
+        "title": "Thandi"
+      },
+      {
+        "img": "https://4.imimg.com/data4/FP/ND/MY-36248737/anjeer-dry-fruits-burfi-500x500.jpg",
+        "title": "Khajoor Anjeer"
+      },
+      {
+        "img": "https://5.imimg.com/data5/WI/BP/MY-28856529/dry-fruit-laddu-500x500.jpg",
+        "title": "Mewa Ladoo"
+      },
+      {
+        "img": "https://www.vidhyashomecooking.com/wp-content/uploads/2022/06/DatesAndGulkandLassi.jpg",
+        "title": "Mewa Lassi"
+      }
+    ]
+  },
+  {
+    "label": "Indian Healthy Meals",
+
+    "slug": "Indian-Healthy-Meals",
+
+    "description": "Indian healthy meals combine balanced nutrition with traditional flavors, emphasizing whole grains, legumes, vegetables, and spices to support wellness without compromising on taste.",
+
+    "cuisines":"Indian healthy meals are rooted in age-old culinary traditions and Ayurveda, offering a variety of wholesome options like Khichdi, Vegetable Dalia, Moong Dal with Brown Rice, Roti with Sabzi, and Idli with Sambar. These meals prioritize nutrient-dense ingredients such as lentils, whole grains, seasonal vegetables, and healthy fats like mustard or coconut oil. Rich in fiber, protein, and antioxidants, they promote good digestion, sustained energy, and overall wellness. Perfect for weight management, diabetes-friendly diets, or simply clean eating.",
+
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGu8ustiJM8aWmo4zKtE4XDlpQRNzYzXCrMg&s",
+    
+    "cities": [
+      {
+        "img": "https://veganbell.com/wp-content/uploads/2021/09/Dal-Chawal-7.jpg",
+        "title": "Dal Chawal"
+      },
+      {
+        "img": "https://www.vikhrolicucina.com/uploads/stories/1582355956_Rajmachawal.jpg",
+        "title": "Rajma Chawal"
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS0SWidLK9u6cobLfddXSXtS3S7QLXAbhHCg&s",
+        "title": "Cholla Chawal"
+      },
+      {
+        "img": "https://d3pc1xvrcw35tl.cloudfront.net/sm/images/1260x945/dahi-khichdi_20180948201.jpg",
+        "title": "Khicdhi Dahi"
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_8_Ch4P46l-p7qhxD1Q3zHdzYM9oQqmt-5w&s",
+        "title": "Multigrain Khichdi"
+      },
+      {
+        "img": "https://dailyreveries.com/wp-content/uploads/2023/06/IMG_20230607_080625.jpg",
+        "title": "Raggi Idli Coconuts"
+      },
+      {
+        "img": "https://img77.uenicdn.com/image/upload/v1621665211/business/0f0632d1-8acb-4c58-8094-3535cb248d7a.jpg",
+        "title": "Tandoori Soya Chap Roll"
+      },
+      {
+        "img": "https://images.slurrp.com/prod/recipe_images/transcribe/nan/Tawa-Fish.webp",
+        "title": "Tawa Fry Fish"
+      },
+      {
+        "img": "https://preview.redd.it/h26bcipl80la1.jpg?width=640&crop=smart&auto=webp&s=48c8be70b64c7ac7e0a1d986e3cc0c868b7a87d5",
+        "title": "Roti Sabji"
+      },
+      {
+        "img": "https://i0.wp.com/onewholesomemeal.com/wp-content/uploads/2020/01/Litti-Chokha.jpg?fit=864%2C1080&ssl=1",
+        "title": "Litti Chokha"
+      },
+      {
+        "img": "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg",
+        "title": "Palak Paneer"
+      },
+      {
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/10/veg-paratha-recipe-1.jpg",
+        "title": "Mix Vegetable Paratha"
+      },
+      {
+        "img": "https://static.toiimg.com/thumb/54672891.cms?imgsize=226897&width=800&height=800",
+        "title": "Gosht Haleem"
+      },
+      {
+        "img": "https://i0.wp.com/kitchenflavours.net/wp-content/uploads/2008/09/Guntur-Khichdi.jpg?ssl=1",
+        "title": "Gosht Khichdi"
+      },
+      {
+        "img": "https://i.pinimg.com/736x/30/ee/a4/30eea49bf87257252b79f61855bbe0b9.jpg",
+        "title": "Chicken Roomali Roti"
+      },
+      {
+        "img": "https://www.munatycooking.com/wp-content/uploads/2023/10/Yakhni-Pulao-feature-image-2023-500x500.jpg",
+        "title": "Gosht Yakhni Pulao"
+      },
+      {
+        "img": "https://www.scrumptiously.com/wp-content/uploads/2023/02/MuttonNihari-500x500.webp",
+        "title": "Nihari Khameri Roti"
+      },
+      {
+        "img": "https://images.immediate.co.uk/production/volatile/sites/30/2022/03/Sesame-salmon-purple-sprouting-broccoli-sweet-potato-mash-02-8062a36.jpg?quality=90&resize=556,505",
+        "title": "Tripadvisor"
+      },
+      {
+        "img": "https://media1.popsugar-assets.com/files/thumbor/q_eu4G_Yfvd1qUU7rkJYpC9Qalk/0x532:1560x2092/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/11/18/102/n/1922729/2010a3325dd3450317e273.27544324_/i/healthy-meal-prep-dinner-recipes.jpg",
+        "title": "Anipasto"
+      },
+      {
+        "img": "https://www.eatingwell.com/thmb/QYZnBgF72TIKI6-A--NyoPa6avY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/greek-salmon-bowl-f681500cbe054bb1adb607ff55094075.jpeg",
+        "title": "Honey Cake"
+      }
+    ]
+  },
+  {
+    "label": "Indian Kids Lunch Box Ideas",
+
+    "slug": "Indian-Kids-Lunch-Box-Ideas",
+
+    "description": "Indian kids' lunch box ideas focus on fun, tasty, and nutritious meals that are easy to eat, balanced in nutrients, and appeal to young taste buds, ensuring energy and concentration through the school day.",
+
+    "cuisines":"Preparing a lunchbox for kids can be exciting with a mix of colorful, healthy, and delicious Indian dishes. From vegetable paratha rolls, idli with chutney, and paneer-stuffed chapati pockets to mini uthappams, poha, and fruity curd rice, these meals are packed with flavor and essential nutrients. Designed to be easy to handle and digest, these lunchbox ideas ensure variety, encourage healthy eating habits, and help avoid processed snacks. They're perfect for busy mornings and picky eaters alike!",
+
+    "img": "https://i0.wp.com/stanzaliving.wpcomstaging.com/wp-content/uploads/2022/04/1f6a1-shutterstock_1520215046-min.jpg",
+    
+    "cities": [
+      {
+        "img": "https://www.kannammacooks.com/wp-content/uploads/masala-poori-homemade-chaat-street-side-recipe-5.jpg",
+        "title": "Masala Puri Lemon Pickle"
+      },
+      {
+        "img": "https://www.funfoodfrolic.com/wp-content/uploads/2022/05/Veg-Pulao-Blog.jpg",
+        "title": "Vegetable Pulao"
+      },
+      {
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/03/aloo-masala-grilled-sandwich-1.jpg",
+        "title": "Aloo Sandwich"
+      },
+      {
+        "img": "https://img-global.cpcdn.com/recipes/3ad5b61d118fd588/400x400cq70/photo.jpg",
+        "title": "Idli With Coconet Chutney"
+      },
+      {
+        "img": "https://sinfullyspicy.com/wp-content/uploads/2023/10/1200-by-1200-images-2-1-500x500.jpg",
+        "title": "Bharwa Aloo Kachori"
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKN8C5fLz9mnCa39r25-3qz7yOn45l9Q-Vjg&s",
+        "title": "Vegetable Nuts Uttapam"
+      },
+      {
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2016/09/sooji-chilla-recipe-1.jpg",
+        "title": "Dahi Suji Cheela"
+      },
+      {
+        "img": "https://www.orderyourchoice.com/114971-large_default/pune-malai-sandwich.jpg",
+        "title": "Malai Fruit's Sandwich"
+      },
+      {
+        "img": "https://www.funfoodfrolic.com/wp-content/uploads/2022/08/Soya-Chaap-Blog.jpg",
+        "title": "Soya Chaap Roll"
+      },
+      {
+        "img": "https://assets.epicurious.com/photos/5fdce662a3638a389ff839b0/1:1/w_2560%2Cc_limit/BombayToastie_HERO_RECIPE_2-121620_6533.jpg",
+        "title": "Cheese Masala Toost"
+      },
+      {
+        "img": "https://vegecravings.com/wp-content/uploads/2017/07/sabudana-vada-recipe-step-by-step-instructions.jpg",
+        "title": "Sabutdana Tikki With Chutney"
+      },
+      {
+        "img": "https://i0.wp.com/foodtrails25.com/wp-content/uploads/2023/09/Moonglet.jpg?fit=1200%2C1200&ssl=1",
+        "title": "Moonglet Sweet Chutney"
+      },
+      {
+        "img": "https://static.toiimg.com/thumb/53334567.cms?imgsize=1050838&width=800&height=800",
+        "title": "Cheese Stuff Paratha"
+      },
+      {
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/10/veg-paratha-recipe-1.jpg",
+        "title": "Vegetable Paratha"
+      },
+      {
+        "img": "https://rakskitchen.net/wp-content/uploads/2021/11/gud-ka-paratha.jpg",
+        "title": "Dates Jaggery Paratha"
+      },
+      {
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2020/04/Semiya-Upma-3.jpg",
+        "title": "Pea's Seivya Pulao"
+      },
+      {
+        "img": "https://www.indiaathome.co.nz/cdn/shop/articles/WhatsApp_Image_2023-06-15_at_13.22.53_1170x.jpg?v=1686823263",
+        "title": "Besan Cheela Stuff With Paneer Masala"
+      },
+      {
+        "img": "https://spicecravings.com/wp-content/uploads/2022/04/Fruit-Chaat-Featured.jpg",
+        "title": "Fruit Chat"
+      },
+      {
+        "img": "https://www.mygingergarlickitchen.com/wp-content/rich-markup-images/1x1/1x1-jeera-aloo.jpg",
+        "title": "Zeera Aloo With Butter Roti"
+      },
+      {
+        "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/sabudana-khichdi-recipe.jpg",
+        "title": "Sabutdana Khichdi"
+      }
+    ]
+  },
+  {
+    "label": "Indian Quick Easy Meal",
+
+    "slug": "Indian-Quick-Easy-Meal",
+
+    "description": "Indian quick and easy meals are simple, time-saving dishes made with minimal ingredients and effort—perfect for busy schedules without compromising on authentic flavor.",
+
+    "cuisines":"Indian quick & easy meals offer fast yet flavorful options ideal for breakfast, lunch, or dinner. Popular dishes include Upma, Poha, Masala Omelette, Tamarind Rice, Besan Chilla, and One-Pot Khichdi. These recipes typically use pantry staples like rice, lentils, semolina, and basic spices, and can be made in under 30 minutes. Perfect for working professionals, students, or anyone looking for fuss-free cooking that doesn’t sacrifice taste or nutrition.",
+
+    "img": "https://www.tastingtable.com/img/gallery/strawberry-chicken-salad-recipe/l-intro-1638823285.jpg",
+    
+    "cities": [
+      {
+        "img": "https://www.livingsmartandhealthy.com/wp-content/uploads/2023/08/dalia.jpg",
+        "title": "Daliya"
+      },
+      {
+        "img": "https://www.funfoodfrolic.com/wp-content/uploads/2022/06/Masala-Khichid-Blog.jpg",
+        "title": "Vegetable Khichdi"
+      },
+      {
+        "img": "https://www.mrishtanna.com/wp-content/uploads/2018/04/poha-indian-breakfast-recipe.jpg",
+        "title": "Poha"
+      },
+      {
+        "img": "https://www.cookwithmanali.com/wp-content/uploads/2019/03/Rice-and-Dal-Instant-Pot-500x500.jpg",
+        "title": "Dal And Rice"
+      },
+      {
+        "img": "https://ministryofcurry.com/wp-content/uploads/2023/11/Kolkatta-Egg-Roll-4.jpg",
+        "title": "Egg Roll"
+      },
+      {
+        "img": "https://www.indianveggiedelight.com/wp-content/uploads/2022/08/curd-rice-featured.jpg",
+        "title": "Curd Rice"
+      },
+      {
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/09/rava-dosa-recipe-1.jpg",
+        "title": "Rava Dosa"
+      },
+      {
+        "img": "https://www.indianveggiedelight.com/wp-content/uploads/2022/12/besan-chilla-recipe-featured.jpg",
+        "title": "Besan Ka Cheela"
+      },
+      {
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/07/suji-halwa-recipe.jpg",
+        "title": "Suji Ka Sheera"
+      },
+      {
+        "img": "https://assets.bonappetit.com/photos/63cb14735125107865c0fe8f/1:1/w_2560%2Cc_limit/012023-pav-bhaji-lede.jpg",
+        "title": "Pav Bhaji"
+      },
+      {
+        "img": "https://www.africanbites.com/wp-content/uploads/2015/03/IMG_3762-1-533x650.jpg",
+        "title": "Bhajias"
+      },
+      {
+        "img": "https://rakskitchen.net/wp-content/uploads/2014/05/vaangi-baath.jpg",
+        "title": "Lemon Rice And Curd"
+      },
+      {
+        "img": "https://palatesdesire.com/wp-content/uploads/2022/05/Indian-chicken-pulao-recipe@palates-desire-1.jpg",
+        "title": "Chicken Pulao"
+      },
+      {
+        "img": "https://i.pinimg.com/736x/12/08/57/1208571b2e0258ead9abb839c73800d7.jpg",
+        "title": "Mewa Dudh"
+      },
+      {
+        "img": "https://www.cookwithmanali.com/wp-content/uploads/2018/01/Peanut-Chikki-500x500.jpg",
+        "title": "Shengdana Chikki"
+      },
+      {
+        "img": "https://www.licious.in/blog/wp-content/uploads/2020/12/Egg-Bhurji.jpg",
+        "title": "Eggs Bhujia"
+      },
+      {
+        "img": "https://www.harighotra.co.uk/images/recipes/hero/beetroot_carrot_shorba_hero.jpg",
+        "title": "Carrot And Beetroot Shorba"
+      },
+      {
+        "img": "https://maayeka.com/wp-content/uploads/2016/10/Mix-fruit-chutney-relish.jpg",
+        "title": "Mix Fruit Chutney"
+      },
+      {
+        "img": "https://www.indianveggiedelight.com/wp-content/uploads/2020/08/mango-lassi-featured-500x500.jpg",
+        "title": "Mango Lassi"
+      },
+      {
+        "img": "https://www.sharmispassions.com/wp-content/uploads/2014/10/DoodhPeda3-475x500.jpg",
+        "title": "Dry Milk Peda"
+      }
+    ]
+  },
+  {
+    "label": "Indian Healthy Salads",
+
+    "slug": "Indian-Healthy-Salads",
+
+    "description": "Indian healthy salads are nutrient-rich, flavorful combinations of fresh vegetables, sprouts, fruits, herbs, and spices that promote wellness and complement traditional meals.",
+
+    "cuisines":"Indian healthy salads go beyond basic greens, incorporating local, seasonal ingredients and bold flavors. Popular choices include Sprouted Moong Salad, Kachumber (cucumber-onion-tomato mix), Chana Chaat, Beetroot-Carrot Salad, and Fruit Chaat. Dressed with lemon, rock salt, and spices like chaat masala or cumin, these salads are rich in fiber, vitamins, and antioxidants. They're ideal as light meals, detox options, or vibrant sides that add crunch, color, and health to any plate.",
+
+    "img": "https://insanelygoodrecipes.com/wp-content/uploads/2021/07/Lentil-Salad-with-Cherry-Tomatoes-and-Onions.jpg",
+    
+    "cities": [
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_dhuBI8L5djOT35xgpfByLtoRuaJ9m5JnPQ&s",
+        "title": "Aloo Chana Chaat"
+      },
+      {
+        "img": "https://carveyourcraving.com/wp-content/uploads/2021/10/paneer-tikka-skewers.jpg",
+        "title": "Tandoori Shashlik Paneer Tikka Chaat"
+      },
+      {
+        "img": "https://unsophisticook.com/wp-content/uploads/2019/06/Pea-Salad-Recipe.jpg",
+        "title": "Roasted Peanut Pea Salad"
+      },
+      {
+        "img": "https://veggiecurean.com/wp-content/uploads/2019/09/Coconut-String-Beans-Blog-1-1.jpg",
+        "title": "Beans Salad Dessecated Coconut"
+      },
+      {
+        "img": "https://www.twopeasandtheirpod.com/wp-content/uploads/2023/07/Mango-Salad-0715-500x500.jpg",
+        "title": "Mint Mango Salad"
+      },
+      {
+        "img": "https://assets.bonappetit.com/photos/5f32b10ad8a686d03a8e3087/1:1/w_2560%2Cc_limit/Caesar-Salad-Roast-Chicken.jpg",
+        "title": "Roasted Butter Chicken Salad"
+      },
+      {
+        "img": "https://greenbowl2soul.com/wp-content/uploads/2023/02/onion-salad.jpg",
+        "title": "Chaat Ka Lachha Salad"
+      },
+      {
+        "img": "https://www.eatingwell.com/thmb/lmFhiyi1unjnrfredtjH5TPXrS8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5486639-78975d3be542457690d1b9fe31430cf9.jpg",
+        "title": "Corn Spinach Salad"
+      },
+      {
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/11/fruit-custard-4.jpg",
+        "title": "Fruit Custard Salad"
+      },
+      {
+        "img": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_730,h_913/k%2FPhoto%2FRecipes%2F2021-04-beet-and-strawberry-salad%2Fk-photo-2021-03-beet-strawberry-salad-05",
+        "title": "Beetroot lemon Drissing Salad"
+      },
+      {
+        "img": "https://i0.wp.com/www.lifeisforfood.com/wp-content/uploads/2023/06/kakdi-koshimbir-13.jpg?resize=1024%2C1024&ssl=1",
+        "title": "Kakdi Karonda Salad"
+      },
+      {
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/04/moong-sprouts-salad-recipe-1.jpg",
+        "title": "Masala Sproute Salad"
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe3tG2vK1dswTFv57GeIdWIY9gApDq266Vww&s",
+        "title": "Tomato Rajma Salad"
+      },
+      {
+        "img": "https://www.acouplecooks.com/wp-content/uploads/2022/02/Ranch-Dip-005.jpg",
+        "title": "Vegetable Curd Dip Salad"
+      },
+      {
+        "img": "https://cre8athome.com/wp-content/uploads/2021/12/mango-and-pomegranate-salad-featured.jpg",
+        "title": "Ripe Mango And Pomegranate Salad"
+      },
+      {
+        "img": "https://www.funfoodfrolic.com/wp-content/uploads/2023/01/Kosambir-Blog.jpg",
+        "title": "Kosambari Salad"
+      },
+      {
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2021/01/Kachumber-2-3.jpg",
+        "title": "Kachumber Salad"
+      },
+      {
+        "img": "https://www.licious.in/blog/wp-content/uploads/2020/12/Tandoori-Fish.jpg",
+        "title": "Tandoori Fish Jaitoon"
+      },
+      {
+        "img": "https://www.daringgourmet.com/wp-content/uploads/2024/01/Fruit-Chaat-Recipe-13.jpg",
+        "title": "Tandoori Fruit Salad"
+      },
+      {
+        "img": "https://wendypolisi.com/wp-content/uploads/2020/01/SQ-roasted-sweet-potato-salad-2.jpg",
+        "title": "Roasted Sweet Potato Salad"
+      }
+    ]
+  },
+  {
+    "label": "World's Soups",
+
+    "slug": "World's-Soups",
+
+    "description": "Soups from around the world reflect diverse culinary traditions—ranging from light broths to hearty stews—made with local ingredients, cultural spices, and traditional cooking methods.",
+
+    "cuisines":"Soups are a universal comfort food, found in every culture with unique regional flavors. From Tom Yum in Thailand and Miso Soup in Japan to French Onion Soup, Italian Minestrone, Moroccan Harira, Russian Borscht, and Mexican Tortilla Soup, each bowl tells a story. Whether creamy, spicy, clear, or chunky, these soups offer warmth, nutrition, and taste. They can serve as appetizers, meals, or remedies, and often highlight a nation’s culinary identity through herbs, broths, grains, and vegetables.",
+
+    "img": "https://media.cnn.com/api/v1/images/stellar/prod/210219165951-03-world-best-soups.jpg",
+    
+    "cities": [
+      {
+        "img": "https://assets.bonappetit.com/photos/57aca0e0f1c801a1038bc671/1:1/w_2560%2Cc_limit/summer-gazpacho.jpg",
+        "title": "Gozpacho (Spain)"
+      },
+      {
+        "img": "https://skinnyspatula.com/wp-content/uploads/2021/04/Vegan_Harira_Soup4-720x720.jpg",
+        "title": "Harira (Morocco)"
+      },
+      {
+        "img": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/Mulligatawny-soup-dd4e571.jpg?quality=90&resize=556,505",
+        "title": "Mulligatawny (India)"
+      },
+      {
+        "img": "https://www.marionskitchen.com/wp-content/uploads/2023/05/Katong-Laksa-03.jpg",
+        "title": "Laksa (Singapore)"
+      },
+      {
+        "img": "https://www.unicornsinthekitchen.com/wp-content/uploads/2019/02/Turkish-yogurt-soup-SQ.jpg",
+        "title": "Yayla Corbasi (Turkey)"
+      },
+      {
+        "img": "https://kristineskitchenblog.com/wp-content/uploads/2022/02/minestrone-soup-recipe-22.jpg",
+        "title": "Mines Trone (Italy)"
+      },
+      {
+        "img": "https://carveyourcraving.com/wp-content/uploads/2020/12/Spicy-tom-yum-soup.jpg",
+        "title": "Tom Yum (Thailand)"
+      },
+      {
+        "img": "https://cdn.loveandlemons.com/wp-content/uploads/2022/09/tortilla-soup.jpg",
+        "title": "Tortilla (Mexico)"
+      },
+      {
+        "img": "https://www.daringgourmet.com/wp-content/uploads/2021/01/Caldo-Verde-4.jpg",
+        "title": "Caldo Verde (Portugal)"
+      },
+      {
+        "img": "https://takestwoeggs.com/wp-content/uploads/2022/11/Pho%CC%9B%CC%89-Ga-Vietnamese-Chicken-Pho-Soup-Takestwoeggs-Final-Photography-sq.jpg",
+        "title": "Pho (Vietnam)"
+      },
+      {
+        "img": "https://img.cuisineaz.com/660x660/2015/02/26/i20965-soupe-a-l-oignon-gratinee-facile.jpg",
+        "title": "Soupe à l'Oignon Gratinée (France)"
+      },
+      {
+        "img": "https://dfbkuy5licyr9.cloudfront.net/wp-content/uploads/2021/04/Homemade-Wonton-Soup.jpg?x39145",
+        "title": "Wonton (China)"
+      },
+      {
+        "img": "https://revistaconecta.es/wp-content/uploads/2021/04/chupe_FCw7EtAKhHBRzIecsV2bYmag14kL9G-e1617295830348.jpg",
+        "title": "Chupe De Mariso (Peru)"
+      },
+      {
+        "img": "https://static01.nyt.com/images/2019/01/11/dining/jm-indonesian-chicken-soup/merlin_148333161_f25722c1-83e2-4019-942f-0ae44bfe702f-square640.jpg",
+        "title": "Soto (Indonesia)"
+      },
+      {
+        "img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Country-Fish-Chowder_EXPS_SBZ19_3580_C09_14_7b.jpg",
+        "title": "Chowder (USA)"
+      },
+      {
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9oTqB_j6Ong_cpePNmHXowjhVWO4COa3AjDSI-DRO-utug6VHKLcq0jke1UOUQICsdaKbZQEqn3tPYkvVuEPAf08ILGl6OlWirfmUJm295W6iJj9HR1JcDVH-MWU7Rp3JPV8t8aQqO3kR/s1600/tacac%C3%A12.jpg",
+        "title": "Tocaco (Brazil)"
+      },
+      {
+        "img": "https://www.hairybikers.com/uploads/images/_recipeImage/BeefGoulash.jpg",
+        "title": "Goulash (Hungary)"
+      },
+      {
+        "img": "https://www.eatingwell.com/thmb/4fnD8Xz78-rOpyXl0yNpj4ZFp9c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tinola-filipino-ginger-garlic-chicken-soup-hero-06-44cf1e004d7d45cf9b3d8bfcb9cdcd25.jpg",
+        "title": "Tinola (Philippines)"
+      },
+      {
+        "img": "https://www.mydiasporakitchen.com/wp-content/uploads/2018/09/savingpng-232-1024x1024.jpg",
+        "title": "Efo Elegusi (Nigeria)"
+      },
+      {
+        "img": "https://thehintofrosemary.com/wp-content/uploads/2020/02/ramen-cover-500x500.jpg",
+        "title": "Romen (Japan)"
+      }
+    ]
+  }
+
+
+]

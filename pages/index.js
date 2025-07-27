@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Image from 'next/image';
+import { motion } from 'framer-motion';
 
 export default function Home() {
   
@@ -7,27 +8,47 @@ export default function Home() {
   return (
     <div>
 
-      <div className="flex items-center justify-between pt-4 md:pt-0">
+      <motion.div
+       className="flex items-center justify-between pt-1 md:pt-0"
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 0.5, duration: 1 }}
+       >
         <img
           src="https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/miso_salmon_rice_bowl_77368_16x9.jpg"
           alt="SAMRIT"
           className="w-full max-h-[465px] object-cover"
         />
-      </div>
+      </motion.div>
 
       {/* Text Box */}
-      <div className="md:absolute md:top-[27rem] bg-white p-4 hover:text-blue-700 md:m-5 w-[100%] md:w-[60%] md:mt-4">
+      <motion.div
+       className="md:absolute md:top-[24rem] bg-white p-4 hover:text-blue-700 md:m-5 w-[100%] md:w-[60%] md:mt-4"
+        initial={{ opacity: 0, y: 50 }} 
+        animate={{ opacity: 1, y: 0 }}   
+        transition={{ delay: 0.5, duration: 1 }}
+      >
         <h2 className="text-[28px] font-bold mb-4">Easy summer bowls</h2>
         <p className="hidden md:block text-[18px] mb-4">
           Quick and nourishing, these super bowls deserve a place on your midweek dinner rotation
         </p>
         <span className="uppercase text-sm font-medium">Collection</span>
-      </div>
+      </motion.div>
      
-      <div className="flex flex-col md:flex-row gap-4 p-4 md:pt-8">
+      <motion.div
+       className="flex flex-col md:flex-row gap-4 p-4 md:pt-8"
+       initial={{ opacity: 0, y: 50 }} 
+       animate={{ opacity: 1, y: 0 }}   
+       transition={{ delay: 0.5, duration: 1 }}
+      >
 
       
-      <div className="bg-white w-full md:w-[60%] flex">
+      <motion.div 
+        className="bg-white w-full md:w-[60%] flex"
+        initial={{ opacity: 0, y: 50 }} 
+        animate={{ opacity: 1, y: 0 }}   
+        transition={{ delay: 0.5, duration: 1 }}
+      >
         <img
           src="https://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/breakfast_quesadilla_37513_16x9.jpg"
           alt="Brunch club"
@@ -40,10 +61,15 @@ export default function Home() {
           </p>
           <span className="text-blue-500 font-medium text-xs md:text-sm mt-1 block">COLLECTION</span>
         </div>
-      </div>
+      </motion.div>
 
       
-      <div className="bg-white w-full md:w-[20%] flex md:block">
+      <motion.div 
+        className="bg-white w-full md:w-[20%] flex md:block"
+        initial={{ opacity: 0, y: 50 }} 
+        animate={{ opacity: 1, y: 0 }}   
+        transition={{ delay: 0.5, duration: 1 }}
+      >
         <img
           src="https://ichef.bbci.co.uk/food/ic/food_16x9_320/recipes/potato_green_bean_salad_67001_16x9.jpg"
           alt="Best barbecue sides"
@@ -55,10 +81,15 @@ export default function Home() {
           </h2>
           <span className="text-blue-500 font-medium text-xs md:text-sm mt-1 block">COLLECTION</span>
         </div>
-      </div>
+      </motion.div>
 
      
-      <div className="bg-white w-full md:w-[20%] flex md:block">
+      <motion.div 
+        className="bg-white w-full md:w-[20%] flex md:block"
+        initial={{ opacity: 0, y: 50 }} 
+        animate={{ opacity: 1, y: 0 }}   
+        transition={{ delay: 0.5, duration: 1 }}
+      >
         <img
           src="https://ichef.bbci.co.uk/food/ic/food_16x9_320/recipes/creamy_gochujang_pasta_59347_16x9.jpg"
           alt="New recipes"
@@ -68,12 +99,17 @@ export default function Home() {
           <h2 className="text-sm md:text-lg font-bold">New recipes</h2>
           <span className="text-blue-500 font-medium text-xs md:text-sm mt-1 block">COLLECTION</span>
         </div>
-      </div>
+      </motion.div>
 
-    </div>
+    </motion.div>
 <section className="py-3 px-2 md:py-6 md:px-4">
   <h2 className="pb-6 text-2xl">Top stories</h2>
-  <div className="flex flex-wrap gap-2 md:gap-4">
+  <motion.div 
+  className="flex flex-wrap gap-2 md:gap-4" 
+  initial={{ opacity: 0, y: 50 }} 
+  animate={{ opacity: 1, y: 0 }}   
+  transition={{ delay: 0.5, duration: 1 }}
+  >
     {[
       {
         img: "https://ichef.bbci.co.uk/images/ic/320xn/p0lmm5jp.jpg",
@@ -100,14 +136,19 @@ export default function Home() {
         </div>
       </div>
     ))}
-  </div>
+  </motion.div>
 
   <h2 className="md:py-6 py-4 text-[18px] text-green-700 cursor-pointer">See all stories (662)</h2>
   <hr className="text-[#d5d5d5]" />
 </section>
 <section className="py-3 px-2 md:px-6 md:pb-8">
   <h2 className="pb-6 text-2xl">Try today's top recipes</h2>
-  <div className="flex flex-wrap gap-2 md:gap-4 md:px-14">
+  <motion.div
+  className="flex flex-wrap gap-2 md:gap-4 md:px-14"
+  initial={{ opacity: 0, y: 50 }} 
+  animate={{ opacity: 1, y: 0 }}   
+  transition={{ delay: 0.5, duration: 1 }}
+  >
     {[
       {
         img: "https://ichef.bbci.co.uk/food/ic/food_16x9_320/recipes/slow_cooker_chicken_36183_16x9.jpg",
@@ -144,11 +185,16 @@ export default function Home() {
         </div>
       </div>
     ))}
-  </div> 
+  </motion.div> 
 </section>
 <section className="pb4-3 px-3 md:px-6 md:pb-8">
   <h2 className="pb-6 text-2xl">Recipes from programmes</h2>
-  <div className="flex flex-wrap gap-2 md:gap-4">
+  <motion.div 
+  className="flex flex-wrap gap-2 md:gap-4"
+  initial={{ opacity: 0, y: 50 }} 
+  animate={{ opacity: 1, y: 0 }}   
+  transition={{ delay: 0.5, duration: 1 }}
+  >
     {[
       {
         img: "https://ichef.bbci.co.uk/images/ic/320xn/p0lp3fg9.jpg",
@@ -174,13 +220,18 @@ export default function Home() {
         </div>
       </div>
     ))}
-  </div>
+  </motion.div>
   <hr className="text-[#d5d5d5] mt-8" />
 </section>
 
 <section className="px-2 py-3 md:py-6 md:px-4">
   <h2 className="pb-6 text-2xl">In season: Sardine</h2>
-  <div className="flex flex-wrap gap-2 md:gap-4">
+  <motion.div 
+  className="flex flex-wrap gap-2 md:gap-4"
+  initial={{ opacity: 0, y: 50 }} 
+  animate={{ opacity: 1, y: 0 }}   
+  transition={{ delay: 0.5, duration: 1 }}
+  >
     {[
       {
         img: "https://ichef.bbci.co.uk/food/ic/food_16x9_320/recipes/salsa_verde_side_of_06408_16x9.jpg",
@@ -216,14 +267,19 @@ export default function Home() {
         </div>
       </div>
     ))}
-  </div>
+  </motion.div>
   <h2 className="md:py-6 text-[18px] text-green-700 cursor-pointer">See all sardine recipes (19)</h2>
 </section>
 
 {/* Meet the Chefs Section */}
 <section className="px-2 py-3 md:py-6 md:px-4 mt-10">
   <h2 className="text-[25px] pb-4">Meet the chefs</h2>
-  <div className="flex flex-wrap gap-2 md:gap-4 md:px-24">
+  <motion.div 
+  className="flex flex-wrap gap-2 md:gap-4 md:px-24"
+  initial={{ opacity: 0, y: 50 }} 
+  animate={{ opacity: 1, y: 0 }}   
+  transition={{ delay: 0.5, duration: 1 }}
+  >
     {[
       { name: "Karla Zazueta", img: "https://ichef.bbci.co.uk//food/ic/food_16x9_320/chefs/karla_zazueta_16x9.jpg" },
       { name: "Gizzi Erskine", img: "https://ichef.bbci.co.uk//food/ic/food_16x9_320/chefs/gizzi_erskine_16x9.jpg" },
@@ -236,14 +292,19 @@ export default function Home() {
         <p className="text-xs text-gray-500 pb-2">CHEFS</p>
       </div>
     ))}
-  </div>
+  </motion.div>
 </section>
 
 {/* Nutritional Advice Section */}
 
 <section className="pb-4 px-3 md:px-6 md:pb-8 pt-10">
   <h2 className="pb-6 text-2xl">Get nutritional advice and recipes</h2>
-  <div className="flex flex-wrap gap-2 md:gap-4">
+  <motion.div 
+  className="flex flex-wrap gap-2 md:gap-4"
+  initial={{ opacity: 0, y: 50 }} 
+  animate={{ opacity: 1, y: 0 }}   
+  transition={{ delay: 0.5, duration: 1 }}
+  >
     {[
       { name: "Vegan", img: "https://ichef.bbci.co.uk/images/ic/320xn/p0bh2ln5.jpg" },
       { name: "Low calorie diet", img: "https://ichef.bbci.co.uk/images/ic/320xn/p0819m19.jpg" },
@@ -260,7 +321,7 @@ export default function Home() {
         </div>
       </div>
     ))}
-  </div>
+  </motion.div>
   <h2 className="py-6 text-[18px] text-green-700 cursor-pointer">See all diets</h2>
 </section>
 
@@ -268,7 +329,12 @@ export default function Home() {
 <section className="px-2 md:px-[20px] py-2 md:py-[30px] bg-black text-white">
   <h2 className="text-[22px] font-bold mb-[20px]">Learn how to cook</h2>
 
-  <div className="grid grid-cols-2 md:grid-cols-4 gap-2 md:gap-[16px]">
+  <motion.div 
+  className="grid grid-cols-2 md:grid-cols-4 gap-2 md:gap-[16px]"
+  initial={{ opacity:0,y:50 }}
+  animate = {{ opacity:1,y:0 }}
+  transition={{ delay:0.5,duration:1 }}
+  >
     {/* Card */}
     {[
       {
@@ -305,7 +371,7 @@ export default function Home() {
         </div>
       </div>
     ))}
-  </div>
+  </motion.div>
 
   <p className="mt-[18px] text-[14px]">
     See <span className="font-bold">all cooking techniques</span> (203)
@@ -313,8 +379,11 @@ export default function Home() {
 </section>
 
 {/* Summer Recipes Banner */}
-<section
+<motion.section
   className="text-white md:flex md:flex-col md:flex-row items-center p-[20px] bg-cover bg-center md:gap-48"
+  initial={{ opacity:0,y:50 }}
+  animate={{ opacity:1,y:0 }}
+  transition={{ delay:0.5,duration:1}}
   style={{
     backgroundImage:
       "url(https://food-images.files.bbci.co.uk/food/timed_promos/summer.jpg)",
@@ -329,7 +398,7 @@ export default function Home() {
   <button className="bg-white text-green-900 font-bold py-[8px] px-[16px] rounded">
     Get recipes
   </button>
-</section>
+</motion.section>
 
 
 
