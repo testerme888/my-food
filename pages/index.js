@@ -368,7 +368,7 @@ const MotionImage = motion.create(Image);
     ].map((item, i) => (
       <div key={i} className="bg-white text-black">
         <div className="relative">
-          <Image src={`/home/${item.img}`} alt="{story.title}" width={400} height={165}
+          <Image src={`/home/${item.img}`} width={400} height={165}
             alt={item.title}
             className="w-full md:h-[160px] object-cover"
           />
