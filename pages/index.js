@@ -299,7 +299,7 @@ const MotionImage = motion.create(Image);
       { name: "Hasan Semay", img: "Hasan_Semay.jpg" },
     ].map((chef, index) => (
       <div key={index} className="w-[48.9%] md:w-[23.7%] bg-white">
-        <Image src={`/home/${chef.img}`} alt="{story.title}" width={400} height={165} alt={chef.name} className="w-full object-cover max-h-[200px]" />
+        <Image src={`/home/${chef.img}`} width={400} height={165} alt={chef.name} className="w-full object-cover max-h-[200px]" />
         <p className="font-semibold mt-2 pb-8">{chef.name}</p>
         <p className="text-xs text-gray-500 pb-2">CHEFS</p>
       </div>
