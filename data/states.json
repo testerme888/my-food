@@ -12,20 +12,36 @@
     "cuisines":"Braj, Awadhi, Kannuaji, Kauravi, Bundeli, Bagheli and Bhojpuri are main subtypes of cuisine of the state.",
     "cities": [
       {
-        "img": "https://ichef.bbci.co.uk/food/ic/food_16x9_320/cuisines/african_16x9.jpg",
-        "title": "Lucknow"
+        "img": "Lucknow.jpg",
+        "title": "Braj"
       },
       {
-        "img": "https://ichef.bbci.co.uk/food/ic/food_16x9_320/cuisines/american_16x9.jpg",
-        "title": "Kanpur"
+        "img": "kanpur.jpg",
+        "title": "Awadhi"
       },
       {
-        "img": "https://ichef.bbci.co.uk/food/ic/food_16x9_320/cuisines/british_16x9.jpg",
-        "title": "Varanasi"
+        "img": "vanaras.jpg",
+        "title": "Kannauji"
       },
       {
-        "img": "https://ichef.bbci.co.uk/food/ic/food_16x9_320/cuisines/caribbean_16x9.jpg",
-        "title": "Mirzapur"
+        "img": "mirzapur.jpg",
+        "title": "Kaurvi"
+      },
+      {
+        "img": "Baleshwar.jpg",
+        "title": "Bundeli"
+      },
+      {
+        "img": "bathinda.png",
+        "title": "Bagheli"
+      },
+      {
+        "img": "Amreli.jpg",
+        "title": "Bhojpuri"
+      },
+      {
+        "img": "Ashoknagar.jpg",
+        "title": "Mughlai"
       }
     ]
   },
@@ -43,20 +59,20 @@
     "cuisines":"Punjab is famous for its rich and diverse cuisine, known for its robust flavors and generous use of butter, cream, and ghee. Some of the most popular dishes include Butter Chicken, Chole Bhature, and Sarson da Saag with Makki di Roti. Other notable dishes are Dal Makhani, Amritsari Kulcha, and various tandoori items.",
     "cities": [
       {
-        "title": "Patiala",
-        "img": "https://static.wixstatic.com/media/ac4870_4b981a584bf14469818de33329a95172~mv2.jpg/v1/fill/w_980,h_980,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ac4870_4b981a584bf14469818de33329a95172~mv2.jpg"
+        "title": "Majha",
+        "img": "patiala.avif"
       },
       {
-        "title": "Amritsar",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD25ZvWvcNfhbtRdkfVCa12PPGcX0bEFtVLA&s"
+        "title": "Malwa",
+        "img": "amrtsar.jpg"
       },
       {
-        "title": "Ludhiana",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8k7irDZkQ5xITcnSypj5VY-_Nttc7CMbOA&s"
+        "title": "Doaba",
+        "img": "ludhiyana.jpg"
       },
       {
-        "title": "Bathinda",
-        "img": "https://blog.swiggy.com/wp-content/uploads/2024/09/Image-1_-Sarson-Saag-with-Makki-ki-Roti-1024x538.png"
+        "title": "Pothowari / Pothohar",
+        "img": "bathinda.png"
       }
     ]
   },
@@ -73,20 +89,20 @@
     "cuisines":"Signature Rajasthani dishes include dal baati churma, panchratna dal, papad ro saag, ker sangri, and gatte ro saag. It is also known for its snacks like bikaneri bhujia, mirchi bada and kanda kachauri.",
     "cities": [
       {
-        "title": "Jodhpur",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZyYJ7JjDloiGZJpZKbSq6mjKNvj9cyu82yw&s"
+        "title": "Marwari",
+        "img": "jodhpur.jpg"
       },
       {
-        "title": "Jaipur",
-        "img": "https://rajasthanyatra.in/blog/wp-content/uploads/2023/11/Untitled-design-48.jpg"
+        "title": "Mewari",
+        "img": "jaipur.jpg"
       },
       {
-        "title": "Jaisalmer",
-        "img": "https://c.ndtvimg.com/2019-05/o8mkj5co_rajasthani-thali_625x300_03_May_19.jpg"
+        "title": "Shekhawati",
+        "img": "Jaisalmer.webp"
       },
       {
-        "title": "Jhalawar",
-        "img": "https://vnvtours.com/wp-content/uploads/2023/09/rajasthani-delicacies-4.jpg"
+        "title": "Mevati",
+        "img": "Jhalawar.jpg"
       }
     ]
   },
@@ -103,20 +119,20 @@
     "cuisines":"Sikkimese food is largely based on rice, culinary vegetables from jungle like Ningro (Fern), Nakima (Wild Lily), Baas ko Tusa (Bamboo-Shoot), Cheuw (Mushrooms), etc.",
     "cities": [
       {
-        "title": "East Sikkim",
-        "img": "https://images.squarespace-cdn.com/content/v1/5f2fa039103c7a08856032c1/1614566523079-HKT3A2YII6FBFDU9FISJ/1c5c1f3f-baaa-4742-b8df-4e82a8d8c425.jpeg"
+        "title": "Nepali",
+        "img": "East_sikkim.jpeg"
       },
       {
-        "title": "West Sikkim",
-        "img": "https://www.clubmahindra.com/blog/media/section_images/desktop-re-1cefddfa1385ed6.jpg"
+        "title": "Bhutia",
+        "img": "West_Sikkim.jpg"
       },
       {
-        "title": "North Sikkim",
-        "img": "https://etripto.in/uploads/0000/96/2023/05/25/thukpa.jpg"
+        "title": "Lepcha",
+        "img": "North_Sikkim.jpg"
       },
       {
-        "title": "South Sikkim",
-        "img": "https://blog.swiggy.com/wp-content/uploads/2024/09/Image-No-1-Thukpa-1024x538.png"
+        "title": "Tibetan / Himalayan",
+        "img": "South_Sikkim.png"
       }
     ]
   },
@@ -133,20 +149,20 @@
     "cuisines":"Several varieties like saada dosai, kal dosai, Paper roast, muttai dosai, neer dosai, rava dosai, raagi dosai and paasi paruppu dosai are prominently available in Tamil Nadu. Vadai is a crispy donut shaped spicy dish usually served along with idlis.",
     "cities": [
       {
-        "title": "Coimbatore",
-        "img": "https://www.clubmahindra.com/blog/media/section_images/traditiona-4587f0ec65deaf1.jpg"
+        "title": "Chettinad",
+        "img": "Coimbatore.jpg"
       },
       {
-        "title": "Salem",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGp6HbwfQEs4V6h7AVsxPMo65aTj5hXOI5rw&s"
+        "title": "Kongunadu",
+        "img": "Salem.jpg"
       },
       {
-        "title": "Tiruvannamalai",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_t-IOgEbzszEuHjBds9JnAbVlMRrfZjP9g&s"
+        "title": "Nanjilnadu",
+        "img": "Tiruvannamalai.jpg"
       },
       {
-        "title": "Perambalur",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetf4KFm4fJXjSYLTZBKH7B4ui-W2lb7vvdQ&s"
+        "title": "Tondaimandalam",
+        "img": "Perambalur.jpg"
       }
     ]
   },
@@ -163,20 +179,20 @@
     "cuisines":"Tripuri meal have a prominent stew dish known as Berma Bwtwi. These stews are prepared from different vegetables ingredients with the flavouring of fermented fish Berma.",
     "cities": [
       {
-        "title": "Dhalai",
-        "img": "https://assets.simplotel.com/simplotel/image/upload/x_0,y_1480,w_3650,h_2051,r_0,c_crop,q_80,fl_progressive/w_500,f_auto,c_fit/hotel-polo-towers/A_gravy_in_a_pan_bowl_rdn5wb"
+        "title": "Tripuri",
+        "img": "Dhalai.avif"
       },
       {
-        "title": "West Tripura",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmo72r9tvlrW1Ny6bp36TNvFjNlfMjUET52w&s"
+        "title": "Chakma",
+        "img": "West_Tripura.jpg"
       },
       {
-        "title": "North Tripura",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRcDHvpUIWhdqi_U7_BZVEmIF3OJNux-LHVQ&s"
+        "title": "Mog (Arakanese)",
+        "img": "North_Tripura.jpg"
       },
       {
-        "title": "South Tripura",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tripuri_Thali_served_in_Agartala_restaurant.jpg/250px-Tripuri_Thali_served_in_Agartala_restaurant.jpg"
+        "title": "Jamatia",
+        "img": "South_Tripura.jpg"
       }
     ]
   },
@@ -193,20 +209,20 @@
     "cuisines":"Some popular dishes of Uttarakhand cuisine are: Rabri (that made with Jhongora (shyama ka chawal) & Chaas (butter milk) adding leaves of Radish.) Khadi or jhwāi (made with Curd or buttermilk) Arsa (made with rice and jaggery)",
     "cities": [
       {
-        "title": "Almora",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqqd-pHLCKPs8H4pGYAWW7PfmIN6nGXJq_YQ&s"
+        "title": "Garhwali",
+        "img": "Almora.jpg"
       },
       {
-        "title": "Naini Tal",
-        "img": "https://www.holidify.com/blog/wp-content/uploads/2016/09/gulgula.jpg"
+        "title": "Kumaoni",
+        "img": "Naini_Tal.jpg"
       },
       {
-        "title": "Haridwar",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkiFF0xlBlsUoAU80_UNe6KYY7azKX7wSLQ&s"
+        "title": "Jaunsari",
+        "img": "Haridwar.jpg"
       },
       {
-        "title": "Uttarkashi",
-        "img": "https://www.jaypeehotels.com/blog/wp-content/uploads/2024/04/BLOG-8-2.jpg"
+        "title": "Bhotiya",
+        "img": "Uttarkashi.jpg"
       }
     ]
   },
@@ -223,20 +239,20 @@
     "cuisines":"West Bengal is renowned for its diverse and delicious Bengali cuisine, characterized by a blend of sweet and savory flavors, and a strong emphasis on fish and rice. Some of the most famous dishes include Ilish Macher Jhol (Hilsa fish curry), Shukto (mixed vegetable curry), Aloo Dom (potato curry), Luchi (deep-fried bread), and various sweets like Rasgulla and Mishti Doi. ",
     "cities": [
       {
-        "title": "Bankura",
-        "img": "https://www.awesomecuisine.com/wp-content/uploads/2024/02/Bengali-Cuisine.jpg"
+        "title": "Ghoti",
+        "img": "Bankura.webp"
       },
       {
-        "title": "Puruliya",
-        "img": "https://www.bharatonline.com/west-bengal/pics/bengali-cuisine.jpg"
+        "title": "Bangal",
+        "img": "Puruliya.jpg"
       },
       {
-        "title": "Kolkata",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpol-9j9iOrcjDGk5rM9jWk5ZG5ckXqO8JuCMPCv4nUUkT6dx1Aadts0uX6TQpkjXXRjY&usqp=CAU"
+        "title": "Jangalmahal",
+        "img": "Kolkata.jpg"
       },
       {
-        "title": "Hugli",
-        "img": "https://www.india.com/wp-content/uploads/2017/04/Bengali_Fish_meal.jpg"
+        "title": "Rarh",
+        "img": "Hugli.jpg"
       }
     ]
   },
@@ -253,20 +269,20 @@
     "cuisines":"Kerala's cuisine is renowned for its unique blend of flavors, utilizing coconut, spices, and seafood extensively. Popular dishes include Puttu and Kadala Curry, Appam with Stew, Kerala Fish Fry, and Thalassery Biryani. The cuisine is also known for its vegetarian Sadhya, a grand feast served on special occasions. ",
     "cities": [
       {
-        "title": "Thiruvananthapuram",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw_7WjCNVaEHSRK8rUEvXnj5IVI_7eID0d5cgTFYXB9Hdcg8b2Mw0wz0t-HGMCq9YXN7g&usqp=CAU"
+        "title": "Malabar",
+        "img": "Thiruvananthapuram.jpg"
       },
       {
-        "title": "Kottayam",
-        "img": "https://i.pinimg.com/736x/45/a7/ce/45a7ce1c1fbe42bceb9084b505826925.jpg"
+        "title": "Travancore",
+        "img": "Kottayam.jpg"
       },
       {
-        "title": "Kozhikode",
-        "img": "https://www.flamingotravels.co.in/blog/wp-content/uploads/2020/03/Kerala-tours.jpg"
+        "title": "Cochin",
+        "img": "Kozhikode.jpg"
       },
       {
-        "title": "Kannur",
-        "img": "https://static.toiimg.com/photo/93380442/93380442.jpg?v=3"
+        "title": "Syrian Christian",
+        "img": "Kannur.jpg"
       }
     ]
   },
@@ -283,20 +299,20 @@
     "cuisines":"Dalma, the most popular vegetarian dish from Odisha is always a part of authenticate Odia Thali (plate with a complete meal). Not only Thali, people relish this high-protein delicacy with almost everything starting from breakfast to dinner. Dalma-chakuli, Dalma-rice, Dalma-pitha are few combinations to name.",
     "cities": [
       {
-        "title": "Puri",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVJK5ZFeR8qJmO2uJV_Lp0uB4p1DKT0MKXA0TgCCSD91YmjBxOlfQk-QD957COsVaUKW4&usqp=CAU"
+        "title": "Coastal",
+        "img": "Puri.jpg"
       },
       {
-        "title": "Baleshwar",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8vYOU3xyWp9uWmKLAhFOP0FduRK6EpBfMaFGnvHksdsJG0DFw1kOy8gzqNvy2Ck16C4&usqp=CAU"
+        "title": "Temple (Mahaprasad of Jagannath)",
+        "img": "Baleshwar.jpg"
       },
       {
-        "title": "Rayagada",
-        "img": "https://i0.wp.com/www.traveldiaryparnashree.com/wp-content/uploads/2020/08/Chakuli-Matar-Tarkari-1.jpg?resize=768%2C1024&ssl=1"
+        "title": "Kosali",
+        "img": "Rayagada.webp"
       },
       {
-        "title": "Sambal",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQ6pE03gwawoXM7ulQ2Mtct9CYvklReerngVA5NQv1LGZ7cxzbTwLDpI1CUdjSUptEnM&usqp=CAU"
+        "title": "Northern",
+        "img": "Sambal.jpg"
       }
     ]
   },
@@ -313,20 +329,20 @@
     "cuisines":"Anishi are fermented taro leaves made into patties and then smoked over the fire or sun dried. It is an Ao Naga delicacy. Galho also known as Zawo, a common Angami/Chakhesang Naga delicacy, is a mix rice dish made from a mixture of rice, vegetables and various meats. Mesü is a meat dish cooked with its blood.",
     "cities": [
       {
-        "title": "Wokha",
-        "img": "https://media.assettype.com/english-sentinelassam/import/h-upload/2021/06/03/232253-1505638435rajamirchafullmaincourse.webp?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true"
+        "title": "Angami",
+        "img": "Wokha.avif"
       },
       {
-        "title": "Tuensang",
-        "img": "https://assets.zeezest.com/blogs/PROD_Naga-food-Banner_1641361878593.jpg"
+        "title": "Sema (Sumi)",
+        "img": "Tuensang.jpg"
       },
       {
-        "title": "Dimapur",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkFDgHC5O_z3QWRg-CaY5ojUQGVyDtD4XIvrHfx-XR1wAY6-sxbRpXuI7VB1GI8KVYrog&usqp=CAU"
+        "title": "Lotha",
+        "img": "Dimapur.jpg"
       },
       {
-        "title": "Kohima",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0hOUEqbDFlKtkKMVBiwrkPDFl8l1c7M9bCMRspZZRNqPkU7vp8psR-ykAndfqYBsIqA&usqp=CAU"
+        "title": "Konyak",
+        "img": "Kohima.jpg"
       }
     ]
   },
@@ -343,20 +359,20 @@
     "cuisines":"The staple food of most of the Mizo people is rice, with meat and vegetables served on the side, ranging from the homely bai, a simple vegetable stew, non veg stew with sesame, garlic, onion and herbs.",
     "cities": [
       {
-        "title": "Aizawl",
-        "img": "https://images.slurrp.com/prod/articles/qeohtcrw4hj.webp"
+        "title": "Bamboo Shoot & Smoked Food",
+        "img": "Aizawl.webp"
       },
       {
-        "title": "Mamit",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYM9Pm8nHAjSp4Dttes-E8fO2TfVnHq4KYkIaiCNVE7qkOP5N0aio7SngyHUoXuqJrt4&usqp=CAU"
+        "title": "Rice & Stew-Based",
+        "img": "Mamit.jpg"
       },
       {
-        "title": "Lunglei",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP90eydWONQRH8DBJ4PUqnXjK7HIBxQDrTr64umO0Qjf5ie0l8ducxeuJkXUL9MgDkXuk&usqp=CAU"
+        "title": "Festival / Special",
+        "img": "Lunglei.jpg"
       },
       {
-        "title": "Lawngtlai",
-        "img": "https://media.assettype.com/english-sentinelassam%2Fimport%2Fh-upload%2F2021%2F06%2F11%2F234127-sanpiau-06.webp"
+        "title": "Mizo Tribal",
+        "img": "Lawngtlai.avif"
       }
     ]
   },
@@ -373,20 +389,20 @@
     "cuisines":"Meghalaya's cuisine is known for its variety of meat dishes, especially pork, and its use of local ingredients like bamboo shoots and fermented soybeans. Some popular dishes include Jadoh, Dohneiiong, Pumaloi, and Tungrymbai. ",
     "cities": [
       {
-        "title": "West Khasi Hills",
-        "img": "https://www.india.com/wp-content/uploads/2023/12/Flavours-of-Meghalaya_-9-Must-Try-Traditional-Delights.png"
+        "title": "Garo",
+        "img": "West_Khasi_Hills.png"
       },
       {
-        "title": "Jaintia Hills",
-        "img": "https://img.traveltriangle.com/blog/wp-content/uploads/2022/10/Famous-Foods-of-Meghalaya-2.jpg"
+        "title": "Khasi",
+        "img": "Jaintia_Hills.webp"
       },
       {
-        "title": "Ri-Bhoi",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZo4akwV3Ei1F7dTACSrpNGbfZ6w7My__Lsw&s"
+        "title": "Jaintia",
+        "img": "Ri-Bhoi.jpg"
       },
       {
-        "title": "East Khasi Hills",
-        "img": "https://gayathriscookspot.com/wp-content/uploads/2018/11/Jadoh-1.jpg"
+        "title": "Festival",
+        "img": "East_Khasi_Hills.jpg"
       }
     ]
   },
@@ -403,20 +419,20 @@
     "cuisines":"Manipuri cuisine is heavily influenced by the region's agrarian and fishing traditions. The staple food of Manipuri cuisine is rice, which is often served with a variety of meat, fish, and vegetable dishes.",
     "cities": [
       {
-        "title": "Senapati",
-        "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSAC29FB3F5b6IQRLcoDxbfa9tIW_J9Y8jom8peTlKycehk7LHSvwxIHJDsRgGczfAaLi1sg"
+        "title": "Meitei (Valley)",
+        "img": "Senapati.jpg"
       },
       {
-        "title": "Tamenglong",
-        "img": "https://caleidoscope.in/wp-content/uploads/2023/01/Traditional-Food-of-Manipur-01.jpg"
+        "title": "Rice & Stew Based",
+        "img": "Tamenglong.jpg"
       },
       {
-        "title": "Chandel",
-        "img": "https://www.intermiles.com/_next/image?url=https%3A%2F%2Fresources.intermiles.com%2Fiwov-resources%2Fimages%2Fblog%2FFebruary%202022%2F10-famous-food-in-manipur%2FChamthong320x332.jpg&w=640&q=75"
+        "title": "Festival",
+        "img": "Chandel.webp"
       },
       {
-        "title": "Churachandpur",
-        "img": "https://www.intermiles.com/_next/image?url=https%3A%2F%2Fresources.intermiles.com%2Fiwov-resources%2Fimages%2Fblog%2FFebruary%202022%2F10-famous-food-in-manipur%2FNgaThongba320x332.jpg&w=640&q=75"
+        "title": "Tribal",
+        "img": "Churachandpur.webp"
       }
     ]
   },
@@ -433,20 +449,20 @@
     "cuisines":"In many metropolitan areas, including Mumbai and Pune, fast food is popular. The most-popular forms are bhaji, vada pav, misalpav and pav bhaji. More-traditional dishes are sabudana khichadi, pohe, upma, sheera and panipuri.",
     "cities": [
       {
-        "title": "Nagpur",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6lgFBS2wZlHv2GtTmMLwnmej7rzjX1HSbKg&s"
+        "title": "Konkani",
+        "img": "Nagpur.jpg"
       },
       {
-        "title": "Amravati",
-        "img": "https://images.herzindagi.info/image/2023/Jan/traditional-dishes-from-maharashtra.jpg"
+        "title": "Malvani",
+        "img": "Amravati.jpg"
       },
       {
-        "title": "Kolhapur",
-        "img": "https://blog.swiggy.com/wp-content/uploads/2024/02/Pav-Bhaji-1-1024x538.jpg"
+        "title": "Vidarbha",
+        "img": "Kolhapur.jpg"
       },
       {
-        "title": "Nashik",
-        "img": "https://static.wixstatic.com/media/ac4870_004c82de1d294c7f87f1d1229afd4d04~mv2.jpg/v1/fill/w_568,h_568,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/ac4870_004c82de1d294c7f87f1d1229afd4d04~mv2.jpg"
+        "title": "Khandeshi",
+        "img": "Nashik.avif"
       }
     ]
   },
@@ -463,20 +479,20 @@
     "cuisines":"Kadhi is a Haryana dish. Cattle being common in Haryana, dairy products are a common component of its cuisine. Specific regional dishes include kadhi, pakora, besan masala roti, bajra aloo roti, churma, kheer, bathua raita, methi gajar, singri ki sabzi, and tomato chutney.",
     "cities": [
       {
-        "title": "Hisar",
-        "img": "https://www.holidify.com/images/cmsuploads/compressed/Pindi-chana-recipe_20170819181108.jpg"
+        "title": "Jat",
+        "img": "Hisar.jpg"
       },
       {
-        "title": "Karnal",
-        "img": "https://i0.wp.com/www.tusktravel.com/blog/wp-content/uploads/2020/12/Besan-Masala-Roti-Haryana.jpg?resize=1200%2C792&ssl=1"
+        "title": "Ahirwal",
+        "img": "Karnal.webp"
       },
       {
-        "title": "Rohtak",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUlA7HWuTh8SxrTG-RBDQ6u40c5VkQCxhRdQ&s"
+        "title": "Bangar",
+        "img": "Rohtak.jpg"
       },
       {
-        "title": "Kurukshetra",
-        "img": "https://blog.swiggy.com/wp-content/uploads/2024/04/Mixed-Daal-1024x538.jpg"
+        "title": "Bagri",
+        "img": "Kurukshetra.jpg"
       }
     ]
   },
@@ -493,20 +509,20 @@
     "cuisines":"Gujarat's cuisine is renowned for its vegetarian dishes, diverse flavors, and use of both sweet and savory ingredients. Some of the most popular dishes include Dhokla, Thepla, Khandvi, Undhiyu, and Fafda-Jalebi. ",
     "cities": [
       {
-        "title": "Vadodara",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4lv88-ujGacMPQxcAnwyMyRqqOYGj7X20zw&s"
+        "title": "Kathiyawadi",
+        "img": "Vadodara.jpg"
       },
       {
-        "title": "Gandhinagar",
-        "img": "https://clubmahindra.gumlet.io/blog/images/Fafda-Jalebi-resized.jpg?w=376&dpr=2.6"
+        "title": "Surti",
+        "img": "Gandhinagar.avif"
       },
       {
-        "title": "Jamnagar",
-        "img": "https://clubmahindra.gumlet.io/blog/images/Khaman-resized.jpg?w=376&dpr=2.6"
+        "title": "Ahmedabadi",
+        "img": "Jamnagar.avif"
       },
       {
-        "title": "Amreli",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJRLnAKN-bQJy6jFsEWlvdpsCNL8WtL-OGZC64slslc_828ahypMQhObslU14zoVtbk7P9xw"
+        "title": "Kutchhi",
+        "img": "Amreli.jpg"
       }
     ]
   },
@@ -523,20 +539,20 @@
     "cuisines":"Source Goan fish curry or the Xitti Kodi is the staple diet of every Goan making it a famous food of Goa. The Goan fish curry is loaded with various spices along with coconut. Raw mango is also used to give the dish a tangy flavour. The main ingredients of the dish are a decent-sized Pomfret and raw mango.",
     "cities": [
       {
-        "title": "Ponda",
-        "img": "https://blog.swiggy.com/wp-content/uploads/2024/03/Prawn-Balchao-1024x538.jpg"
+        "title": "Goan Hindu",
+        "img": "Ponda.jpg"
       },
       {
-        "title": "Mapusa",
-        "img": "https://c.ndtvimg.com/2020-07/09ig7vjo_prawns_625x300_10_July_20.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886"
+        "title": "Goan Catholic",
+        "img": "Mapusa.jpg"
       },
       {
-        "title": "Margao",
-        "img": "https://i.pinimg.com/564x/8e/e4/96/8ee49622f94443d557882615d141b4a9.jpg"
+        "title": "Saraswat",
+        "img": "Margao.jpg"
       },
       {
-        "title": "Panaji",
-        "img": "https://static2.tripoto.com/media/filter/tst/img/1227694/TripDocument/1624946717_168731241_231977758614084_5947728974144136772_n.jpg"
+        "title": "Konkani (General Coastal)",
+        "img": "Panaji.jpg"
       }
     ]
   },
@@ -553,20 +569,20 @@
     "cuisines":"Dishes that originated in Karnataka but have become popular outside the state include idli, rava idli, and Mysore masala dosa. Other Karnataka cuisine items include: Avalakki - Flattened parboiled rice cooked with spices. In Karnataka avalakki can be eaten with majjige or Gojju.",
     "cities": [
       {
-        "title": "Bagalkot",
-        "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSc2vqObEdQzm9KyqJz39yzhiVO1nNn8rPBXsJn48FPY9jn9KHoPiT5BGIMbS_gGy1Ty_xy"
+        "title": "Udupi",
+        "img": "Bagalkot.jpg"
       },
       {
-        "title": "Raichur",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ragi_Mudde_-_Bassaru.jpg/500px-Ragi_Mudde_-_Bassaru.jpg"
+        "title": "Coastal / Mangalorean",
+        "img": "Raichur.jpg"
       },
       {
-        "title": "Shimoga",
-        "img": "https://www.holidify.com/images/cmsuploads/articles/433.jpg"
+        "title": "North Karnataka",
+        "img": "Shimoga.jpg"
       },
       {
-        "title": "Tumkur",
-        "img": "https://i0.wp.com/thestrongtraveller.com/wp-content/uploads/2020/10/ao7zijaryt9g5pdmhysz.jpg?resize=640%2C559&ssl=1"
+        "title": "Kodava (Coorg)",
+        "img": "Tumkur.webp"
       }
     ]
   },
@@ -583,20 +599,20 @@
     "cuisines":"Some popular Assamese dishes include fish curry, fish fry, bamboo shoots fry, and dail (a traditional Assamese dish made from fish and vegetables). The food is generally mild in flavor and not very spicy, with a generous use of ginger, garlic, and chili peppers.",
     "cities": [
       {
-        "title": "Sonitpur",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPX186okGAPavCHXxz4WXh_cvVybmnwwahyDdrg9GgNBkzG3Wb74PsGWrPUNg9LM28kTQ&usqp=CAU"
+        "title": "Assamese (General)",
+        "img": "Sonitpur.jpg"
       },
       {
-        "title": "Darrang",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVLdVi6qqAamVOAwL098LZS-Cq4dQtNlbNLUEl9OhG1MgaDdYbcOqeEMJDIsQYIkBw6Nk&usqp=CAU"
+        "title": "Upper Assam",
+        "img": "Darrang.jpg"
       },
       {
-        "title": "Jorhat",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2u6L1wH6fJWNP4AZ3dmltt6mJyf7Rgil2we93XVowhLChWVh9KZ3i7T_GXTIBZG2eiDs&usqp=CAU"
+        "title": "Tea Garden/Anglo-Indian",
+        "img": "Jorhat.jpg"
       },
       {
-        "title": "Golaghat",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK_tjpFeRUrzl8Vc4T4soV9v3xKjV83hmrSAbYooTT8amvDmbL3m98OSLtQ6G8jNdt8g0&usqp=CAU"
+        "title": "Lower Assam",
+        "img": "Golaghat.jpg"
       }
     ]
   },
@@ -613,20 +629,20 @@
     "cuisines":"Some popular Arunachali dishes include Apong (rice beer), bamboo shoots fry, smoked meat, fish and wild game meat, and traditional stews. The food is known for its spicy and tangy flavors, with a generous use of ginger, garlic, and chili peppers.",
     "cities": [
       {
-        "title": "Kurung Kumey",
-        "img": "https://neramac.com/files/userfiles/files/arunachal.png"
+        "title": "Nyishi",
+        "img": "Kurung_Kumey.png"
       },
       {
-        "title": "Lohit",
-        "img": "https://pyt-blogs.gumlet.io/2020/08/AP.jpg?auto=format&ixlib=php-3.3.0"
+        "title": "Apatani",
+        "img": "Lohit.avif"
       },
       {
-        "title": "Changlang",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgqbsa9N8pKcAO5jA1UckwhnsxqZ9z9cTjX9bh5UhkxEVpGivPYhdLM6tq9zfeNxE-rIM&usqp=CAU"
+        "title": "Adi",
+        "img": "Changlang.jpg"
       },
       {
-        "title": "Tawang",
-        "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFiY-sW7Sl8dpQZC29JQXqNHP0YR0AN-UGuXielCgEI8EZsUF8x_qc2vt-beAruFG7U19TrQ"
+        "title": "Monpa",
+        "img": "Tawang.jpg"
       }
     ]
   },
@@ -643,20 +659,20 @@
     "cuisines":"Andhra Pradesh is known for its vibrant and spicy cuisine, characterized by a rich blend of flavors and textures. Key dishes include Hyderabadi Biryani, a world-renowned Mughlai rice preparation, and a variety of vegetarian and non-vegetarian delicacies featuring fresh seafood and locally sourced ingredients. ",
     "cities": [
       {
-        "title": "Anantapur",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS53SI7lOINbsHXdmulXEJGAuoJiSAismgsog&s"
+        "title": "Coastal Andhra",
+        "img": "Anantapur.jpg"
       },
       {
-        "title": "Warangal",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4NquqS99xwvL4xCmvb2XCiwociPcfuf2Jgw&s"
+        "title": "Rayalaseema",
+        "img": "Warangal.jpg"
       },
       {
-        "title": "Vishakhapatnam",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwt4Ka1VjsRtzWlCkGvJmZd9-fIJCOBOEV2g&s"
+        "title": "Telangana",
+        "img": "Vishakhapatnam.jpg"
       },
       {
-        "title": "Kurnool",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf6ae8NkSBeOgX1K3x8Ql7htsfQFo2B14L9A&s"
+        "title": "Hyderabadi",
+        "img": "Kurnool.jpg"
       }
     ]
   },
@@ -673,20 +689,20 @@
     "cuisines":"Bihar is famous for its diverse and flavorful cuisine. The most renowned dish is Litti Chokha, a baked wheat-flour cake filled with sattu (roasted gram flour) and spices, served with mashed vegetables like eggplant and tomatoes. Other popular dishes include Sattu Paratha, Khaja, Thekua, Balushahi, Malpua, and Tilkut. ",
     "cities": [
       {
-        "title": "Samastipur",
-        "img": "https://static.toiimg.com/photo/61531367.cms?width=500&resizemode=4&imgsize=102387"
+        "title": "Magahi",
+        "img": "Samastipur.jpg"
       },
       {
-        "title": "Saharsa",
-        "img": "https://blog.swiggy.com/wp-content/uploads/2024/04/Dal-Pitha-1024x538.jpg"
+        "title": "Mithila",
+        "img": "Saharsa.jpg"
       },
       {
-        "title": "Madhepura",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmNH5trkY5D6QO-G-6bXEIBwrfyTaD7_C6jg&s"
+        "title": "Bhojpuri",
+        "img": "Madhepura.jpg"
       },
       {
-        "title": "Begusarai",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ417LF6vHtm8zOb9tYpf36Xr0fMw9g5jSgg&s"
+        "title": "Angika",
+        "img": "Begusarai.jpg"
       }
     ]
   },
@@ -703,20 +719,20 @@
     "cuisines":"The five popular foods include chila (rice pancake), faraa (rice dumplings), muthia (savory rice and flour dish), tilgur (sweet made with sesame and jaggery), and dubki kadi (spicy curry with gram flour dumplings).",
     "cities": [
       {
-        "title": "Bilaspur",
-        "img": "https://i1.wp.com/www.desifiesta.com/wp-content/uploads/2014/04/Chattisgarhi-thali-2.jpg?fit=1600%2C1121&ssl=1"
-      },
-      {
-        "title": "Kawardha",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyqs8RUqRbStsIf8Dore7Lpm3u6JZSDd6VIXChCwSaBdawaXvnC6EAfED2H3LMjan_YmM&usqp=CAU"
-      },
-      {
-        "title": "Durg",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg40yYfwAQ3eD_VsYmCJkeyHDM5hrRlIgVcESgO9oR30-lhTYfIAdRT7cC_HS8KMzedE4&usqp=CAU"
+        "title": "Chhattisgarhi Tribal",
+        "img": "Bilaspur.webp"
       },
       {
         "title": "Bastar",
-        "img": "https://i.ndtvimg.com/i/2017-07/thali_625x350_51500894939.jpg"
+        "img": "Kawardha.jpg"
+      },
+      {
+        "title": "Satnami / Local Village",
+        "img": "Durg.jpg"
+      },
+      {
+        "title": "Eastern Chhattisgarh",
+        "img": "Bastar.webp"
       }
     ]
   },
@@ -733,25 +749,25 @@
     "cuisines":"Jharkhand has a variety of famous foods, but Dhuska is particularly well-known as a popular snack and breakfast item. Other notable dishes include Litti Chokha, Malpua, Handia (a rice beer), and Til Barfi. ",
     "cities": [
       {
-        "title": "Ranchi",
-        "img": "https://c.ndtvimg.com/2023-05/d21dajqo_dhuska_625x300_10_May_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886"
+        "title": "Tribal",
+        "img": "Ranchi.webp"
       },
       {
-        "title": "Lohardaga",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0AwtlDPaP98JK90bqH_I84DKbnAnbW_2HYphCmdldJIXQnY4TLs9iVHdf5233BwdEqp4&usqp=CAU"
+        "title": "Santhal Pargana",
+        "img": "Lohardaga.jpg"
       },
       {
-        "title": "Jamtara",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz8g15zhwGiRZfxUNx2mNYfuM8xESRcE9xiSEh-tFdnqVPEIBdTg7IH0JrEIVAb0dlIZQ&usqp=CAU"
+        "title": "Chotanagpuri",
+        "img": "Jamtara.jpg"
       },
       {
-        "title": "Palamu",
-        "img": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2024/01/11/2574662-famous-dishes-of-jharkhand-dhuska.jpg"
+        "title": "Kolhan",
+        "img": "Palamu.avif"
       }
     ]
   },
   {
-    "label": "Madhy Pradesh",
+    "label": "Madhya Pradesh",
     "slug": "Madhya-Pradesh",
     "description": "Traditional dishes passed through generations with love.",
     "recipes": [
@@ -763,20 +779,20 @@
     "cuisines":"Madhya Pradesh boasts a diverse cuisine with influences from Mughlai, Rajasthani, and Malwi traditions. Some of the most famous dishes include Bhopali Gosht Korma, Poha-Jalebi, Dal Bafla, Bhutte ka Kees, Seekh Kebabs, and Malpua. ",
     "cities": [
       {
-        "title": "Vidisha",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTReVkGZvW5dp5vdo1CQJPVyg-DTY6GFT2Yw&s"
+        "title": "Malwa",
+        "img": "Vidisha.jpg"
       },
       {
-        "title": "Ashoknagar",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXC-HDDhFgJEd9dBKORgfCdOgbs3CvDSwrTg&s"
+        "title": "Bundelkhandi",
+        "img": "Ashoknagar.jpg"
       },
       {
-        "title": "Jabalpur",
-        "img": "https://www.holidify.com/blog/wp-content/uploads/2016/09/305698269_7ab5752616_o.jpg"
+        "title": "Bagheli",
+        "img": "Jabalpur.jpg"
       },
       {
-        "title": "Shivpuri",
-        "img": "https://www.mistay.in/travel-blog/content/images/2020/05/Palak-Puri-1.jpg"
+        "title": "Mahakoshal",
+        "img": "Shivpuri.jpg"
       }
     ]
   },
@@ -793,20 +809,20 @@
     "cuisines":"Himachal Pradesh boasts a variety of unique and delicious dishes. Some of the most famous include Madra, a flavorful dish made with chickpeas or vegetables cooked in yogurt and spices, and Chha Gosht, a lamb curry simmered in a gravy of gram flour and yogurt.",
     "cities": [
       {
-        "title": "Kinnaur",
-        "img": "https://blog.swiggy.com/wp-content/uploads/2024/04/Babru-1024x538.jpg"
+        "title": "Pahadi",
+        "img": "Kinnaur.jpg"
       },
       {
-        "title": "Kullu",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjNDWR7OqhyMqpyUdimHHKXgeLvt_aABFeg&s"
+        "title": "Dham",
+        "img": "Kullu.jpg"
       },
       {
-        "title": "Mandi",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAmpOOaYFuxNw89aC4TN4JPpGDEIBe45733g&s"
+        "title": "Kangri",
+        "img": "Mandi.jpg"
       },
       {
-        "title": "Shimla",
-        "img": "https://blog.ecohospitality.in/wp-content/uploads/2024/07/Dham-1.jpg"
+        "title": "Kulluvi",
+        "img": "Shimla.jpg"
       }
     ]
   },
@@ -824,20 +840,20 @@
     "cuisines":"Dum Olav or Dum Aaloo, one of the most famous dishes of Kashmiri food. Dum Aaloo is cooked with yoghurt, ginger powder, fennel and other hot spices to give it a unique flavour and aroma. You can have it with chapatis or naan to get the most out of this all time favourite and popular Kashmiri cuisine dish.",
     "cities": [
       {
-        "title": "Rajauri",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rogan_Josh_Kashmiri.jpg/1200px-Rogan_Josh_Kashmiri.jpg"
+        "title": "Kashmiri Pandit",
+        "img": "Rajauri.jpg"
       },
       {
-        "title": "Punch",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKWWqVtmcbI7LXAVGXDJlPIjWflEc9aoEwj2qCk2b9KGI-5y427uX0qq3C6HRZiTtfmC427iBCbtcJXMBlQge-pUquzdJrMvQW-716LmNBOQ"
+        "title": "Kashmiri Muslim",
+        "img": "Punch.webp"
       },
       {
-        "title": "Doda",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAofF4AkpAfOg4fzgbXLI4QHFaTc4jikMXScck84q67jIoDYL8XonDSEsgmhllY-nitoManDiJE33u1U3zCUa7t9ZjUr7tE9t8KmsjkjZ_sw"
+        "title": "Dogri",
+        "img": "Doda.webp"
       },
       {
-        "title": "Kargil",
-        "img": "https://www.licious.in/blog/wp-content/uploads/2022/12/shutterstock_1391002832.jpg"
+        "title": "Ladakhi / Balti",
+        "img": "Kargil.jpg"
       }
     ]
   }

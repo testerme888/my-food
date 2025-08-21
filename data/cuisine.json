@@ -1,0 +1,323 @@
+[
+  {
+    "label": "Braj",
+    "slug": "Braj",
+    "state": "Uttar-Pradesh",
+    "description": "Braj cuisine is deeply rooted in Indian rustic food traditions, emphasizing the use of fresh, locally sourced ingredients and simple, time-honored cooking methods. The dishes reflect the cultural richness of the Braj region, often prepared with minimal spices yet full of authentic flavor. They are hearty, wholesome, and comforting—evoking a strong sense of tradition and home. Passed down through generations, Braj’s food heritage beautifully balances simplicity with taste, making it an integral part of India’s culinary identity.",
+    "foods": [
+      {
+      "img": "Bedmi_puri.jpg",
+      "title": "Bedmi puri (fried bread with lentil Jen Alling)"
+      },
+      {
+      "img": "Dubkiwale_Aloo.jpg",
+      "title": "Dubkiwale Aloo ( POTATO curry)"
+      },
+      {
+        "img": "mathura_Hing_Kauhori.jpg",
+        "title": "Mathura Hing Kauhori"
+      },
+      {
+        "img": "Agra_Petha.jpg",
+        "title": "Agra Petha"
+      },
+      {
+        "img": "Malai_Ghewar_kheer_mohan.jpg",
+        "title": "Malai Ghewar & kheer mohan"
+      },
+      {
+        "img": "Vrindaran_Dahi_Arbl.jpg",
+        "title": "Vrindaran Dahi Arbi"
+      }
+    ]
+  },
+  {
+    "label": "Awadhi",
+    "slug": "Awadhi",
+    "state": "Uttar-Pradesh",
+    "description": "Awadhi cuisine, originating from the royal kitchens of Lucknow, is renowned for its rich flavors, slow-cooking techniques (dum pukht), and refined use of aromatic spices. It beautifully blends Mughal influences with local traditions, resulting in dishes that are both elegant and deeply flavorful. From fragrant biryanis and tender kebabs to creamy kormas and rich breads, Awadhi food is known for its royal touch and elaborate preparation methods. Every dish reflects a legacy of sophistication, hospitality, and culinary artistry, making Awadhi cuisine one of India’s most celebrated food traditions.",
+    "foods": [
+      {
+      "img": "tehri.jpg",
+      "title": "Tehri"
+      },
+      {
+        "img": "Galouti_Kebab.webp",
+        "title": "Galouti Kebab"
+      },
+      {
+        "img": "Shami_Kebab.jpg",
+        "title": "Shami Kebab"
+      },
+      {
+        "img": "Khuska.jpg",
+        "title": "Khuska"
+      },
+      {
+        "img": "nihari.jpg",
+        "title": "Nihari"
+      },
+      {
+        "img": "Morgh_Awadhi_korma.jpg",
+        "title": "Morgh Awadhi korma"
+      },
+      {
+        "img": "Sheermal.jpg",
+        "title": "Sheermal"
+      },
+      {
+        "img": "Taftaan.jpg",
+        "title": "Taftaan"
+      },
+      {
+        "img": "Nimona.webp",
+        "title": "Nimona"
+      },
+      {
+        "img": "Zarda.jpg",
+        "title": "Zarda"
+      }
+    ]
+  },
+  {
+    "label": "Kannauji",
+    "slug": "Kannauji",
+    "state": "Uttar-Pradesh",
+    "description": "Kannauji cuisine comes from Kannauj, a historic city in Uttar Pradesh, India, known as the 'perfume capital of India' because of its traditional attar (perfume) industry. The food culture of Kannauj is deeply influenced by Mughlai, Awadhi, and North Indian traditions, reflecting its royal and cultural heritage.",
+    "foods": [
+      {
+      "img": "Nimona.webp",
+      "title": "Nimona"
+      },
+      {
+        "img": "Sag_paita.jpg",
+        "title": "Sag paita"
+      },
+      {
+        "img": "Petha.jpg",
+        "title": "Petha"
+      },
+      {
+        "img": "Peda.jpg",
+        "title": "Peda"
+      },
+      {
+        "img": "Balushahi.jpg",
+        "title": "Balushahi"
+      },
+      {
+        "img": "Malpua.jpg",
+        "title": "Malpua"
+      },
+      {
+        "img": "Khurchan.jpg",
+        "title": "Khurchan"
+      }
+    ]
+  },
+  {
+    "label": "Kaurvi",
+    "slug": "Kaurvi",
+    "state": "Uttar-Pradesh",
+    "description": "Kaurvi cuisine comes from the Kaurvi (or Kauravi) belt of western Uttar Pradesh, mainly around Meerut, Muzaffarnagar, Saharanpur, and adjoining regions. It is rooted in the rustic food traditions of Jats, Gujjars, and other local communities, influenced by both Mughlai and North Indian rural cooking styles.",
+    "foods": [
+      {
+      "img": "Butter_chicken.jpg",
+      "title": "Butter chicken"
+      },
+      {
+        "img": "Tandoori_chiken.jpg",
+        "title": "Tandoori chicken"
+      },
+      {
+        "img": "Kadhi.jpg",
+        "title": "Kadhi"
+      },
+      {
+        "img": "Sarson_da_saag.jpg",
+        "title": "Sarson da saag"
+      },
+      {
+        "img": "Dal_Makkhani.jpg",
+        "title": "Dal Makkhani"
+      },
+      {
+        "img": "Gol_Gappa.jpg",
+        "title": "Gol Gappa ( pani pori)"
+      },
+      {
+        "img": "Chaat.jpg",
+        "title": "Chaat"
+      },
+      {
+        "img": "Butter_Naan.jpg",
+        "title": "Butter Naan"
+      },
+      {
+        "img": "Jalebi.webp",
+        "title": "Jalebi"
+      }
+    ]
+  },
+  {
+    "label": "Bundeli",
+    "slug": "Bundeli",
+    "state": "Uttar-Pradesh",
+    "description": "Bundeli cuisine belongs to the Bundelkhand region of central India, which covers parts of Madhya Pradesh and Uttar Pradesh (like Jhansi, Chhatarpur, Panna, Tikamgarh, Banda). It reflects the dry, rugged landscape and the warrior-agrarian lifestyle of Bundelkhand, with food that is rustic, earthy, and sustaining.",
+    "foods": [
+      {
+      "img": "Besan_Ke_Aaloo.jpg",
+      "title": "Besan Ke Aaloo"
+      },
+      {
+        "img": "Maheri.jpg",
+        "title": "Maheri"
+      },
+      {
+        "img": "Bara.jpg",
+        "title": "Bara"
+      },
+      {
+        "img": "Dal_Bafla.jpg",
+        "title": "Dal Bafla"
+      },
+      {
+        "img": "Ras_Kheer.jpg",
+        "title": "Ras Kheer"
+      },
+      {
+        "img": "chakki_Ki_shaak.jpg",
+        "title": "chakki Ki shaak"
+      },
+      {
+        "img": "Bhaaf_ki_Bati.jpg",
+        "title": "Bhaaf ki Bati"
+      },
+      {
+        "img": "Bafafi.png",
+        "title": "Bafafi"
+      }
+    ]
+  },
+  {
+    "label": "Bagheli",
+    "slug": "Bagheli",
+    "state": "Uttar-Pradesh",
+    "description": "Bagheli cuisine comes from the Bagelkhand region of central India, mainly covering eastern Madhya Pradesh and parts of Uttar Pradesh (Rewa, Satna, Sidhi, Mirzapur, Singrauli, Shahdol, etc.). It reflects the agrarian and tribal lifestyle of the region, with food that is simple, earthy, and millet-based, deeply tied to local traditions.",
+    "foods": [
+      {
+      "img": "Indrahar.webp",
+      "title": "Indrahar"
+      },
+      {
+        "img": "Rasaj_kadhi.jpg",
+        "title": "Rasaj Kadhi"
+      },
+      {
+        "img": "Kusli.jpg",
+        "title": "Kusli"
+      },
+      {
+        "img": "chicken_Bagheli.jpg",
+        "title": "Chicken Bagheli"
+      },
+      {
+        "img": "Jalebi.webp",
+        "title": "Jalebi"
+      }
+    ]
+  },
+  {
+    "label": "Bhojpuri",
+    "slug": "Bhojpuri",
+    "state": "Uttar-Pradesh",
+    "description": "Bhojpuri cuisine comes from the Bhojpuri-speaking region of eastern Uttar Pradesh, western Bihar, and parts of Jharkhand. It is one of the most diverse, hearty, and festive cuisines of North India, deeply tied to the agrarian lifestyle and rich cultural traditions of the Bhojpuri people.",
+    "foods": [
+      {
+      "img": "Litti_Chokha.webp",
+      "title": "Litti Chokha"
+      },
+      {
+        "img": "Sattu_Paratha.jpg",
+        "title": "Sattu Paratha"
+      },
+      {
+        "img": "Kadhi_Bari.webp",
+        "title": "Kadhi Bari"
+      },
+      {
+        "img": "Chokha.jpg",
+        "title": "Chokha"
+      },
+      {
+        "img": "Ghugni.jpg",
+        "title": "Ghugni"
+      },
+      {
+        "img": "Dal_Pitha.jpg",
+        "title": "Dal Pitha"
+      },
+      {
+        "img": "Thekua.jpg",
+        "title": "Thekua"
+      },
+      {
+        "img": "Tilkut.jpg",
+        "title": "Tilkut"
+      },
+      {
+        "img": "Malpua.jpg",
+        "title": "Malpua"
+      }
+    ]
+  },
+  {
+    "label": "Mughlai",
+    "slug": "Mughlai",
+    "state": "Uttar-Pradesh",
+    "description": "Mughlai cuisine is one of the most celebrated royal cuisines of India, developed in the kitchens of the Mughal emperors (16th–19th century). It blends Persian, Turkish, and Central Asian influences with Indian spices and cooking techniques, resulting in rich, aromatic, and luxurious dishes.",
+    "foods": [
+      {
+      "img": "Murg_malali_Kebab.webp",
+      "title": "Murg malali Kebab"
+      },
+      {
+        "img": "Mutton_Galouti.jpg",
+        "title": "Mutton Galouti"
+      },
+      {
+        "img": "Reshimi_kebab.jpg",
+        "title": "Reshimi kebab"
+      },
+      {
+        "img": "Matton_Rogan_Josh.jpg",
+        "title": "Matton Rogan Josh"
+      },
+      {
+        "img": "Murgh_musallam.jpg",
+        "title": "Murgh musallam"
+      },
+      {
+        "img": "Nargisi_Kofta.jpg",
+        "title": "Nargisi Kofta"
+      },
+      {
+        "img": "Shahi_Paneer.jpg",
+        "title": "Shahi Paneer"
+      },
+      {
+        "img": "Malai_Kofta.jpg",
+        "title": "Malai Kofta"
+      },
+      {
+        "img": "Shahi_Tukda.jpg",
+        "title": "Shahi Tukda"
+      },
+      {
+        "img": "Sheer_Khurma.jpg",
+        "title": "Sheer Khurma"
+      }
+    ]
+  }
+
+]

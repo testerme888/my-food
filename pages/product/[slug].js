@@ -9,11 +9,11 @@ import { useEffect, useState } from "react";
 export default function StatePage() {
   const router = useRouter();
   const { slug } = router.query;
-
+  const MotionImage = motion.create(Image);
   const [productData, setProductData] = useState(null);
 
-  const [error, setError] = useState(null); // ✅ error state added
-  const [loading, setLoading] = useState(true); // ✅ loading state
+  const [error, setError] = useState(null); // ✅ error product added
+  const [loading, setLoading] = useState(true); // ✅ loading product
 
   useEffect(() => {
     if (typeof slug === 'string') {
@@ -78,8 +78,10 @@ export default function StatePage() {
         {/* Image Section */}
         <div className="relative overflow-hidden md:w-[65%] h-[250px] md:h-auto">
         
-        <motion.img
-        src={productData.img}
+        <MotionImage
+        src={`/products/${productData.slug}/${productData.img}`}
+        width={400} // or any fixed value
+        height={165}
         alt={productData.title}
         className="w-full object-cover h-[250px] md:h-[400px]"
         whileHover={{ scale: 1.1 }}
@@ -92,7 +94,7 @@ export default function StatePage() {
         {/* Text Content Section */}
         <div className="p-6 flex flex-col md:w-[35%] justify-center">
           <h2 className="text-green-700 text-2xl font-bold mb-2">
-            {productData.slug}
+            {productData.label}
           </h2>
           <p className="text-gray-700 mb-4">
             {productData.description}
@@ -115,7 +117,7 @@ export default function StatePage() {
             See all {productData.label} recipes ({productData.recipes?.length})
           </Link>*/}
            <h3 className="text-black-700 font-bold mb-2">
-            Main cuisine of {productData.slug}
+            Main cuisine of {productData.label}
           </h3>
           <h3 className="text-green-700 font-medium mb-2">
             {productData.cuisines}
@@ -131,7 +133,6 @@ export default function StatePage() {
         transition={{ delay: 0.5, duration: 1 }}
       >
         {productData?.cities?.map((story, index) => (
-
           <motion.div
       key={index}
       className="relative overflow-hidden w-[calc(50%-4px)] md:w-[calc(25%-12px)] bg-white shadow-sm"
@@ -139,10 +140,13 @@ export default function StatePage() {
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
       transition={{ duration: 0.6, delay: index * 0.1 }}
-    >
+    > 
+    <Link key={index} href={`/product-details/${story.title.replace(/\s+/g, '-')}`}>
     <div className="h-[100px] md:h-[165px] overflow-hidden">
-      <motion.img
-        src={story.img}
+      <MotionImage
+        src={`/products/${productData.slug}/${story.img}`}
+        width={400} // or any fixed value
+        height={165}
         alt={story.title}
         className="w-full object-cover h-[100px] md:h-[165px]"
         whileHover={{ scale: 1.1 }}
@@ -155,7 +159,9 @@ export default function StatePage() {
         </h3>
         <p className="text-sm pt-1 pb-2 text-gray-600">FOOD</p>
       </div>
+       </Link>
     </motion.div>
+    
         ))}
       </motion.div>
 

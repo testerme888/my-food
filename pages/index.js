@@ -4,20 +4,26 @@ import { motion } from 'framer-motion';
 
 export default function Home() {
   
+const MotionImage = motion.create(Image);
 
   return (
     <div>
 
       <motion.div
-       className="flex items-center justify-between pt-1 md:pt-0"
+       className="flex items-center justify-between pt-1 md:pt-0 relative overflow-hidden"
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 0.5, duration: 1 }}
        >
-        <img
-          src="https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/miso_salmon_rice_bowl_77368_16x9.jpg"
+        <MotionImage
+          src="/home/title.jpg"
+          width={400} // or any fixed value
+          height={165}
           alt="SAMRIT"
+          whileHover={{ scale: 1.1 }}
+          transition={{ duration: 0.5, ease: 'easeInOut' }}
           className="w-full max-h-[465px] object-cover"
+          priority
         />
       </motion.div>
 
@@ -49,15 +55,17 @@ export default function Home() {
         animate={{ opacity: 1, y: 0 }}   
         transition={{ delay: 0.5, duration: 1 }}
       >
-        <img
-          src="https://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/breakfast_quesadilla_37513_16x9.jpg"
+        <Image
+          src="/home/Brunch_club.jpg"
+          width={400} 
+          height={165}
           alt="Brunch club"
           className="w-[40%] md:w-[50%] object-cover max-h-[140px] md:max-h-[265px]"
         />
         <div className="p-3 md:p-4 flex flex-col justify-center md:justify-between md:w-[50%]">
           <h2 className="text-base md:text-xl font-bold">Brunch club</h2>
           <p className="hidden md:block text-gray-600 text-sm mt-1">
-            Whether you're having mates over or feeding the family, these fun brunches will go down a storm
+            Whether you&apos;re having mates over or feeding the family, these fun brunches will go down a storm
           </p>
           <span className="text-blue-500 font-medium text-xs md:text-sm mt-1 block">COLLECTION</span>
         </div>
@@ -70,8 +78,10 @@ export default function Home() {
         animate={{ opacity: 1, y: 0 }}   
         transition={{ delay: 0.5, duration: 1 }}
       >
-        <img
-          src="https://ichef.bbci.co.uk/food/ic/food_16x9_320/recipes/potato_green_bean_salad_67001_16x9.jpg"
+        <Image
+          src="/home/Best_barbecue_sides.jpg"
+          width={400} // or any fixed value
+          height={165}
           alt="Best barbecue sides"
           className="w-[40%] md:w-full object-cover max-h-[140px] md:max-h-[265px]"
         />
@@ -90,8 +100,10 @@ export default function Home() {
         animate={{ opacity: 1, y: 0 }}   
         transition={{ delay: 0.5, duration: 1 }}
       >
-        <img
-          src="https://ichef.bbci.co.uk/food/ic/food_16x9_320/recipes/creamy_gochujang_pasta_59347_16x9.jpg"
+        <Image
+          src="/home/New_recipes.jpg"
+          width={400} // or any fixed value
+          height={165}
           alt="New recipes"
           className="w-[40%] md:w-full object-cover max-h-[140px] md:max-h-[265px]"
         />
@@ -112,24 +124,24 @@ export default function Home() {
   >
     {[
       {
-        img: "https://ichef.bbci.co.uk/images/ic/320xn/p0lmm5jp.jpg",
+        img: "story1.jpg",
         title: "Here’s what you need to know if you’re prediabetic",
       },
       {
-        img: "https://ichef.bbci.co.uk/images/ic/320xn/p0ll83bk.jpg",
-        title: "I'm a sports nutritionist; it's time to fall back in love with carbs",
+        img: "story2.jpg",
+        title: "I&apos;m a sports nutritionist; it&apos;s time to fall back in love with carbs",
       },
       {
-        img: "https://ichef.bbci.co.uk/images/ic/320xn/p0ll87d3.jpg",
+        img: "story3.jpg",
         title: "8 energy-boosting foods you’ll actually want to eat",
       },
       {
-        img: "https://ichef.bbci.co.uk/images/ic/320xn/p0ljx8s6.jpg",
+        img: "story4.jpg",
         title: "Baked beans, bao buns and pancakes: How footballers stay fuelled",
       },
     ].map((story, index) => (
       <div key={index} className="w-[48.5%] md:w-[23.98%] bg-white">
-        <img src={story.img} className="w-full object-cover max-h-[140px] md:max-h-[265px]" />
+        <Image src={`/home/${story.img}`} alt="{story.title}" width={400} height={165} className="w-full object-cover max-h-[140px] md:max-h-[150px]" />
         <div className="p-2">
           <h3 className="text-[15px] font-semibold leading-tight pb-8">{story.title}</h3>
           <p className="text-sm pt-1 pb-2">Story</p>
@@ -142,7 +154,7 @@ export default function Home() {
   <hr className="text-[#d5d5d5]" />
 </section>
 <section className="py-3 px-2 md:px-6 md:pb-8">
-  <h2 className="pb-6 text-2xl">Try today's top recipes</h2>
+  <h2 className="pb-6 text-2xl">Try today&apos;s top recipes</h2>
   <motion.div
   className="flex flex-wrap gap-2 md:gap-4 md:px-14"
   initial={{ opacity: 0, y: 50 }} 
@@ -151,25 +163,25 @@ export default function Home() {
   >
     {[
       {
-        img: "https://ichef.bbci.co.uk/food/ic/food_16x9_320/recipes/slow_cooker_chicken_36183_16x9.jpg",
+        img: "Main_Course.jpg",
         title: "Slow cooker pulled chicken tacos",
         middle: "by Justine Pattison",
         footer: "Main Course",
       },
       {
-        img: "https://ichef.bbci.co.uk/food/ic/food_16x9_320/recipes/lamb_chops_with_08914_16x9.jpg",
+        img: "Marcus_Wareing.jpg",
         title: "Lamb chops with Mediterranean stew",
         middle: "by Marcus Wareing",
         footer: "Main Course",
       },
       {
-        img: "https://ichef.bbci.co.uk/food/ic/food_16x9_320/recipes/watermelonandfetasal_86516_16x9.jpg",
+        img: "Georgina_Hayden.jpg",
         title: "Watermelon and feta salad",
         middle: "by Georgina Hayden",
         footer: "Light Meals & Snacks",
       },
       {
-        img: "https://ichef.bbci.co.uk/food/ic/food_16x9_320/recipes/chocolate_brownie_and_97513_16x9.jpg",
+        img: "Wajeha_Husain.jpg",
         title: "Chocolate brownie and raspberry trifles",
         middle: "by Wajeha Husain",
         footer: "Desserts",
@@ -177,7 +189,7 @@ export default function Home() {
       
     ].map((story, index) => (
       <div key={index} className="w-[48.5%] md:w-[23.5%] bg-white">
-        <img src={story.img} className="w-full object-cover max-h-[140px] md:max-h-[265px]" />
+        <Image src={`/home/${story.img}`} alt="{story.title}" width={400} height={165} className="w-full object-cover max-h-[140px] md:max-h-[265px]" />
         <div className="p-2">
           <h3 className="text-[15px] font-semibold leading-tight pb-2">{story.title}</h3>
           <p className="text-sm pt-1 pb-8">{story.middle}</p>
@@ -197,23 +209,23 @@ export default function Home() {
   >
     {[
       {
-        img: "https://ichef.bbci.co.uk/images/ic/320xn/p0lp3fg9.jpg",
+        img: "Saturday_Kitchen.jpg",
         title: "Saturday Kitchen",
         middle: "Sat 5th Jul",
       },
       {
-        img: "https://ichef.bbci.co.uk/images/ic/320xn/p0kbv81l.jpg",
+        img: "Food_Tour.jpg",
         title: "Anna Haugh’s Big Irish Food Tour",
         middle: "Fri 23rd May",
       },
       {
-        img: "https://ichef.bbci.co.uk/images/ic/320xn/p0l9qklv.jpg",
+        img: "Celebration_Kitchen.jpg",
         title: "Celebration Kitchen",
         middle: "Sun 11th May",
       },
     ].map((story, index) => (
       <div key={index} className="md:flex w-[48.9%] bg-white md:w-[32.46%]">
-        <img src={story.img} className="w-ful md:w-[45%] object-cover" />
+        <Image src={`/home/${story.img}`} alt="{story.title}" width={400} height={165} className="w-ful md:w-[45%] object-cover" />
         <div className="p-3 flex flex-col justify-center">
           <h3 className="text-[15px] font-semibold leading-tight pb-2">{story.title}</h3>
           <p className="text-sm">{story.middle}</p>
@@ -234,32 +246,32 @@ export default function Home() {
   >
     {[
       {
-        img: "https://ichef.bbci.co.uk/food/ic/food_16x9_320/recipes/salsa_verde_side_of_06408_16x9.jpg",
+        img: "Nadiya_Hussain.jpg",
         title: "Salsa verde side of salmon",
         middle: "by Nadiya Hussain",
         footer: "Main Course",
       },
       {
-        img: "https://ichef.bbci.co.uk/food/ic/food_16x9_320/recipes/sardine_bolognese_26520_16x9.jpg",
+        img: "Adam_Byatt.jpg",
         title: "Sardine bolognese",
         middle: "by Adam Byatt",
         footer: "Main Course",
       },
       {
-        img: "https://ichef.bbci.co.uk/food/ic/food_16x9_320/recipes/tinned_sardines_on_toast_64022_16x9.jpg",
+        img: "Priya_Tew.jpg",
         title: "Tinned sardines on toast",
         middle: "by Priya Tew",
         footer: "Light Meals & Snacks",
       },
       {
-        img: "https://ichef.bbci.co.uk/food/ic/food_16x9_320/recipes/fresh_sardines_on_toast_31826_16x9.jpg",
+        img: "Hairy_Bikers.jpg",
         title: ">Sardines on toast with pickled onion",
         middle: "by The Hairy Bikers",
         footer: "Light Meals & Snacks",
       },
     ].map((story, index) => (
       <div key={index} className="w-[48.9%] md:w-[24%] bg-white">
-        <img src={story.img} className="w-full object-cover max-h-[140px] md:max-h-[265px]" />
+        <Image src={`/home/${story.img}`} alt="{story.title}" width={400} height={165} className="w-full object-cover max-h-[140px] md:max-h-[265px]" />
         <div className="p-2">
           <h3 className="text-[15px] font-semibold leading-tight pb-2">{story.title}</h3>
           <p className="text-sm pt-1 pb-8">{story.middle}</p>
@@ -281,13 +293,13 @@ export default function Home() {
   transition={{ delay: 0.5, duration: 1 }}
   >
     {[
-      { name: "Karla Zazueta", img: "https://ichef.bbci.co.uk//food/ic/food_16x9_320/chefs/karla_zazueta_16x9.jpg" },
-      { name: "Gizzi Erskine", img: "https://ichef.bbci.co.uk//food/ic/food_16x9_320/chefs/gizzi_erskine_16x9.jpg" },
-      { name: "Karen Law", img: "https://ichef.bbci.co.uk//food/ic/food_16x9_320/chefs/karen_ka_yan_law_16x9.jpg" },
-      { name: "Hasan Semay", img: "https://ichef.bbci.co.uk//food/ic/food_16x9_320/chefs/hasan_semay_16x9.jpg" },
+      { name: "Karla Zazueta", img: "Karla_Zazueta.jpg" },
+      { name: "Gizzi Erskine", img: "Gizzi_Erskine.jpg" },
+      { name: "Karen Law", img: "Karen_Law.jpg" },
+      { name: "Hasan Semay", img: "Hasan_Semay.jpg" },
     ].map((chef, index) => (
       <div key={index} className="w-[48.9%] md:w-[23.7%] bg-white">
-        <img src={chef.img} alt={chef.name} className="w-full object-cover max-h-[200px]" />
+        <Image src={`/home/${chef.img}`} alt="{story.title}" width={400} height={165} alt={chef.name} className="w-full object-cover max-h-[200px]" />
         <p className="font-semibold mt-2 pb-8">{chef.name}</p>
         <p className="text-xs text-gray-500 pb-2">CHEFS</p>
       </div>
@@ -306,15 +318,15 @@ export default function Home() {
   transition={{ delay: 0.5, duration: 1 }}
   >
     {[
-      { name: "Vegan", img: "https://ichef.bbci.co.uk/images/ic/320xn/p0bh2ln5.jpg" },
-      { name: "Low calorie diet", img: "https://ichef.bbci.co.uk/images/ic/320xn/p0819m19.jpg" },
-      { name: "Vegetarian", img: "https://ichef.bbci.co.uk/images/ic/320xn/p0bh2kkm.jpg" },
-      { name: "Gluten free", img: "https://ichef.bbci.co.uk/images/ic/320xn/p0bh2ppy.jpg" },
-      { name: "Healthy", img: "https://ichef.bbci.co.uk/images/ic/320xn/p0bh29s6.jpg" },
-      { name: "Dairy free", img: "https://ichef.bbci.co.uk/images/ic/320xn/p085rz72.jpg" },
+      { name: "Vegan", img: "Vegan.jpg" },
+      { name: "Low calorie diet", img: "Low_calorie_diet.jpg" },
+      { name: "Vegetarian", img: "Vegetarian.jpg" },
+      { name: "Gluten free", img: "Gluten_free.jpg" },
+      { name: "Healthy", img: "Healthy.jpg" },
+      { name: "Dairy free", img: "Dairy_free.jpg" },
     ].map((item, index) => (
-      <div key={index} className="md:flex w-[48.9%] bg-white md:w-[32.46%]">
-        <img src={item.img} className="w-full md:w-[50%] object-cover" />
+      <div key={index} className="md:flex w-[48.9%] bg-white md:w-[32.46%] h-[100px]">
+        <Image src={`/home/${item.img}`} alt="{story.title}" width={400}  height={100} className="w-full h-[100px] md:w-[50%]  object-cover" />
         <div className="px-3 py-3 flex flex-col justify-between  flex-1">
           <h3 className="text-[15px] font-semibold leading-tight">{item.name}</h3>
           <p className="text-sm">DIETS</p>
@@ -322,7 +334,7 @@ export default function Home() {
       </div>
     ))}
   </motion.div>
-  <h2 className="py-6 text-[18px] text-green-700 cursor-pointer">See all diets</h2>
+  <h2 className="py-6 mt-8 text-[18px] text-green-700 cursor-pointer">See all diets</h2>
 </section>
 
 {/* Learn how to cook */}
@@ -338,26 +350,25 @@ export default function Home() {
     {/* Card */}
     {[
       {
-        img: "https://ichef.bbci.co.uk/images/ic/320xn/p0btckdr.jpg",
+        img: "How_to_boil_an_egg.jpg",
         title: "How to boil an egg",
       },
       {
-        img: "https://ichef.bbci.co.uk/images/ic/320xn/p0k70ns8.png",
+        img: "How_to_cook_lentils.png",
         title: "How to cook lentils",
       },
       {
-        img: "https://ichef.bbci.co.uk/images/ic/320xn/p0k8d0ks.jpg",
+        img: "How_to_cook_pak_choi.jpg",
         title: "How to cook pak choi",
       },
       {
-        img: "https://ichef.bbci.co.uk/images/ic/320xn/p01lrhhj.jpg",
+        img: "How_deglaze_a_pan.jpg",
         title: "How to deglaze a pan",
       },
     ].map((item, i) => (
       <div key={i} className="bg-white text-black">
         <div className="relative">
-          <img
-            src={item.img}
+          <Image src={`/home/${item.img}`} alt="{story.title}" width={400} height={165}
             alt={item.title}
             className="w-full md:h-[160px] object-cover"
           />
@@ -386,7 +397,7 @@ export default function Home() {
   transition={{ delay:0.5,duration:1}}
   style={{
     backgroundImage:
-      "url(https://food-images.files.bbci.co.uk/food/timed_promos/summer.jpg)",
+      "url(/home/summer.jpg)",
   }}
 >
   <div className="mt-5 mb-5">

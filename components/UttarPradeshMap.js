@@ -7,8 +7,7 @@ import {
 import { geoMercator, geoPath } from "d3-geo";
 import { useEffect, useState } from "react";
 
-const districtGeoUrl =
-  "https://raw.githubusercontent.com/geohacker/india/master/district/india_district.geojson";
+const districtGeoUrl = "/india_district.geojson";
 
 export default function UttarPradeshMap({ stateName }) {
   const formattedName = stateName?.replace(/-/g, " ").toLowerCase();
@@ -29,7 +28,7 @@ export default function UttarPradeshMap({ stateName }) {
           proj.fitExtent(
             [
               [0, 0],
-              [800, 500], // adjust dimensions as needed
+              [800, 300], // adjust dimensions as needed
             ],
             {
               type: "FeatureCollection",
@@ -43,13 +42,20 @@ export default function UttarPradeshMap({ stateName }) {
       });
   }, [formattedName]);
 
-  if (!projection) return <div>Loading map...</div>;
+  if (!projection){
+    return (<div className="flex items-center justify-center h-[60vh]">
+        <div className="flex flex-col items-center space-y-4">
+          <div className="w-12 h-12 border-4 border-green-500 border-t-transparent rounded-full animate-spin"></div>
+          <p className="text-gray-700 text-lg font-medium">Loading content...</p>
+        </div>
+      </div>);
+  } 
 
   return (
     <ComposableMap
       projection={projection}
       width={800}
-      height={500}
+      height={300}
     >
       <Geographies geography={{ type: "FeatureCollection", features: filteredGeos }}>
         {({ geographies }) => (
@@ -81,9 +87,8 @@ export default function UttarPradeshMap({ stateName }) {
                   <text
                     textAnchor="middle"
                     fill="#004D40"
-                    fontSize={12}        
-                    fontWeight="800"
-                    fontWeight="bold"
+                    fontSize={8}        
+                    fontWeight="600"
                   >
                     {geo.properties.NAME_2}
                   </text>

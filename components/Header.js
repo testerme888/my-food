@@ -105,6 +105,17 @@ export default function Header() {
       { label: "Food service style", href: "/s"},
      ],
     },
+    { 
+      label: "Future Foods",
+      href: "/", 
+      submenu: [
+        { label: "Primix Product", href: "#"},
+        { label: "Ready To Eat Food", href: "#"},
+        { label: "Fingre Food", href: "#"},
+        { label: "Dehydrated Food", href: "#"},
+        { label: "Micro Food", href: "#"},
+      ],
+    }
   ];
   const moreLinks = [];
 
@@ -119,7 +130,7 @@ export default function Header() {
       submenu: [
         {label: "In Season", href: "/In-Season"},
         {label: "Occasions", href: "/Occasions"},
-        {label: "Cuisines", href: "/Cuisines"},
+        {label: "Cuisines", href: "/state"},
         {label: "Ingredients", href: "/Ingredients"},
         {label: "Dishes", href: "/Dishes"},
         {label: "Collections", href: "Collections"},
@@ -218,10 +229,10 @@ export default function Header() {
             </div>
           ))}
 
-          {/* 3-dot menu toggle */}
+          {/* 3-dot menu toggle 
           <button onClick={() => setShowMoreMenu(!showMoreMenu)}>
             <MoreHorizontal className="w-5 h-5 cursor-pointer" />
-          </button>
+          </button>*/}
         </nav>
 
          {/* 📺 Desktop: right Sign In */}
@@ -332,10 +343,10 @@ export default function Header() {
 
                 {item.submenu && (
                   <div className="absolute left-[-5rem] top-full bg-black/80 text-white w-screen shadow-lg z-50 hidden group-hover:block">
-                    <div className="flex gap-4 px-5 py-2 text-sm flex-wrap">
+                    <div className="flex gap-4  text-sm flex-wrap">
                       {item.submenu.map((sub, idx) => (
-                        <Link key={idx} href={sub.href}>
-                          <span className="hover:underline whitespace-nowrap pr-2 border-r border-gray-300 last:border-none">
+                        <Link key={idx} href={sub.href} className={`p-2 ${pathname === sub.href ? 'bg-white text-black' : ''}`}>
+                          <span className="whitespace-nowrap pr-2 border-r border-gray-300 last:border-none">
                             {sub.label}
                           </span>
                         </Link>
@@ -372,7 +383,14 @@ export default function Header() {
         <div className="md:hidden bg-[#017d18] text-white text-sm font-medium">
           <ul>
             {navItems.map((item, i) => (
-              <li key={i} className="border-b border-white-300 text-[15px]">
+              <li key={i} className={`border-b border-white-300 text-[15px] 
+                ${
+                  item.submenu?.some((sub) => pathname === sub.href) || pathname === item.href
+                    ? "bg-white text-black"
+                    : ""
+                }
+              `}
+              >
                 {item.submenu ? (
                   <>
                     <button
@@ -380,6 +398,7 @@ export default function Header() {
                         setShowMobileRecipes(showMobileRecipes === i ? null : i)
                       }
                       className="w-full text-left px-4 py-2 hover:bg-blue flex justify-between items-center"
+
                     >
                       {item.label}
                       <span>{showMobileRecipes === i ? "▲" : "▼"}</span>
@@ -389,7 +408,9 @@ export default function Header() {
                         {item.submenu.map((sub, idx) => (
                           <li key={idx}>
                             <Link href={sub.href}>
-                              <span className="block px-6 py-2 text-sm border-b hover:bg-blue">
+                              <span className={`block px-6 py-2 text-sm border-b hover:bg-blue ${
+                                pathname === sub.href ? "bg-white text-black font-semibold" : ""
+                              }`}>
                                 {sub.label}
                               </span>
                             </Link>
