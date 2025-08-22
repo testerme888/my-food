@@ -6897,46 +6897,49 @@
     "label": "Bedmi puri (fried bread with lentil Jen Alling)",
     "slug": "Bedmi-puri-(fried-bread-with-lentil-Jen-Alling)",
     "category": "cuisine/Braj",
-    "description": "Tortilla soup is typically made with chicken broth, tomatoes, onions, garlic, and chilies, and served with shredded chicken, tortilla strips, cheese, avocado, crema, and cilantro.",
-    "cuisines": "Tortilla soup is a traditional Mexican comfort dish made with a flavorful broth, crispy fried tortilla strips, and toppings like avocado, cheese, and crema. It blends savory, tangy, and smoky flavors into a hearty, satisfying bowl.",
+    "description": "Bedmi Puri is a North Indian deep-fried bread stuffed with a spiced lentil mixture, typically made with urad dal (split black gram), whole spices, and wheat flour dough. It is usually served with spicy potato curry (aloo sabzi) and pickles, making it a popular breakfast and festive dish in Uttar Pradesh and Delhi.",
+    "cuisines": "Bedmi Puri is a traditional North Indian delicacy, especially popular in Uttar Pradesh and Delhi. It combines spiced lentil filling inside crispy wheat flour puris, creating a hearty, flavorful dish often enjoyed with aloo sabzi and tangy pickles.",
     "ingredients": [
-      { "item": "Water", "quantity": "3 cups" },
-      { "item": "Low sodium chicken stock", "quantity": "1/2 cup" },
-      { "item": "Fish sauce", "quantity": "3 tablespoons" },
-      { "item": "Vegetable broth", "quantity": "4 cups" },
-      { "item": "Fish sauce", "quantity": "1 1/2 tablespoons" },
-      { "item": "Limes", "quantity": "4, juiced with pulp" },
-      { "item": "Not Available", "quantity": "-----------" }
+      { "item": "Whole wheat flour", "quantity": "2 cups" },
+      { "item": "Urad dal (split black gram, skinned)", "quantity": "1/2 cup (soaked 4-5 hrs)" },
+      { "item": "Fennel seeds", "quantity": "1 teaspoon" },
+      { "item": "Coriander seeds", "quantity": "1 teaspoon" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Turmeric powder", "quantity": "1/2 teaspoon" },
+      { "item": "Ginger", "quantity": "1 inch piece, grated" },
+      { "item": "Green chilies", "quantity": "2, finely chopped" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Oil or ghee", "quantity": "for deep frying" },
+      { "item": "Water", "quantity": "as required for dough" }
     ],
     "method": [
-      "Fry tortillas in batches until golden brown.",
-      "In a deep pot over high heat, combine 4 cups of chicken broth, 2 cups of water, and tomato chile sauce.",
-      "Boil for 15–20 minutes and season with salt and pepper.",
-      "In a bowl, add shredded chicken, tortilla strips, cheese, and cotija.",
-      "Pour about 1.5 cups of hot broth into the bowl.",
-      "Top with avocado, crema, and cilantro.",
-      "To toast chiles, hold them over a gas flame with tongs for a few seconds until they blister and smell fragrant.",
-      "You can use vegetable broth instead of chicken broth to make the soup vegan.",
-      "Optional toppings include tortilla chips, sour cream, Greek yogurt, and fresh diced tomatoes."
+      "Soak urad dal for 4–5 hours and grind coarsely with minimal water.",
+      "Dry roast fennel and coriander seeds, then crush them lightly.",
+      "In a bowl, mix ground dal with roasted spices, ginger, green chilies, turmeric, chili powder, and salt to make the stuffing.",
+      "Knead wheat flour with a little salt and water into a firm dough. Rest for 20 minutes.",
+      "Divide the dough into small balls, flatten slightly, and stuff with the lentil mixture.",
+      "Roll gently into small puris (do not make too thin).",
+      "Heat oil or ghee in a deep pan and fry puris until golden and puffed.",
+      "Serve hot with spicy aloo sabzi, chutney, or pickle."
     ],
     "nutrition": [
-      { "label": "Protein", "value": "" },
-      { "label": "Carbohydrate", "value": "" },
-      { "label": "Calcium", "value": "" },
-      { "label": "Energy", "value": "" },
-      { "label": "Iron", "value": "" },
-      { "label": "Mineral", "value": "" },
-      { "label": "Fat", "value": "" }
+      { "label": "Protein", "value": "7 g" },
+      { "label": "Carbohydrate", "value": "28 g" },
+      { "label": "Calcium", "value": "22 mg" },
+      { "label": "Energy", "value": "210 kcal" },
+      { "label": "Iron", "value": "2.5 mg" },
+      { "label": "Mineral", "value": "0.8 g" },
+      { "label": "Fat", "value": "8 g" }
     ],
     "img": "Bedmi_puri.jpg",
     "cities": [
       {
         "img": "Dubkiwale_Aloo.jpg",
-        "title": "Dubkiwale Aloo ( POTATO curry)"
+        "title": "Dubkiwale Aloo (POTATO curry)"
       },
       {
         "img": "mathura_Hing_Kauhori.jpg",
-        "title": "Mathura Hing Kauhori"
+        "title": "Mathura Hing Kachori"
       },
       {
         "img": "Agra_Petha.jpg",
@@ -6944,12 +6947,2700 @@
       },
       {
         "img": "Malai_Ghewar_kheer_mohan.jpg",
-        "title": "Malai Ghewar & kheer mohan"
+        "title": "Malai Ghewar and kheer mohan"
       },
       {
         "img": "Vrindaran_Dahi_Arbl.jpg",
         "title": "Vrindaran Dahi Arbi"
       }
     ]
+  },
+  {
+    "label": "Dubkiwale Aloo (POTATO curry)",
+    "slug": "Dubkiwale-Aloo-(POTATO-curry)",
+    "category": "cuisine/Braj",
+    "description": "Dubkiwale Aloo is a thin, spicy potato curry from Mathura and Uttar Pradesh. It gets its name from the potatoes 'taking a dip' (dubki) in the flavorful, tangy gravy. Made with boiled potatoes, tomatoes, ginger, and a medley of spices, it is traditionally served with Bedmi Puri or Kachori.",
+    "cuisines": "Dubkiwale Aloo is a rustic North Indian curry popular in the Braj region of Uttar Pradesh, especially Mathura. It is known for its spicy, tangy flavors and soupy texture, making it the perfect companion to Bedmi Puri or Kachori in traditional breakfasts.",
+    "ingredients": [
+      { "item": "Boiled potatoes", "quantity": "4–5 medium, roughly mashed" },
+      { "item": "Tomatoes", "quantity": "2, finely chopped" },
+      { "item": "Ginger", "quantity": "1 inch piece, grated" },
+      { "item": "Green chilies", "quantity": "2, chopped" },
+      { "item": "Cumin seeds", "quantity": "1 teaspoon" },
+      { "item": "Coriander powder", "quantity": "2 teaspoons" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Turmeric powder", "quantity": "1/2 teaspoon" },
+      { "item": "Garam masala", "quantity": "1/2 teaspoon" },
+      { "item": "Hing (asafoetida)", "quantity": "a pinch" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Fresh coriander leaves", "quantity": "for garnish" },
+      { "item": "Water", "quantity": "3–4 cups (adjust for soupy consistency)" },
+      { "item": "Oil or ghee", "quantity": "2 tablespoons" }
+    ],
+    "method": [
+      "Heat oil or ghee in a deep pan, add cumin seeds and hing.",
+      "Add ginger, green chilies, and tomatoes; sauté until tomatoes turn soft.",
+      "Mix in coriander powder, turmeric, red chili powder, and salt. Cook the masala until aromatic.",
+      "Add the roughly mashed potatoes and mix well with the masala.",
+      "Pour in 3–4 cups of water and bring the curry to a boil.",
+      "Let it simmer for 12–15 minutes so that flavors blend and curry thickens slightly.",
+      "Sprinkle garam masala and mix well.",
+      "Garnish with fresh coriander leaves.",
+      "Serve hot with Bedmi Puri, Kachori, or chapati."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "4 g" },
+      { "label": "Carbohydrate", "value": "32 g" },
+      { "label": "Calcium", "value": "28 mg" },
+      { "label": "Energy", "value": "180 kcal" },
+      { "label": "Iron", "value": "2 mg" },
+      { "label": "Mineral", "value": "0.6 g" },
+      { "label": "Fat", "value": "6 g" }
+    ],
+    "img": "Dubkiwale_Aloo.jpg",
+    "cities": [
+      {
+        "img": "Bedmi_puri.jpg",
+        "title": "Bedmi puri (fried bread with lentil Jen Alling)"
+      },
+      {
+        "img": "mathura_Hing_Kauhori.jpg",
+        "title": "Mathura Hing Kachori"
+      },
+      {
+        "img": "Agra_Petha.jpg",
+        "title": "Agra Petha"
+      },
+      {
+        "img": "Malai_Ghewar_kheer_mohan.jpg",
+        "title": "Malai Ghewar and kheer mohan"
+      },
+      {
+        "img": "Vrindaran_Dahi_Arbl.jpg",
+        "title": "Vrindaran Dahi Arbi"
+      }
+    ]
+  },
+  {
+    "label": "Mathura Hing Kachori",
+    "slug": "Mathura-Hing-Kachori",
+    "category": "cuisine/Braj",
+    "description": "Mathura Hing Kachori is a famous breakfast delicacy from Mathura, Uttar Pradesh. These crispy deep-fried kachoris are stuffed with a spiced urad dal mixture flavored with hing (asafoetida), making them aromatic and tangy. They are typically served with Dubkiwale Aloo or spicy chutneys.",
+    "cuisines": "Mathura Hing Kachori is a traditional North Indian snack from the Braj region, known for its bold use of asafoetida (hing) and spices. Crispy on the outside and flavorful inside, it is a festive and street-style favorite served hot with potato curry.",
+    "ingredients": [
+      { "item": "Whole wheat flour", "quantity": "2 cups" },
+      { "item": "Urad dal (split black gram, skinned)", "quantity": "1/2 cup (soaked 4-5 hrs)" },
+      { "item": "Asafoetida (hing)", "quantity": "1/4 teaspoon" },
+      { "item": "Fennel seeds", "quantity": "1 teaspoon" },
+      { "item": "Coriander seeds", "quantity": "1 teaspoon" },
+      { "item": "Dry ginger powder", "quantity": "1/2 teaspoon" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Turmeric powder", "quantity": "1/2 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Oil or ghee", "quantity": "for deep frying" },
+      { "item": "Water", "quantity": "as required for dough" }
+    ],
+    "method": [
+      "Soak urad dal for 4–5 hours and grind coarsely with minimal water.",
+      "Dry roast fennel and coriander seeds, then crush them lightly.",
+      "In a bowl, mix ground dal with roasted spices, hing, ginger powder, chili powder, turmeric, and salt to prepare the stuffing.",
+      "Knead wheat flour with a little salt and water into a firm dough. Rest for 20 minutes.",
+      "Divide the dough into small balls, flatten slightly, and fill with the lentil-spice stuffing.",
+      "Roll gently into small kachoris.",
+      "Heat oil or ghee in a deep pan and fry kachoris on medium heat until golden brown and crispy.",
+      "Serve hot with Dubkiwale Aloo, tamarind chutney, or green chutney."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "6 g" },
+      { "label": "Carbohydrate", "value": "30 g" },
+      { "label": "Calcium", "value": "25 mg" },
+      { "label": "Energy", "value": "220 kcal" },
+      { "label": "Iron", "value": "2.3 mg" },
+      { "label": "Mineral", "value": "0.7 g" },
+      { "label": "Fat", "value": "9 g" }
+    ],
+    "img": "mathura_Hing_Kauhori.jpg",
+    "cities": [
+      {
+        "img": "Bedmi_puri.jpg",
+        "title": "Bedmi puri (fried bread with lentil Jen Alling)"
+      },
+      {
+        "img": "Dubkiwale_Aloo.jpg",
+        "title": "Dubkiwale Aloo (POTATO curry)"
+      },
+      {
+        "img": "Agra_Petha.jpg",
+        "title": "Agra Petha"
+      },
+      {
+        "img": "Malai_Ghewar_kheer_mohan.jpg",
+        "title": "Malai Ghewar and kheer mohan"
+      },
+      {
+        "img": "Vrindaran_Dahi_Arbl.jpg",
+        "title": "Vrindaran Dahi Arbi"
+      }
+    ]
+  },
+  {
+    "label": "Agra Petha",
+    "slug": "Agra-Petha",
+    "category": "cuisine/Braj",
+    "description": "Agra Petha is a famous translucent soft candy made from ash gourd (winter melon) and sugar. Originating from Agra, Uttar Pradesh, it is known for its crystalline texture and delicate sweetness. Variants include plain, saffron, and even stuffed dry-fruit petha.",
+    "cuisines": "Agra Petha is a traditional sweet delicacy from Agra, Uttar Pradesh. Made with ash gourd and sugar syrup, it has a chewy yet melt-in-the-mouth texture. It is offered as prasad in temples and is a signature sweet of Agra, enjoyed across India.",
+    "ingredients": [
+      { "item": "Ash gourd (winter melon)", "quantity": "1 kg (peeled and deseeded)" },
+      { "item": "Lime water (chuna water)", "quantity": "1 liter (for soaking)" },
+      { "item": "Sugar", "quantity": "1 kg" },
+      { "item": "Water", "quantity": "4 cups (for syrup)" },
+      { "item": "Kewra water / rose water", "quantity": "1 teaspoon" },
+      { "item": "Saffron strands (optional)", "quantity": "a few for flavor" }
+    ],
+    "method": [
+      "Peel the ash gourd, remove seeds, and cut into medium-sized cubes.",
+      "Soak cubes in lime water for 3–4 hours to firm them up.",
+      "Wash thoroughly in running water to remove excess lime.",
+      "Boil the cubes in plain water until they turn transparent but still hold shape.",
+      "Meanwhile, prepare sugar syrup by boiling sugar and water until it reaches one-string consistency.",
+      "Add boiled ash gourd pieces to the syrup and cook until they absorb sweetness and turn glossy.",
+      "Finish with kewra or rose water, and saffron if using.",
+      "Cool completely before serving or storing."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "0.5 g" },
+      { "label": "Carbohydrate", "value": "45 g" },
+      { "label": "Calcium", "value": "18 mg" },
+      { "label": "Energy", "value": "190 kcal" },
+      { "label": "Iron", "value": "0.5 mg" },
+      { "label": "Mineral", "value": "0.3 g" },
+      { "label": "Fat", "value": "0 g" }
+    ],
+    "img": "Agra_Petha.jpg",
+    "cities": [
+      {
+        "img": "Bedmi_puri.jpg",
+        "title": "Bedmi puri (fried bread with lentil Jen Alling)"
+      },
+      {
+        "img": "Dubkiwale_Aloo.jpg",
+        "title": "Dubkiwale Aloo (POTATO curry)"
+      },
+      {
+        "img": "mathura_Hing_Kauhori.jpg",
+        "title": "Mathura Hing Kachori"
+      },
+      {
+        "img": "Malai_Ghewar_kheer_mohan.jpg",
+        "title": "Malai Ghewar and kheer mohan"
+      },
+      {
+        "img": "Vrindaran_Dahi_Arbl.jpg",
+        "title": "Vrindaran Dahi Arbi"
+      }
+    ]
+  },
+  {
+    "label": "Malai Ghewar and kheer mohan",
+    "slug": "Malai-Ghewar-and-kheer-mohan",
+    "category": "cuisine/Braj",
+    "description": "Malai Ghewar is a traditional Rajasthani dessert prepared during Teej and Raksha Bandhan festivals. Ghewar is a disc-shaped, honeycomb-textured sweet made from flour, ghee, and sugar syrup, topped with thickened milk (rabri), malai, nuts, and saffron.",
+    "cuisines": "Malai Ghewar is a festive dessert from Rajasthan, especially popular in Jaipur and surrounding regions. Its unique honeycomb texture and rich malai topping make it a royal sweet enjoyed during celebrations.",
+    "ingredients": [
+      { "item": "All-purpose flour (maida)", "quantity": "2 cups" },
+      { "item": "Ghee (clarified butter)", "quantity": "1/2 cup (chilled)" },
+      { "item": "Cold water / milk", "quantity": "2–3 cups (for batter)" },
+      { "item": "Ice cubes", "quantity": "a few (to whip ghee)" },
+      { "item": "Sugar", "quantity": "2 cups" },
+      { "item": "Water", "quantity": "1 cup (for syrup)" },
+      { "item": "Cardamom powder", "quantity": "1/2 teaspoon" },
+      { "item": "Saffron strands", "quantity": "a few" },
+      { "item": "Rabri (thickened milk)", "quantity": "1 cup" },
+      { "item": "Almonds & pistachios", "quantity": "2 tablespoons, chopped" },
+      { "item": "Silver varq (optional)", "quantity": "for garnish" }
+    ],
+    "method": [
+      "Whip chilled ghee with ice cubes until creamy and fluffy.",
+      "Add flour gradually and whisk in cold water/milk to make a thin, flowing batter.",
+      "Heat ghee/oil in a deep pan, pour batter in a thin stream to create honeycomb-like texture, and fry until crisp and golden.",
+      "Prepare sugar syrup with sugar, water, cardamom, and saffron until one-string consistency.",
+      "Dip fried ghewar into sugar syrup briefly and place on a plate.",
+      "Top with thickened rabri, malai, nuts, and garnish with saffron and silver varq.",
+      "Serve chilled or at room temperature."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "6 g" },
+      { "label": "Carbohydrate", "value": "58 g" },
+      { "label": "Calcium", "value": "70 mg" },
+      { "label": "Energy", "value": "340 kcal" },
+      { "label": "Iron", "value": "1.5 mg" },
+      { "label": "Mineral", "value": "0.8 g" },
+      { "label": "Fat", "value": "15 g" }
+    ],
+    "img": "Malai_Ghewar_kheer_mohan.jpg",
+    "cities": [
+      {
+        "img": "Bedmi_puri.jpg",
+        "title": "Bedmi puri (fried bread with lentil Jen Alling)"
+      },
+      {
+        "img": "Dubkiwale_Aloo.jpg",
+        "title": "Dubkiwale Aloo (POTATO curry)"
+      },
+      {
+        "img": "mathura_Hing_Kauhori.jpg",
+        "title": "Mathura Hing Kachori"
+      },
+      {
+        "img": "Agra_Petha.jpg",
+        "title": "Agra Petha"
+      },
+      {
+        "img": "Vrindaran_Dahi_Arbl.jpg",
+        "title": "Vrindaran Dahi Arbi"
+      }
+    ]
+  },
+  {
+    "label": "Vrindaran Dahi Arbi",
+    "slug": "Vrindaran-Dahi-Arbi",
+    "category": "cuisine/Braj",
+    "description": "Vrindavan Dahi Arbi is a satvik North Indian curry made with boiled arbi (taro root) simmered in a curd-based gravy with mild spices. It is a no-onion, no-garlic recipe, often prepared during fasting (vrat) days in Vrindavan and served as prasadam.",
+    "cuisines": "Vrindavan Dahi Arbi is a traditional satvik dish from the Braj region of Uttar Pradesh. Light, tangy, and mildly spiced, it is commonly enjoyed with kuttu puris or simple rotis during festivals and fasting days.",
+    "ingredients": [
+      { "item": "Arbi (taro root)", "quantity": "500 g (boiled and peeled)" },
+      { "item": "Curd (yogurt)", "quantity": "1 cup (well whisked)" },
+      { "item": "Cumin seeds", "quantity": "1 teaspoon" },
+      { "item": "Green chilies", "quantity": "2, slit" },
+      { "item": "Ginger", "quantity": "1 inch piece, grated" },
+      { "item": "Coriander powder", "quantity": "1 teaspoon" },
+      { "item": "Roasted cumin powder", "quantity": "1/2 teaspoon" },
+      { "item": "Red chili powder", "quantity": "1/2 teaspoon (optional)" },
+      { "item": "Turmeric powder", "quantity": "1/4 teaspoon" },
+      { "item": "Rock salt (sendha namak)", "quantity": "to taste" },
+      { "item": "Ghee or oil", "quantity": "2 tablespoons" },
+      { "item": "Fresh coriander leaves", "quantity": "for garnish" }
+    ],
+    "method": [
+      "Boil arbi until soft, peel, and cut into medium pieces.",
+      "Heat ghee in a pan, add cumin seeds and let them splutter.",
+      "Add green chilies and grated ginger, sauté briefly.",
+      "Whisk curd with a little water to avoid curdling and add it to the pan.",
+      "Mix in coriander powder, cumin powder, turmeric, red chili powder, and rock salt.",
+      "Add arbi pieces and simmer on low flame for 5–7 minutes until they absorb flavors.",
+      "Garnish with fresh coriander leaves.",
+      "Serve hot with kuttu puri, singhare ki roti, or plain chapati."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "4 g" },
+      { "label": "Carbohydrate", "value": "28 g" },
+      { "label": "Calcium", "value": "65 mg" },
+      { "label": "Energy", "value": "180 kcal" },
+      { "label": "Iron", "value": "1.2 mg" },
+      { "label": "Mineral", "value": "0.5 g" },
+      { "label": "Fat", "value": "6 g" }
+    ],
+    "img": "Vrindaran_Dahi_Arbl.jpg",
+    "cities": [
+      {
+        "img": "Bedmi_puri.jpg",
+        "title": "Bedmi puri (fried bread with lentil Jen Alling)"
+      },
+      {
+        "img": "Dubkiwale_Aloo.jpg",
+        "title": "Dubkiwale Aloo (POTATO curry)"
+      },
+      {
+        "img": "mathura_Hing_Kauhori.jpg",
+        "title": "Mathura Hing Kachori"
+      },
+      {
+        "img": "Agra_Petha.jpg",
+        "title": "Agra Petha"
+      },
+      {
+        "img": "Malai_Ghewar_kheer_mohan.jpg",
+        "title": "Malai Ghewar and kheer mohan"
+      }
+    ]
+  },
+  {
+    "label": "Tehri",
+    "slug": "tehri",
+    "category": "cuisine/Awadhi",
+    "description": "Tehri is a fragrant Awadhi rice dish cooked with seasonal vegetables and aromatic spices. Similar to a vegetable pulao, it is mildly spiced and wholesome, often served with raita or pickle.",
+    "cuisines": "Tehri is a popular Awadhi dish from Uttar Pradesh, known for its simple yet flavorful taste. Made with rice, vegetables, and light spices, it is a comfort food in North Indian households.",
+    "ingredients": [
+      { "item": "Basmati rice", "quantity": "1.5 cups" },
+      { "item": "Mixed vegetables (potato, peas, carrots, beans)", "quantity": "2 cups" },
+      { "item": "Onion", "quantity": "1, sliced" },
+      { "item": "Tomato", "quantity": "1, chopped" },
+      { "item": "Green chilies", "quantity": "2, slit" },
+      { "item": "Cumin seeds", "quantity": "1 teaspoon" },
+      { "item": "Turmeric powder", "quantity": "1/2 teaspoon" },
+      { "item": "Coriander powder", "quantity": "1 teaspoon" },
+      { "item": "Bay leaf", "quantity": "1" },
+      { "item": "Cinnamon stick", "quantity": "1 small piece" },
+      { "item": "Cloves", "quantity": "2" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Ghee or oil", "quantity": "2 tablespoons" },
+      { "item": "Water", "quantity": "3 cups" }
+    ],
+    "method": [
+      "Wash and soak basmati rice for 20 minutes.",
+      "Heat ghee in a deep pan, add cumin seeds, bay leaf, cinnamon, and cloves.",
+      "Add sliced onion, green chilies, and sauté until golden.",
+      "Mix in chopped tomato and cook until soft.",
+      "Add vegetables, turmeric, coriander powder, and salt; sauté for 2–3 minutes.",
+      "Add soaked rice and stir gently.",
+      "Pour water, cover, and cook on low flame until rice is fluffy and vegetables are tender.",
+      "Serve hot with raita or pickle."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "6 g" },
+      { "label": "Carbohydrate", "value": "58 g" },
+      { "label": "Calcium", "value": "38 mg" },
+      { "label": "Energy", "value": "280 kcal" },
+      { "label": "Iron", "value": "2 mg" },
+      { "label": "Mineral", "value": "0.6 g" },
+      { "label": "Fat", "value": "7 g" }
+    ],
+    "img": "tehri.jpg",
+    "cities": [
+      { "img": "Galouti_Kebab.webp", "title": "Galouti Kebab" },
+      { "img": "Shami_Kebab.jpg", "title": "Shami Kebab" },
+      { "img": "Khuska.jpg", "title": "Khuska" },
+      { "img": "nihari.jpg", "title": "Nihari" },
+      { "img": "Morgh_Awadhi_korma.jpg", "title": "Morgh Awadhi korma" },
+      { "img": "Sheermal.jpg", "title": "Sheermal" },
+      { "img": "Taftaan.jpg", "title": "Taftaan" },
+      { "img": "Nimona.webp", "title": "Nimonaa" },
+      { "img": "Zarda.jpg", "title": "Zarda" }
+    ]
+  },
+  {
+    "label": "Galouti Kebab",
+    "slug": "galouti-kebab",
+    "category": "cuisine/Awadhi",
+    "description": "Galouti Kebab is a melt-in-the-mouth Lucknowi delicacy made with minced meat and aromatic spices. Traditionally prepared for Nawabs who desired soft kebabs without chewing effort.",
+    "cuisines": "Galouti Kebabs are rich, flavorful kebabs from Lucknow’s Awadhi cuisine. They are made using finely minced meat, papaya for tenderness, and a secret blend of spices.",
+    "ingredients": [
+      { "item": "Minced mutton", "quantity": "500 g" },
+      { "item": "Raw papaya paste", "quantity": "2 tablespoons" },
+      { "item": "Onion (fried)", "quantity": "1/2 cup" },
+      { "item": "Ginger-garlic paste", "quantity": "2 teaspoons" },
+      { "item": "Garam masala", "quantity": "1 teaspoon" },
+      { "item": "Chili powder", "quantity": "1 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Ghee", "quantity": "3 tablespoons" }
+    ],
+    "method": [
+      "Mix minced mutton with papaya paste, fried onion, and spices.",
+      "Let it marinate for 2–3 hours.",
+      "Shape into small kebabs.",
+      "Heat ghee on a pan and shallow fry kebabs until golden brown on both sides.",
+      "Serve hot with paratha or chutney."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "18 g" },
+      { "label": "Carbohydrate", "value": "5 g" },
+      { "label": "Calcium", "value": "25 mg" },
+      { "label": "Energy", "value": "220 kcal" },
+      { "label": "Iron", "value": "2.8 mg" },
+      { "label": "Mineral", "value": "0.4 g" },
+      { "label": "Fat", "value": "15 g" }
+    ],
+    "img": "Galouti_Kebab.webp",
+    "cities": [
+      { "img": "tehri.jpg", "title": "Tehri" },
+      { "img": "Shami_Kebab.jpg", "title": "Shami Kebab" },
+      { "img": "Khuska.jpg", "title": "Khuska" },
+      { "img": "nihari.jpg", "title": "Nihari" },
+      { "img": "Morgh_Awadhi_korma.jpg", "title": "Morgh Awadhi korma" },
+      { "img": "Sheermal.jpg", "title": "Sheermal" },
+      { "img": "Taftaan.jpg", "title": "Taftaan" },
+      { "img": "Nimona.webp", "title": "Nimonaa" },
+      { "img": "Zarda.jpg", "title": "Zarda" }
+    ]
+  },
+  {
+    "label": "Shami Kebab",
+    "slug": "shami-kebab",
+    "category": "cuisine/Awadhi",
+    "description": "Shami Kebab is a flavorful minced meat patty combined with chana dal and spices. It is shallow fried and served with mint chutney or parathas.",
+    "cuisines": "Shami Kebab is a classic Awadhi kebab dish that is crisp outside and soft inside. It is popular as a snack and a part of festive meals.",
+    "ingredients": [
+      { "item": "Minced mutton or chicken", "quantity": "500 g" },
+      { "item": "Chana dal (split Bengal gram)", "quantity": "1/2 cup" },
+      { "item": "Onion", "quantity": "1, chopped" },
+      { "item": "Ginger-garlic paste", "quantity": "2 teaspoons" },
+      { "item": "Green chilies", "quantity": "2, chopped" },
+      { "item": "Coriander leaves", "quantity": "2 tablespoons" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Oil", "quantity": "for shallow frying" }
+    ],
+    "method": [
+      "Cook minced meat with chana dal, onions, and spices until soft.",
+      "Grind to a smooth mixture.",
+      "Shape into small patties.",
+      "Shallow fry until golden brown.",
+      "Serve with onion rings and mint chutney."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "20 g" },
+      { "label": "Carbohydrate", "value": "10 g" },
+      { "label": "Calcium", "value": "35 mg" },
+      { "label": "Energy", "value": "240 kcal" },
+      { "label": "Iron", "value": "3 mg" },
+      { "label": "Mineral", "value": "0.5 g" },
+      { "label": "Fat", "value": "14 g" }
+    ],
+    "img": "Shami_Kebab.jpg",
+    "cities": [
+      { "img": "tehri.jpg", "title": "Tehri" },
+      { "img": "Galouti_Kebab.webp", "title": "Galouti Kebab" },
+      { "img": "Khuska.jpg", "title": "Khuska" },
+      { "img": "nihari.jpg", "title": "Nihari" },
+      { "img": "Morgh_Awadhi_korma.jpg", "title": "Morgh Awadhi korma" },
+      { "img": "Sheermal.jpg", "title": "Sheermal" },
+      { "img": "Taftaan.jpg", "title": "Taftaan" },
+      { "img": "Nimona.webp", "title": "Nimonaa" },
+      { "img": "Zarda.jpg", "title": "Zarda" }
+    ]
+  },
+  {
+    "label": "Khuska",
+    "slug": "khuska",
+    "category": "cuisine/Awadhi",
+    "description": "Khuska is a simple, aromatic Awadhi rice dish cooked without vegetables or meat. It is usually served with rich curries or korma.",
+    "cuisines": "Khuska is a lightly spiced Awadhi rice delicacy, often served as a side dish with kebabs, kormas, and gravies. It is popular for its subtle flavors and fluffy texture.",
+    "ingredients": [
+      { "item": "Basmati rice", "quantity": "2 cups" },
+      { "item": "Onion", "quantity": "1, sliced" },
+      { "item": "Cumin seeds", "quantity": "1 teaspoon" },
+      { "item": "Bay leaf", "quantity": "1" },
+      { "item": "Cloves", "quantity": "3" },
+      { "item": "Cinnamon stick", "quantity": "1 inch" },
+      { "item": "Green cardamoms", "quantity": "3" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Ghee", "quantity": "2 tablespoons" },
+      { "item": "Water", "quantity": "4 cups" }
+    ],
+    "method": [
+      "Wash and soak rice for 20 minutes.",
+      "Heat ghee in a deep pot and add cumin, bay leaf, cloves, cinnamon, and cardamoms.",
+      "Add sliced onion and sauté until golden brown.",
+      "Add soaked rice and stir gently.",
+      "Pour water and add salt.",
+      "Cook on low flame until rice is fluffy.",
+      "Serve hot with korma or curry."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "5 g" },
+      { "label": "Carbohydrate", "value": "60 g" },
+      { "label": "Calcium", "value": "30 mg" },
+      { "label": "Energy", "value": "270 kcal" },
+      { "label": "Iron", "value": "1.2 mg" },
+      { "label": "Mineral", "value": "0.4 g" },
+      { "label": "Fat", "value": "6 g" }
+    ],
+    "img": "Khuska.jpg",
+    "cities": [
+      { "img": "tehri.jpg", "title": "Tehri" },
+      { "img": "Galouti_Kebab.webp", "title": "Galouti Kebab" },
+      { "img": "Shami_Kebab.jpg", "title": "Shami Kebab" },
+      { "img": "nihari.jpg", "title": "Nihari" },
+      { "img": "Morgh_Awadhi_korma.jpg", "title": "Morgh Awadhi korma" },
+      { "img": "Sheermal.jpg", "title": "Sheermal" },
+      { "img": "Taftaan.jpg", "title": "Taftaan" },
+      { "img": "Nimona.webp", "title": "Nimonaa" },
+      { "img": "Zarda.jpg", "title": "Zarda" }
+    ]
+  },
+  {
+    "label": "Nihari",
+    "slug": "nihari",
+    "category": "cuisine/Awadhi",
+    "description": "Nihari is a slow-cooked meat stew made with bone marrow and spices, traditionally eaten as a breakfast dish in Lucknow and Delhi.",
+    "cuisines": "Nihari is a royal Awadhi delicacy made with beef or mutton shanks, slow-cooked overnight with aromatic spices. It is rich, flavorful, and usually served with naan or sheermal.",
+    "ingredients": [
+      { "item": "Mutton or beef shank", "quantity": "500 g" },
+      { "item": "Onion", "quantity": "2, sliced" },
+      { "item": "Ginger-garlic paste", "quantity": "2 tablespoons" },
+      { "item": "Nihari masala", "quantity": "2 tablespoons" },
+      { "item": "Wheat flour (atta)", "quantity": "2 tablespoons" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Oil or ghee", "quantity": "4 tablespoons" },
+      { "item": "Water", "quantity": "5 cups" }
+    ],
+    "method": [
+      "Heat ghee in a heavy pot, add sliced onions, and fry until golden.",
+      "Add ginger-garlic paste and nihari masala.",
+      "Add meat pieces and sauté for 10 minutes.",
+      "Pour water, cover, and slow-cook for 3–4 hours until meat is tender.",
+      "Mix wheat flour with water and add to the stew for thickness.",
+      "Cook for another 15 minutes.",
+      "Serve hot with naan or sheermal."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "22 g" },
+      { "label": "Carbohydrate", "value": "8 g" },
+      { "label": "Calcium", "value": "40 mg" },
+      { "label": "Energy", "value": "320 kcal" },
+      { "label": "Iron", "value": "3.5 mg" },
+      { "label": "Mineral", "value": "0.7 g" },
+      { "label": "Fat", "value": "20 g" }
+    ],
+    "img": "nihari.jpg",
+    "cities": [
+      { "img": "tehri.jpg", "title": "Tehri" },
+      { "img": "Galouti_Kebab.webp", "title": "Galouti Kebab" },
+      { "img": "Shami_Kebab.jpg", "title": "Shami Kebab" },
+      { "img": "Khuska.jpg", "title": "Khuska" },
+      { "img": "Morgh_Awadhi_korma.jpg", "title": "Morgh Awadhi korma" },
+      { "img": "Sheermal.jpg", "title": "Sheermal" },
+      { "img": "Taftaan.jpg", "title": "Taftaan" },
+      { "img": "Nimona.webp", "title": "Nimonaa" },
+      { "img": "Zarda.jpg", "title": "Zarda" }
+    ]
+  },
+  {
+    "label": "Morgh Awadhi Korma",
+    "slug": "morgh-awadhi-korma",
+    "category": "cuisine/Awadhi",
+    "description": "Morgh Awadhi Korma is a royal chicken curry made with yogurt, nuts, and aromatic Awadhi spices. It is rich, creamy, and mildly spiced.",
+    "cuisines": "Morgh Awadhi Korma is a Nawabi dish from Lucknow, known for its luxurious taste and creamy gravy. It is usually served with sheermal, taftan, or rice.",
+    "ingredients": [
+      { "item": "Chicken", "quantity": "500 g" },
+      { "item": "Onions (fried)", "quantity": "1/2 cup" },
+      { "item": "Yogurt", "quantity": "1/2 cup" },
+      { "item": "Ginger-garlic paste", "quantity": "2 teaspoons" },
+      { "item": "Cashew paste", "quantity": "2 tablespoons" },
+      { "item": "Cloves", "quantity": "3" },
+      { "item": "Cinnamon stick", "quantity": "1 inch" },
+      { "item": "Cardamoms", "quantity": "3" },
+      { "item": "Ghee", "quantity": "3 tablespoons" },
+      { "item": "Salt", "quantity": "to taste" }
+    ],
+    "method": [
+      "Heat ghee in a heavy pan and add whole spices.",
+      "Add chicken and sauté until lightly browned.",
+      "Add ginger-garlic paste and fry for 2 minutes.",
+      "Mix in fried onions, yogurt, cashew paste, and salt.",
+      "Cook on low flame until chicken is tender and gravy thickens.",
+      "Serve hot with sheermal or rice."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "24 g" },
+      { "label": "Carbohydrate", "value": "7 g" },
+      { "label": "Calcium", "value": "45 mg" },
+      { "label": "Energy", "value": "310 kcal" },
+      { "label": "Iron", "value": "2.6 mg" },
+      { "label": "Mineral", "value": "0.5 g" },
+      { "label": "Fat", "value": "18 g" }
+    ],
+    "img": "Morgh_Awadhi_korma.jpg",
+    "cities": [
+      { "img": "tehri.jpg", "title": "Tehri" },
+      { "img": "Galouti_Kebab.webp", "title": "Galouti Kebab" },
+      { "img": "Shami_Kebab.jpg", "title": "Shami Kebab" },
+      { "img": "Khuska.jpg", "title": "Khuska" },
+      { "img": "nihari.jpg", "title": "Nihari" },
+      { "img": "Sheermal.jpg", "title": "Sheermal" },
+      { "img": "Taftaan.jpg", "title": "Taftaan" },
+      { "img": "Nimona.webp", "title": "Nimonaa" },
+      { "img": "Zarda.jpg", "title": "Zarda" }
+    ]
+  },
+  {
+    "label": "Sheermal",
+    "slug": "sheermal",
+    "category": "cuisine/Awadhi",
+    "description": "Sheermal is a saffron-flavored slightly sweet naan, popular in Awadhi and Mughlai cuisine. It is often served with kebabs and kormas.",
+    "cuisines": "Sheermal is a royal bread from Lucknow, kneaded with milk and flavored with saffron. Its soft and slightly sweet taste makes it perfect with kebabs, nihari, or korma.",
+    "ingredients": [
+      { "item": "All-purpose flour (maida)", "quantity": "2 cups" },
+      { "item": "Milk (warm)", "quantity": "1/2 cup" },
+      { "item": "Yeast", "quantity": "1 teaspoon" },
+      { "item": "Sugar", "quantity": "2 teaspoons" },
+      { "item": "Salt", "quantity": "1/2 teaspoon" },
+      { "item": "Saffron strands", "quantity": "a pinch" },
+      { "item": "Ghee", "quantity": "2 tablespoons" }
+    ],
+    "method": [
+      "Dissolve yeast and sugar in warm milk and let it activate.",
+      "Mix flour, salt, and ghee, then add the yeast mixture.",
+      "Knead into a soft dough and rest for 1 hour.",
+      "Roll out and brush with saffron milk.",
+      "Bake or tandoor until golden.",
+      "Serve with kebabs or korma."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "6 g" },
+      { "label": "Carbohydrate", "value": "55 g" },
+      { "label": "Calcium", "value": "25 mg" },
+      { "label": "Energy", "value": "250 kcal" },
+      { "label": "Iron", "value": "2 mg" },
+      { "label": "Mineral", "value": "0.4 g" },
+      { "label": "Fat", "value": "8 g" }
+    ],
+    "img": "Sheermal.jpg",
+    "cities": [
+      { "img": "tehri.jpg", "title": "Tehri" },
+      { "img": "Galouti_Kebab.webp", "title": "Galouti Kebab" },
+      { "img": "Shami_Kebab.jpg", "title": "Shami Kebab" },
+      { "img": "Khuska.jpg", "title": "Khuska" },
+      { "img": "nihari.jpg", "title": "Nihari" },
+      { "img": "Morgh_Awadhi_korma.jpg", "title": "Morgh Awadhi korma" },
+      { "img": "Taftaan.jpg", "title": "Taftaan" },
+      { "img": "Nimona.webp", "title": "Nimonaa" },
+      { "img": "Zarda.jpg", "title": "Zarda" }
+    ]
+  },
+  {
+    "label": "Taftaan",
+    "slug": "taftaan",
+    "category": "cuisine/Awadhi",
+    "description": "Taftaan is a rich Awadhi flatbread made with milk, yogurt, and saffron. It is softer and richer than regular naan.",
+    "cuisines": "Taftaan is a Persian-inspired Awadhi bread flavored with saffron and sometimes nuts. It is a festive bread served with kormas and gravies.",
+    "ingredients": [
+      { "item": "All-purpose flour (maida)", "quantity": "2 cups" },
+      { "item": "Milk", "quantity": "1/2 cup" },
+      { "item": "Yogurt", "quantity": "1/4 cup" },
+      { "item": "Yeast", "quantity": "1 teaspoon" },
+      { "item": "Sugar", "quantity": "1 teaspoon" },
+      { "item": "Salt", "quantity": "1/2 teaspoon" },
+      { "item": "Saffron milk", "quantity": "2 tablespoons" },
+      { "item": "Ghee", "quantity": "2 tablespoons" }
+    ],
+    "method": [
+      "Activate yeast in warm milk and sugar.",
+      "Mix flour, salt, yogurt, ghee, and yeast mixture into a dough.",
+      "Rest for 1–2 hours.",
+      "Roll into discs and brush with saffron milk.",
+      "Bake until soft and golden.",
+      "Serve with Awadhi gravies."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "7 g" },
+      { "label": "Carbohydrate", "value": "58 g" },
+      { "label": "Calcium", "value": "35 mg" },
+      { "label": "Energy", "value": "270 kcal" },
+      { "label": "Iron", "value": "2.3 mg" },
+      { "label": "Mineral", "value": "0.5 g" },
+      { "label": "Fat", "value": "9 g" }
+    ],
+    "img": "Taftaan.jpg",
+    "cities": [
+      { "img": "tehri.jpg", "title": "Tehri" },
+      { "img": "Galouti_Kebab.webp", "title": "Galouti Kebab" },
+      { "img": "Shami_Kebab.jpg", "title": "Shami Kebab" },
+      { "img": "Khuska.jpg", "title": "Khuska" },
+      { "img": "nihari.jpg", "title": "Nihari" },
+      { "img": "Morgh_Awadhi_korma.jpg", "title": "Morgh Awadhi korma" },
+      { "img": "Sheermal.jpg", "title": "Sheermal" },
+      { "img": "Nimona.webp", "title": "Nimonaa" },
+      { "img": "Zarda.jpg", "title": "Zarda" }
+    ]
+  },
+  {
+    "label": "Nimonaa",
+    "slug": "Nimonaa",
+    "category": "cuisine/Awadhi",
+    "description": "Nimona is a traditional Awadhi curry made with ground green peas, potatoes, and spices. It is a winter specialty.",
+    "cuisines": "Nimona is a rustic Awadhi dish of mashed green peas cooked with potatoes and spices. It has a unique earthy taste and is often paired with rice or roti.",
+    "ingredients": [
+      { "item": "Green peas", "quantity": "2 cups" },
+      { "item": "Potatoes", "quantity": "2, diced" },
+      { "item": "Onion", "quantity": "1, chopped" },
+      { "item": "Tomato", "quantity": "1, chopped" },
+      { "item": "Ginger-garlic paste", "quantity": "1 tablespoon" },
+      { "item": "Cumin seeds", "quantity": "1 teaspoon" },
+      { "item": "Turmeric powder", "quantity": "1/2 teaspoon" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Oil", "quantity": "3 tablespoons" }
+    ],
+    "method": [
+      "Grind green peas coarsely.",
+      "Heat oil in a pan, add cumin seeds and onion, sauté till golden.",
+      "Add ginger-garlic paste, tomato, turmeric, and red chili powder.",
+      "Add diced potatoes and ground peas, stir well.",
+      "Pour water and simmer until cooked.",
+      "Serve hot with rice or roti."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "10 g" },
+      { "label": "Carbohydrate", "value": "42 g" },
+      { "label": "Calcium", "value": "50 mg" },
+      { "label": "Energy", "value": "230 kcal" },
+      { "label": "Iron", "value": "2.8 mg" },
+      { "label": "Mineral", "value": "0.6 g" },
+      { "label": "Fat", "value": "7 g" }
+    ],
+    "img": "Nimona.webp",
+    "cities": [
+      { "img": "tehri.jpg", "title": "Tehri" },
+      { "img": "Galouti_Kebab.webp", "title": "Galouti Kebab" },
+      { "img": "Shami_Kebab.jpg", "title": "Shami Kebab" },
+      { "img": "Khuska.jpg", "title": "Khuska" },
+      { "img": "nihari.jpg", "title": "Nihari" },
+      { "img": "Morgh_Awadhi_korma.jpg", "title": "Morgh Awadhi korma" },
+      { "img": "Sheermal.jpg", "title": "Sheermal" },
+      { "img": "Taftaan.jpg", "title": "Taftaan" },
+      { "img": "Zarda.jpg", "title": "Zarda" }
+    ]
+  },
+  {
+    "label": "Zarda",
+    "slug": "zarda",
+    "category": "cuisine/Awadhi",
+    "description": "Zarda is a sweet rice dish made with saffron, sugar, nuts, and dry fruits. It is a festive delicacy in Awadhi cuisine.",
+    "cuisines": "Zarda is a Mughlai-Awadhi sweet dish made with fragrant basmati rice, saffron, sugar, and ghee, garnished with nuts and dry fruits. It is usually prepared on special occasions.",
+    "ingredients": [
+      { "item": "Basmati rice", "quantity": "1 cup" },
+      { "item": "Sugar", "quantity": "1/2 cup" },
+      { "item": "Saffron strands", "quantity": "a pinch" },
+      { "item": "Milk", "quantity": "1/4 cup" },
+      { "item": "Ghee", "quantity": "2 tablespoons" },
+      { "item": "Cardamoms", "quantity": "3" },
+      { "item": "Cloves", "quantity": "2" },
+      { "item": "Dry fruits & nuts", "quantity": "1/4 cup" }
+    ],
+    "method": [
+      "Wash and soak rice for 30 minutes, then cook till 70% done.",
+      "Heat ghee, add cardamom, cloves, and saffron milk.",
+      "Add boiled rice and sugar, mix well.",
+      "Cover and cook on low flame till sugar melts and rice is done.",
+      "Garnish with dry fruits and nuts.",
+      "Serve hot as dessert."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "4 g" },
+      { "label": "Carbohydrate", "value": "68 g" },
+      { "label": "Calcium", "value": "40 mg" },
+      { "label": "Energy", "value": "310 kcal" },
+      { "label": "Iron", "value": "1.5 mg" },
+      { "label": "Mineral", "value": "0.3 g" },
+      { "label": "Fat", "value": "8 g" }
+    ],
+    "img": "Zarda.jpg",
+    "cities": [
+      { "img": "tehri.jpg", "title": "Tehri" },
+      { "img": "Galouti_Kebab.webp", "title": "Galouti Kebab" },
+      { "img": "Shami_Kebab.jpg", "title": "Shami Kebab" },
+      { "img": "Khuska.jpg", "title": "Khuska" },
+      { "img": "nihari.jpg", "title": "Nihari" },
+      { "img": "Morgh_Awadhi_korma.jpg", "title": "Morgh Awadhi korma" },
+      { "img": "Sheermal.jpg", "title": "Sheermal" },
+      { "img": "Taftaan.jpg", "title": "Taftaan" },
+      { "img": "Nimona.webp", "title": "Nimonaa" }
+    ]
+  },
+  {
+    "label": "Sag paita",
+    "slug": "Sag-paita",
+    "category": "cuisine/Kannauji",
+    "description": "Sag Paita is a traditional Kannauji dish made with leafy greens (like spinach or bathua) and lentils, slow-cooked with mild spices. It is a wholesome and nutritious curry usually enjoyed with rice or roti.",
+    "cuisines": "Sag Paita is a rustic and nutritious dish from the Kannauj region of Uttar Pradesh. Prepared with seasonal greens and lentils, it is light yet hearty, offering earthy flavors and high nutritional value. Often enjoyed in winter with roti or steamed rice.",
+    "ingredients": [
+      { "item": "Spinach (or bathua saag)", "quantity": "250 g (washed and chopped)" },
+      { "item": "Yellow moong dal", "quantity": "1/2 cup" },
+      { "item": "Turmeric powder", "quantity": "1/2 teaspoon" },
+      { "item": "Ginger", "quantity": "1 teaspoon (grated)" },
+      { "item": "Green chilies", "quantity": "2 (slit)" },
+      { "item": "Asafoetida (hing)", "quantity": "a pinch" },
+      { "item": "Cumin seeds", "quantity": "1 teaspoon" },
+      { "item": "Ghee or oil", "quantity": "2 tablespoons" },
+      { "item": "Salt", "quantity": "to taste" }
+    ],
+    "method": [
+      "Wash and soak moong dal for 30 minutes.",
+      "Pressure cook dal with chopped spinach, turmeric, ginger, green chilies, and salt until soft.",
+      "Mash lightly for a rustic texture.",
+      "In a pan, heat ghee, add cumin seeds and asafoetida, and let them splutter.",
+      "Pour the tempering over the cooked dal and mix well.",
+      "Simmer for 3–4 minutes and serve hot with roti or rice."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "9 g" },
+      { "label": "Carbohydrate", "value": "22 g" },
+      { "label": "Calcium", "value": "85 mg" },
+      { "label": "Energy", "value": "160 kcal" },
+      { "label": "Iron", "value": "2.3 mg" },
+      { "label": "Mineral", "value": "0.6 g" },
+      { "label": "Fat", "value": "5 g" }
+    ],
+    "img": "Sag_paita.jpg",
+    "cities": [
+      { "img": "Nimona.webp", "title": "Nimona" },
+      { "img": "Petha.jpg", "title": "Petha" },
+      { "img": "Peda.jpg", "title": "Peda" },
+      { "img": "Balushahi.jpg", "title": "Balushahi" },
+      { "img": "Malpua.jpg", "title": "Malpua" },
+      { "img": "Khurchan.jpg", "title": "Khurchan" }
+    ]
+  },
+  {
+    "label": "Petha",
+    "slug": "Petha",
+    "category": "cuisine/Kannauji",
+    "description": "Petha is a translucent soft candy made from ash gourd (winter melon) and sugar. It is a specialty sweet of Agra, often flavored with kewra or rose water.",
+    "cuisines": "Agra Petha is a famous North Indian sweet known for its soft texture and mild sweetness. Made from ash gourd and sugar syrup, it comes in varieties like plain, angoori, kesar, and dry fruit-stuffed.",
+    "ingredients": [
+      { "item": "Ash gourd (winter melon)", "quantity": "500 g" },
+      { "item": "Sugar", "quantity": "2 cups" },
+      { "item": "Water", "quantity": "3 cups" },
+      { "item": "Lime water (chuna solution)", "quantity": "1/2 cup" },
+      { "item": "Kewra/rose water", "quantity": "1 teaspoon" },
+      { "item": "Saffron strands", "quantity": "optional, for kesar petha" }
+    ],
+    "method": [
+      "Peel and cut ash gourd into cubes.",
+      "Soak cubes in lime water for a few hours, then wash well.",
+      "Boil till half-cooked, then drain.",
+      "Prepare sugar syrup of one-string consistency.",
+      "Add boiled ash gourd and simmer till translucent and soaked in syrup.",
+      "Flavour with kewra or saffron.",
+      "Cool and serve."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "1 g" },
+      { "label": "Carbohydrate", "value": "72 g" },
+      { "label": "Calcium", "value": "30 mg" },
+      { "label": "Energy", "value": "280 kcal" },
+      { "label": "Iron", "value": "0.5 mg" },
+      { "label": "Mineral", "value": "0.2 g" },
+      { "label": "Fat", "value": "0 g" }
+    ],
+    "img": "Petha.jpg",
+    "cities": [
+      { "img": "Nimona.webp", "title": "Nimona" },
+      { "img": "Sag_paita.jpg", "title": "Sag Paita" },
+      { "img": "Peda.jpg", "title": "Peda" },
+      { "img": "Balushahi.jpg", "title": "Balushahi" },
+      { "img": "Malpua.jpg", "title": "Malpua" },
+      { "img": "Khurchan.jpg", "title": "Khurchan" }
+    ]
+  },
+  {
+    "label": "Peda",
+    "slug": "Peda",
+    "category": "cuisine/Kannauji",
+    "description": "Mathura Peda is a popular North Indian sweet made from khoya (reduced milk), sugar, and cardamom. It is grainy, rich, and often offered as prasad in temples.",
+    "cuisines": "Peda is a famous sweet from Mathura, Uttar Pradesh. Prepared with khoya and flavored with cardamom, it has a unique caramelized taste due to slow cooking.",
+    "ingredients": [
+      { "item": "Khoya (mawa)", "quantity": "500 g" },
+      { "item": "Sugar", "quantity": "150 g" },
+      { "item": "Cardamom powder", "quantity": "1 teaspoon" },
+      { "item": "Ghee", "quantity": "2 tablespoons" },
+      { "item": "Pistachios/almonds", "quantity": "for garnish" }
+    ],
+    "method": [
+      "Heat khoya in a pan on low flame till it turns light brown and grainy.",
+      "Add ghee and mix well.",
+      "Stir in sugar and cardamom powder.",
+      "Cook until mixture thickens.",
+      "Shape into small pedas and garnish with nuts.",
+      "Cool and serve."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "7 g" },
+      { "label": "Carbohydrate", "value": "28 g" },
+      { "label": "Calcium", "value": "210 mg" },
+      { "label": "Energy", "value": "260 kcal" },
+      { "label": "Iron", "value": "0.8 mg" },
+      { "label": "Mineral", "value": "0.4 g" },
+      { "label": "Fat", "value": "12 g" }
+    ],
+    "img": "Peda.jpg",
+    "cities": [
+      { "img": "Nimona.webp", "title": "Nimona" },
+      { "img": "Sag_paita.jpg", "title": "Sag Paita" },
+      { "img": "Petha.jpg", "title": "Petha" },
+      { "img": "Balushahi.jpg", "title": "Balushahi" },
+      { "img": "Malpua.jpg", "title": "Malpua" },
+      { "img": "Khurchan.jpg", "title": "Khurchan" }
+    ]
+  },
+  {
+    "label": "Balushahi",
+    "slug": "Balushahi",
+    "category": "cuisine/Kannauji",
+    "description": "Balushahi is a deep-fried traditional North Indian sweet made with flour, ghee, and sugar syrup. It has a flaky texture and a mildly sweet flavor.",
+    "cuisines": "Balushahi, often called the Indian doughnut, is a festive sweet popular in Uttar Pradesh and Bihar. Crisp outside and soft inside, it is soaked in flavored sugar syrup.",
+    "ingredients": [
+      { "item": "All-purpose flour", "quantity": "2 cups" },
+      { "item": "Ghee", "quantity": "1/2 cup" },
+      { "item": "Yogurt", "quantity": "1/2 cup" },
+      { "item": "Baking soda", "quantity": "a pinch" },
+      { "item": "Sugar", "quantity": "2 cups" },
+      { "item": "Water", "quantity": "1 cup" },
+      { "item": "Cardamom powder", "quantity": "1 teaspoon" },
+      { "item": "Pistachios/almonds", "quantity": "for garnish" }
+    ],
+    "method": [
+      "Mix flour, baking soda, and ghee until crumbly.",
+      "Add yogurt and knead into a soft dough.",
+      "Shape into small discs with a dent in the center.",
+      "Deep fry on low flame until golden and crisp.",
+      "Dip in sugar syrup flavored with cardamom.",
+      "Garnish with nuts and serve."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "5 g" },
+      { "label": "Carbohydrate", "value": "45 g" },
+      { "label": "Calcium", "value": "55 mg" },
+      { "label": "Energy", "value": "310 kcal" },
+      { "label": "Iron", "value": "1 mg" },
+      { "label": "Mineral", "value": "0.3 g" },
+      { "label": "Fat", "value": "15 g" }
+    ],
+    "img": "Balushahi.jpg",
+    "cities": [
+      { "img": "Nimona.webp", "title": "Nimona" },
+      { "img": "Sag_paita.jpg", "title": "Sag Paita" },
+      { "img": "Petha.jpg", "title": "Petha" },
+      { "img": "Peda.jpg", "title": "Peda" },
+      { "img": "Malpua.jpg", "title": "Malpua" },
+      { "img": "Khurchan.jpg", "title": "Khurchan" }
+    ]
+  },
+  {
+    "label": "Malpua",
+    "slug": "Malpua",
+    "category": "cuisine/Kannauji",
+    "description": "Malpua is a traditional Indian sweet pancake made with flour, milk, and sugar, deep-fried in ghee and dipped in sugar syrup.",
+    "cuisines": "Malpua is a festive delicacy popular in Uttar Pradesh, Bihar, and Rajasthan. Soft inside and crisp outside, it is often paired with rabri for a rich dessert experience.",
+    "ingredients": [
+      { "item": "All-purpose flour", "quantity": "1 cup" },
+      { "item": "Semolina (sooji)", "quantity": "1/4 cup" },
+      { "item": "Milk", "quantity": "1 cup" },
+      { "item": "Fennel seeds", "quantity": "1 teaspoon" },
+      { "item": "Sugar", "quantity": "1 cup" },
+      { "item": "Ghee", "quantity": "for frying" },
+      { "item": "Cardamom powder", "quantity": "1/2 teaspoon" }
+    ],
+    "method": [
+      "Mix flour, semolina, milk, fennel seeds, and cardamom to form a smooth batter.",
+      "Rest for 30 minutes.",
+      "Prepare sugar syrup of one-string consistency.",
+      "Fry small pancakes in ghee until golden brown.",
+      "Dip in sugar syrup and serve hot with rabri."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "6 g" },
+      { "label": "Carbohydrate", "value": "55 g" },
+      { "label": "Calcium", "value": "95 mg" },
+      { "label": "Energy", "value": "290 kcal" },
+      { "label": "Iron", "value": "1.2 mg" },
+      { "label": "Mineral", "value": "0.4 g" },
+      { "label": "Fat", "value": "12 g" }
+    ],
+    "img": "Malpua.jpg",
+    "cities": [
+      { "img": "Nimona.webp", "title": "Nimona" },
+      { "img": "Sag_paita.jpg", "title": "Sag Paita" },
+      { "img": "Petha.jpg", "title": "Petha" },
+      { "img": "Peda.jpg", "title": "Peda" },
+      { "img": "Balushahi.jpg", "title": "Balushahi" },
+      { "img": "Khurchan.jpg", "title": "Khurchan" }
+    ]
+  },
+  {
+    "label": "Khurchan",
+    "slug": "Khurchan",
+    "category": "cuisine/Kannauji",
+    "description": "Khurchan is a traditional sweet from Mathura made by simmering milk until thick layers form, which are then scraped and collected with sugar.",
+    "cuisines": "Mathura Khurchan is a unique sweet where milk is reduced until creamy layers form. These are sweetened and enjoyed as a rich delicacy, often offered in temples.",
+    "ingredients": [
+      { "item": "Full cream milk", "quantity": "1 liter" },
+      { "item": "Sugar", "quantity": "1/4 cup" },
+      { "item": "Cardamom powder", "quantity": "1/2 teaspoon" },
+      { "item": "Pistachios/almonds", "quantity": "for garnish" }
+    ],
+    "method": [
+      "Boil milk in a wide pan and let cream form on top.",
+      "Push cream to the sides and let more layers form.",
+      "Scrape the layers (khurchan) from sides and collect.",
+      "Mix with sugar and cardamom powder.",
+      "Garnish with nuts and serve chilled."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "8 g" },
+      { "label": "Carbohydrate", "value": "18 g" },
+      { "label": "Calcium", "value": "220 mg" },
+      { "label": "Energy", "value": "200 kcal" },
+      { "label": "Iron", "value": "0.3 mg" },
+      { "label": "Mineral", "value": "0.2 g" },
+      { "label": "Fat", "value": "9 g" }
+    ],
+    "img": "Khurchan.jpg",
+    "cities": [
+      { "img": "Nimona.webp", "title": "Nimona" },
+      { "img": "Sag_paita.jpg", "title": "Sag Paita" },
+      { "img": "Petha.jpg", "title": "Petha" },
+      { "img": "Peda.jpg", "title": "Peda" },
+      { "img": "Balushahi.jpg", "title": "Balushahi" },
+      { "img": "Malpua.jpg", "title": "Malpua" }
+    ]
+  },
+  {
+    "label": "Butter Chicken",
+    "slug": "Butter-chicken",
+    "category": "cuisine/Kaurvi",
+    "description": "Butter Chicken is a globally loved Punjabi curry made with chicken cooked in a rich, creamy tomato-based gravy with butter and aromatic spices.",
+    "cuisines": "Butter Chicken, also known as Murgh Makhani, is a Punjabi classic. Juicy chicken pieces are simmered in a mildly spiced, buttery, and creamy tomato sauce, making it a perfect pairing with naan or rice.",
+    "ingredients": [
+      { "item": "Chicken (boneless)", "quantity": "500 g" },
+      { "item": "Butter", "quantity": "3 tablespoons" },
+      { "item": "Tomato puree", "quantity": "1 cup" },
+      { "item": "Cream", "quantity": "1/2 cup" },
+      { "item": "Onion (finely chopped)", "quantity": "1" },
+      { "item": "Ginger-garlic paste", "quantity": "1 tablespoon" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Garam masala", "quantity": "1 teaspoon" },
+      { "item": "Kasuri methi", "quantity": "1 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" }
+    ],
+    "method": [
+      "Marinate chicken with yogurt, ginger-garlic paste, chili powder, and salt for 1–2 hours.",
+      "Cook chicken pieces in a pan until slightly charred.",
+      "In another pan, heat butter and sauté onions until golden.",
+      "Add tomato puree, spices, and cook till oil separates.",
+      "Add cream, kasuri methi, and chicken pieces. Simmer for 10 minutes.",
+      "Serve hot with naan or rice."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "27 g" },
+      { "label": "Carbohydrate", "value": "10 g" },
+      { "label": "Calcium", "value": "65 mg" },
+      { "label": "Energy", "value": "320 kcal" },
+      { "label": "Iron", "value": "1.2 mg" },
+      { "label": "Mineral", "value": "0.5 g" },
+      { "label": "Fat", "value": "20 g" }
+    ],
+    "img": "Butter_chicken.jpg",
+    "cities": [
+      { "img": "Tandoori_chiken.jpg", "title": "Tandoori Chicken" },
+      { "img": "Kadhi.jpg", "title": "Kadhi" },
+      { "img": "Sarson_da_saag.jpg", "title": "Sarson da saag" },
+      { "img": "Dal_Makkhani.jpg", "title": "Dal Makkhani" },
+      { "img": "Gol_Gappa.jpg", "title": "Gol Gappa (pani pori)" },
+      { "img": "Chaat.jpg", "title": "Chaat" },
+      { "img": "Butter_Naan.jpg", "title": "Butter Naan" },
+      { "img": "Jalebi.webp", "title": "Jalebi" }
+    ]
+  },
+  {
+    "label": "Tandoori Chicken",
+    "slug": "Tandoori-chicken",
+    "category": "cuisine/Kaurvi",
+    "description": "Tandoori Chicken is a world-famous North Indian dish made by marinating chicken in yogurt and spices, then roasting it in a clay oven (tandoor) for a smoky flavor.",
+    "cuisines": "Tandoori Chicken is a Punjabi-origin dish where chicken is marinated in spiced yogurt, then roasted in a traditional clay oven. It has a signature smoky aroma and is served with onion rings, lemon, and mint chutney.",
+    "ingredients": [
+      { "item": "Chicken (with bone)", "quantity": "1 kg" },
+      { "item": "Yogurt", "quantity": "1 cup" },
+      { "item": "Lemon juice", "quantity": "2 tablespoons" },
+      { "item": "Ginger-garlic paste", "quantity": "2 tablespoons" },
+      { "item": "Red chili powder", "quantity": "2 teaspoons" },
+      { "item": "Turmeric powder", "quantity": "1/2 teaspoon" },
+      { "item": "Garam masala", "quantity": "1 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Mustard oil", "quantity": "3 tablespoons" }
+    ],
+    "method": [
+      "Clean and make deep cuts on the chicken pieces.",
+      "Prepare marinade by mixing yogurt, lemon juice, ginger-garlic paste, chili powder, turmeric, garam masala, salt, and mustard oil.",
+      "Coat chicken pieces with the marinade and refrigerate for 4–6 hours or overnight.",
+      "Preheat tandoor/oven to high heat.",
+      "Roast chicken until cooked and slightly charred, basting with butter or oil occasionally.",
+      "Serve hot with onion rings, lemon wedges, and mint chutney."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "32 g" },
+      { "label": "Carbohydrate", "value": "6 g" },
+      { "label": "Calcium", "value": "70 mg" },
+      { "label": "Energy", "value": "280 kcal" },
+      { "label": "Iron", "value": "1.7 mg" },
+      { "label": "Mineral", "value": "0.4 g" },
+      { "label": "Fat", "value": "15 g" }
+    ],
+    "img": "Tandoori_chiken.jpg",
+    "cities": [
+      { "img": "Butter_chicken.jpg", "title": "Butter Chicken" },
+      { "img": "Kadhi.jpg", "title": "Kadhi" },
+      { "img": "Sarson_da_saag.jpg", "title": "Sarson da saag" },
+      { "img": "Dal_Makkhani.jpg", "title": "Dal Makkhani" },
+      { "img": "Gol_Gappa.jpg", "title": "Gol Gappa (pani pori)" },
+      { "img": "Chaat.jpg", "title": "Chaat" },
+      { "img": "Butter_Naan.jpg", "title": "Butter Naan" },
+      { "img": "Jalebi.webp", "title": "Jalebi" }
+    ]
+  },
+  {
+    "label": "Kadhi",
+    "slug": "Kadhi",
+    "category": "cuisine/Kaurvi",
+    "description": "Kadhi is a traditional North Indian dish made with yogurt and gram flour, simmered with spices and usually served with rice.",
+    "cuisines": "Kadhi is a comforting dish made with whisked yogurt, besan (gram flour), and spices, slow-cooked to a tangy curry. Often accompanied by pakoras, it is a staple in Punjabi and North Indian households.",
+    "ingredients": [
+      { "item": "Yogurt", "quantity": "2 cups" },
+      { "item": "Besan (gram flour)", "quantity": "4 tablespoons" },
+      { "item": "Onion (sliced)", "quantity": "1" },
+      { "item": "Ginger-garlic paste", "quantity": "1 teaspoon" },
+      { "item": "Turmeric powder", "quantity": "1/2 teaspoon" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Mustard seeds", "quantity": "1 teaspoon" },
+      { "item": "Curry leaves", "quantity": "6–7" },
+      { "item": "Oil", "quantity": "2 tablespoons" },
+      { "item": "Salt", "quantity": "to taste" }
+    ],
+    "method": [
+      "Whisk yogurt with besan, turmeric, chili powder, and 3 cups of water.",
+      "Heat oil in a pan, add mustard seeds, curry leaves, onions, and sauté till golden.",
+      "Add ginger-garlic paste and sauté for 1 minute.",
+      "Pour the yogurt-besan mixture into the pan and bring to a boil.",
+      "Simmer on low flame for 20–25 minutes until thickened.",
+      "Serve hot with steamed rice."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "9 g" },
+      { "label": "Carbohydrate", "value": "18 g" },
+      { "label": "Calcium", "value": "140 mg" },
+      { "label": "Energy", "value": "190 kcal" },
+      { "label": "Iron", "value": "2.2 mg" },
+      { "label": "Mineral", "value": "0.4 g" },
+      { "label": "Fat", "value": "8 g" }
+    ],
+    "img": "Kadhi.jpg",
+    "cities": [
+      { "img": "Butter_chicken.jpg", "title": "Butter Chicken" },
+      { "img": "Tandoori_chiken.jpg", "title": "Tandoori Chicken" },
+      { "img": "Dal_Makkhani.jpg", "title": "Dal Makkhani" },
+      { "img": "Sarson_da_saag.jpg", "title": "Sarson da saag" },
+      { "img": "Gol_Gappa.jpg", "title": "Gol Gappa (pani pori)" },
+      { "img": "Chaat.jpg", "title": "Chaat" },
+      { "img": "Butter_Naan.jpg", "title": "Butter Naan" },
+      { "img": "Jalebi.webp", "title": "Jalebi" }
+    ]
+  },
+  {
+    "label": "Sarson da Saag",
+    "slug": "Sarson-da-saag",
+    "category": "cuisine/Kaurvi",
+    "description": "Sarson da Saag is a traditional Punjabi winter delicacy made with mustard greens and spices, usually served with Makki di Roti and butter.",
+    "cuisines": "Sarson da Saag is a hearty dish prepared from mustard greens, spinach, and bathua (chenopodium leaves). Slow-cooked with onions, ginger, garlic, and spices, it is a rustic Punjabi favorite enjoyed with makki di roti and a dollop of ghee or butter.",
+    "ingredients": [
+      { "item": "Mustard greens (sarson)", "quantity": "2 bunches" },
+      { "item": "Spinach (palak)", "quantity": "1 bunch" },
+      { "item": "Bathua leaves", "quantity": "1 bunch" },
+      { "item": "Onion (chopped)", "quantity": "1" },
+      { "item": "Ginger-garlic paste", "quantity": "1 tablespoon" },
+      { "item": "Green chilies", "quantity": "2" },
+      { "item": "Maize flour (makki atta)", "quantity": "2 tablespoons" },
+      { "item": "Ghee", "quantity": "3 tablespoons" },
+      { "item": "Salt", "quantity": "to taste" }
+    ],
+    "method": [
+      "Clean and wash mustard greens, spinach, and bathua. Chop them finely.",
+      "Pressure cook the greens with green chilies and little water until soft.",
+      "Mash the cooked greens and add maize flour to thicken.",
+      "In a pan, heat ghee and sauté onions till golden. Add ginger-garlic paste and cook.",
+      "Add mashed greens and simmer for 20 minutes on low flame.",
+      "Serve hot with Makki di Roti and butter."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "11 g" },
+      { "label": "Carbohydrate", "value": "22 g" },
+      { "label": "Calcium", "value": "270 mg" },
+      { "label": "Energy", "value": "210 kcal" },
+      { "label": "Iron", "value": "3.8 mg" },
+      { "label": "Mineral", "value": "0.6 g" },
+      { "label": "Fat", "value": "10 g" }
+    ],
+    "img": "Sarson_da_saag.jpg",
+    "cities": [
+      { "img": "Butter_chicken.jpg", "title": "Butter Chicken" },
+      { "img": "Tandoori_chiken.jpg", "title": "Tandoori Chicken" },
+      { "img": "Kadhi.jpg", "title": "Kadhi" },
+      { "img": "Dal_Makkhani.jpg", "title": "Dal Makkhani" },
+      { "img": "Gol_Gappa.jpg", "title": "Gol Gappa (pani pori)" },
+      { "img": "Chaat.jpg", "title": "Chaat" },
+      { "img": "Butter_Naan.jpg", "title": "Butter Naan" },
+      { "img": "Jalebi.webp", "title": "Jalebi" }
+    ]
+  },
+  {
+    "label": "Dal Makkhani",
+    "slug": "Dal-Makkhani",
+    "category": "cuisine/Kaurvi",
+    "description": "Dal Makkhani is a rich and creamy Punjabi dish made with black lentils (urad dal), kidney beans, butter, and cream, slow-cooked to perfection.",
+    "cuisines": "Dal Makkhani is one of the most popular Punjabi delicacies. Whole black lentils and kidney beans are simmered for hours with butter, cream, and aromatic spices, creating a luscious, smoky, and velvety dish that pairs perfectly with naan or rice.",
+    "ingredients": [
+      { "item": "Whole black urad dal", "quantity": "1 cup" },
+      { "item": "Kidney beans (rajma)", "quantity": "1/4 cup" },
+      { "item": "Onion (chopped)", "quantity": "1" },
+      { "item": "Tomato puree", "quantity": "1 cup" },
+      { "item": "Ginger-garlic paste", "quantity": "1 tablespoon" },
+      { "item": "Butter", "quantity": "3 tablespoons" },
+      { "item": "Fresh cream", "quantity": "1/2 cup" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Garam masala", "quantity": "1 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" }
+    ],
+    "method": [
+      "Soak urad dal and rajma overnight. Pressure cook until soft.",
+      "In a pan, heat butter and sauté onions till golden.",
+      "Add ginger-garlic paste and cook till aromatic.",
+      "Stir in tomato puree, spices, and cook till oil separates.",
+      "Add cooked dal and rajma, simmer on low flame for 1–2 hours.",
+      "Finish with cream and butter. Serve hot with naan or rice."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "15 g" },
+      { "label": "Carbohydrate", "value": "30 g" },
+      { "label": "Calcium", "value": "120 mg" },
+      { "label": "Energy", "value": "280 kcal" },
+      { "label": "Iron", "value": "3.5 mg" },
+      { "label": "Mineral", "value": "0.7 g" },
+      { "label": "Fat", "value": "12 g" }
+    ],
+    "img": "Dal_Makkhani.jpg",
+    "cities": [
+      { "img": "Butter_chicken.jpg", "title": "Butter Chicken" },
+      { "img": "Tandoori_chiken.jpg", "title": "Tandoori Chicken" },
+      { "img": "Kadhi.jpg", "title": "Kadhi" },
+      { "img": "Sarson_da_saag.jpg", "title": "Sarson da saag" },
+      { "img": "Gol_Gappa.jpg", "title": "Gol Gappa (pani pori)" },
+      { "img": "Chaat.jpg", "title": "Chaat" },
+      { "img": "Butter_Naan.jpg", "title": "Butter Naan" },
+      { "img": "Jalebi.webp", "title": "Jalebi" }
+    ]
+  },
+  {
+    "label": "Gol Gappa (pani pori)",
+    "slug": "Gol-Gappa-(pani-pori)",
+    "category": "cuisine/Kaurvi",
+    "description": "Gol Gappa, also known as Pani Puri, is a popular Indian street food made with crispy puris filled with spicy, tangy water, mashed potatoes, chickpeas, and chutneys.",
+    "cuisines": "Gol Gappa is the ultimate Indian street snack, loved across the country. The hollow puris are stuffed with spiced mashed potatoes, chickpeas, and filled with tangy tamarind water and spicy mint water. Each bite bursts with flavor and crunch.",
+    "ingredients": [
+      { "item": "Sooji (semolina)", "quantity": "1 cup" },
+      { "item": "All-purpose flour (maida)", "quantity": "2 tablespoons" },
+      { "item": "Boiled potatoes (mashed)", "quantity": "2" },
+      { "item": "Boiled chickpeas", "quantity": "1/2 cup" },
+      { "item": "Tamarind pulp", "quantity": "1/4 cup" },
+      { "item": "Mint leaves", "quantity": "1/2 cup" },
+      { "item": "Green chilies", "quantity": "2" },
+      { "item": "Black salt", "quantity": "1 teaspoon" },
+      { "item": "Cumin powder", "quantity": "1 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" }
+    ],
+    "method": [
+      "Knead sooji and maida with water into a stiff dough, rest for 20 minutes.",
+      "Roll and fry small puris until puffed and crispy.",
+      "Prepare mint-spice water and tamarind-sweet water separately.",
+      "Mix mashed potatoes and chickpeas with spices for stuffing.",
+      "Crack the top of each puri, fill with potato-chickpea mix.",
+      "Dip in spiced water and serve immediately."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "6 g" },
+      { "label": "Carbohydrate", "value": "40 g" },
+      { "label": "Calcium", "value": "30 mg" },
+      { "label": "Energy", "value": "210 kcal" },
+      { "label": "Iron", "value": "1.8 mg" },
+      { "label": "Mineral", "value": "0.4 g" },
+      { "label": "Fat", "value": "5 g" }
+    ],
+    "img": "Gol_Gappa.jpg",
+    "cities": [
+      { "img": "Butter_chicken.jpg", "title": "Butter Chicken" },
+      { "img": "Tandoori_chiken.jpg", "title": "Tandoori Chicken" },
+      { "img": "Kadhi.jpg", "title": "Kadhi" },
+      { "img": "Sarson_da_saag.jpg", "title": "Sarson da saag" },
+      { "img": "Dal_Makkhani.jpg", "title": "Dal Makkhani" },
+      { "img": "Chaat.jpg", "title": "Chaat" },
+      { "img": "Butter_Naan.jpg", "title": "Butter Naan" },
+      { "img": "Jalebi.webp", "title": "Jalebi" }
+    ]
+  },
+  {
+    "label": "Chaat",
+    "slug": "Chaat",
+    "category": "cuisine/Kaurvi",
+    "description": "Chaat is a tangy, spicy, and savory Indian street food snack made with a mix of fried items, chutneys, curd, potatoes, chickpeas, and spices.",
+    "cuisines": "Chaat is one of the most loved Indian street foods, offering a burst of sweet, tangy, spicy, and crunchy flavors. It is usually made with papdi, aloo tikki, chickpeas, dahi, chutneys, and spices, and is enjoyed as a popular snack in North India.",
+    "ingredients": [
+      { "item": "Papdi (crispy wafers)", "quantity": "10–12 pieces" },
+      { "item": "Boiled potatoes (diced)", "quantity": "2" },
+      { "item": "Boiled chickpeas", "quantity": "1/2 cup" },
+      { "item": "Curd (whisked)", "quantity": "1 cup" },
+      { "item": "Tamarind chutney", "quantity": "2 tablespoons" },
+      { "item": "Green chutney", "quantity": "2 tablespoons" },
+      { "item": "Onion (finely chopped)", "quantity": "1 small" },
+      { "item": "Chaat masala", "quantity": "1 teaspoon" },
+      { "item": "Red chili powder", "quantity": "1/2 teaspoon" },
+      { "item": "Sev", "quantity": "1/4 cup" },
+      { "item": "Salt", "quantity": "to taste" }
+    ],
+    "method": [
+      "Arrange papdis on a plate.",
+      "Top with diced boiled potatoes and chickpeas.",
+      "Pour whisked curd generously over it.",
+      "Drizzle tamarind chutney and green chutney.",
+      "Sprinkle chaat masala, chili powder, and salt.",
+      "Garnish with onions and sev.",
+      "Serve immediately for best taste."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "7 g" },
+      { "label": "Carbohydrate", "value": "35 g" },
+      { "label": "Calcium", "value": "90 mg" },
+      { "label": "Energy", "value": "220 kcal" },
+      { "label": "Iron", "value": "1.1 mg" },
+      { "label": "Mineral", "value": "0.4 g" },
+      { "label": "Fat", "value": "8 g" }
+    ],
+    "img": "Chaat.jpg",
+    "cities": [
+      { "img": "Butter_chicken.jpg", "title": "Butter Chicken" },
+      { "img": "Tandoori_chiken.jpg", "title": "Tandoori Chicken" },
+      { "img": "Kadhi.jpg", "title": "Kadhi" },
+      { "img": "Sarson_da_saag.jpg", "title": "Sarson da saag" },
+      { "img": "Dal_Makkhani.jpg", "title": "Dal Makkhani" },
+      { "img": "Gol_Gappa.jpg", "title": "Gol Gappa (pani pori)" },
+      { "img": "Butter_Naan.jpg", "title": "Butter Naan" },
+      { "img": "Jalebi.webp", "title": "Jalebi" }
+    ]
+  },
+  {
+    "label": "Butter Naan",
+    "slug": "Butter-naan",
+    "category": "cuisine/Kaurvi",
+    "description": "Butter Naan is a soft and fluffy Indian flatbread made with refined flour, baked in a tandoor, and brushed with butter for a rich flavor.",
+    "cuisines": "Butter Naan is one of the most popular North Indian breads. It is made with refined flour dough, cooked traditionally in a tandoor (clay oven), and brushed with butter to give it a soft texture and rich taste. It pairs perfectly with curries like Butter Chicken, Dal Makhani, and Paneer dishes.",
+    "ingredients": [
+      { "item": "All-purpose flour (maida)", "quantity": "2 cups" },
+      { "item": "Curd", "quantity": "1/2 cup" },
+      { "item": "Milk", "quantity": "1/4 cup" },
+      { "item": "Baking powder", "quantity": "1 teaspoon" },
+      { "item": "Baking soda", "quantity": "1/4 teaspoon" },
+      { "item": "Salt", "quantity": "1/2 teaspoon" },
+      { "item": "Sugar", "quantity": "1 teaspoon" },
+      { "item": "Oil or ghee", "quantity": "2 tablespoons" },
+      { "item": "Butter", "quantity": "for brushing" }
+    ],
+    "method": [
+      "Mix flour, salt, sugar, baking powder, and soda in a bowl.",
+      "Add curd, milk, and oil to knead into a soft dough.",
+      "Cover and rest for 2–3 hours.",
+      "Divide dough into balls and roll into naan shapes.",
+      "Cook in tandoor or on a hot tawa till golden spots appear.",
+      "Brush with butter generously.",
+      "Serve hot with curries."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "8 g" },
+      { "label": "Carbohydrate", "value": "45 g" },
+      { "label": "Calcium", "value": "40 mg" },
+      { "label": "Energy", "value": "280 kcal" },
+      { "label": "Iron", "value": "2.1 mg" },
+      { "label": "Mineral", "value": "0.5 g" },
+      { "label": "Fat", "value": "9 g" }
+    ],
+    "img": "Butter_Naan.jpg",
+    "cities": [
+      { "img": "Butter_chicken.jpg", "title": "Butter Chicken" },
+      { "img": "Tandoori_chiken.jpg", "title": "Tandoori Chicken" },
+      { "img": "Kadhi.jpg", "title": "Kadhi" },
+      { "img": "Sarson_da_saag.jpg", "title": "Sarson da saag" },
+      { "img": "Dal_Makkhani.jpg", "title": "Dal Makkhani" },
+      { "img": "Gol_Gappa.jpg", "title": "Gol Gappa (pani pori)" },
+      { "img": "Chaat.jpg", "title": "Chaat" },
+      { "img": "Jalebi.webp", "title": "Jalebi" }
+    ]
+  },
+  {
+    "label": "Besan Ke Aaloo",
+    "slug": "Besan-Ke-Aaloo",
+    "category": "cuisine/Bundeli",
+    "description": "Besan Ke Aaloo is a traditional Bundeli curry made with potatoes simmered in a spiced gram flour (besan) gravy, giving it a rustic and earthy flavor.",
+    "cuisines": "This Bundelkhandi delicacy combines boiled potatoes with roasted gram flour, tempered with spices, and simmered till thick. It is often served with roti or rice in rural households.",
+    "ingredients": [
+      { "item": "Potatoes (boiled)", "quantity": "3–4 medium" },
+      { "item": "Gram flour (besan)", "quantity": "1/2 cup" },
+      { "item": "Onion (chopped)", "quantity": "1" },
+      { "item": "Tomato (chopped)", "quantity": "1" },
+      { "item": "Green chili", "quantity": "2" },
+      { "item": "Ginger-garlic paste", "quantity": "1 teaspoon" },
+      { "item": "Turmeric powder", "quantity": "1/2 teaspoon" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Coriander powder", "quantity": "1 teaspoon" },
+      { "item": "Cumin seeds", "quantity": "1/2 teaspoon" },
+      { "item": "Mustard oil/ghee", "quantity": "2 tablespoons" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Water", "quantity": "2 cups" }
+    ],
+    "method": [
+      "Dry roast besan until golden and aromatic.",
+      "Heat oil, add cumin seeds, onion, and sauté.",
+      "Add ginger-garlic paste, tomato, and spices.",
+      "Stir in roasted besan and add water to make a gravy.",
+      "Add boiled potatoes (cubed) and simmer for 10 minutes.",
+      "Serve hot with roti or rice."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "7 g" },
+      { "label": "Carbohydrate", "value": "32 g" },
+      { "label": "Calcium", "value": "45 mg" },
+      { "label": "Energy", "value": "210 kcal" },
+      { "label": "Iron", "value": "1.6 mg" },
+      { "label": "Mineral", "value": "0.4 g" },
+      { "label": "Fat", "value": "8 g" }
+    ],
+    "img": "Besan_Ke_Aaloo.jpg",
+    "cities": [
+      { "img": "Maheri.jpg", "title": "Maheri" },
+      { "img": "Bara.jpg", "title": "Bara" },
+      { "img": "Dal_Bafla.jpg", "title": "Dal Bafla" },
+      { "img": "Ras_Kheer.jpg", "title": "Ras Kheer" },
+      { "img": "chakki_Ki_shaak.jpg", "title": "Chakki Ki Shaak" },
+      { "img": "Bhaaf_ki_Bati.jpg", "title": "Bhaaf ki Bati" },
+      { "img": "Bafafi.png", "title": "Bafafi" }
+    ]
+  },
+  {
+    "label": "Maheri",
+    "slug": "Maheri",
+    "category": "cuisine/Bundeli",
+    "description": "Maheri is a rustic Bundelkhandi porridge made from millet flour (bajra or jowar) or wheat, cooked with buttermilk or curd, giving it a tangy and wholesome taste.",
+    "cuisines": "Traditionally prepared as a farmer’s meal, Maheri is light, cooling, and nutritious. It is often consumed during summers as a refreshing and filling food.",
+    "ingredients": [
+      { "item": "Millet flour (bajra/jowar)", "quantity": "1/2 cup" },
+      { "item": "Buttermilk/curd", "quantity": "2 cups" },
+      { "item": "Water", "quantity": "1 cup" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Cumin powder", "quantity": "1/2 teaspoon" }
+    ],
+    "method": [
+      "Mix flour with buttermilk and water to make a smooth mixture.",
+      "Cook on low flame, stirring to avoid lumps.",
+      "Add salt and cumin powder, simmer till thickened.",
+      "Serve warm or chilled."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "6 g" },
+      { "label": "Carbohydrate", "value": "28 g" },
+      { "label": "Calcium", "value": "60 mg" },
+      { "label": "Energy", "value": "180 kcal" },
+      { "label": "Iron", "value": "1.4 mg" },
+      { "label": "Fat", "value": "3 g" }
+    ],
+    "img": "Maheri.jpg",
+    "cities": [
+      { "img": "Bara.jpg", "title": "Bara" },
+      { "img": "Dal_Bafla.jpg", "title": "Dal Bafla" },
+      { "img": "Ras_Kheer.jpg", "title": "Ras Kheer" },
+      { "img": "chakki_Ki_shaak.jpg", "title": "Chakki Ki Shaak" },
+      { "img": "Bhaaf_ki_Bati.jpg", "title": "Bhaaf ki Bati" },
+      { "img": "Bafafi.png", "title": "Bafafi" },
+      { "img": "Besan_Ke_Aaloo.jpg", "title": "Besan Ke Aaloo" }
+    ]
+  },
+  {
+    "label": "Bara",
+    "slug": "Bara",
+    "category": "cuisine/Bundeli",
+    "description": "Bara is a traditional Bundelkhandi fried snack made from urad dal paste, similar to medu vada, crisp outside and soft inside.",
+    "cuisines": "Bara is often prepared during festivals and special occasions in Bundelkhand. It is served with chutney or curd.",
+    "ingredients": [
+      { "item": "Urad dal (split black gram)", "quantity": "1 cup" },
+      { "item": "Ginger", "quantity": "1 inch piece" },
+      { "item": "Green chili", "quantity": "2" },
+      { "item": "Cumin seeds", "quantity": "1/2 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Oil", "quantity": "for frying" }
+    ],
+    "method": [
+      "Soak urad dal overnight and grind into smooth paste.",
+      "Mix in ginger, green chili, cumin, and salt.",
+      "Heat oil and deep fry small portions till golden brown.",
+      "Serve hot with chutney or curd."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "9 g" },
+      { "label": "Carbohydrate", "value": "20 g" },
+      { "label": "Calcium", "value": "30 mg" },
+      { "label": "Energy", "value": "240 kcal" },
+      { "label": "Iron", "value": "1.8 mg" },
+      { "label": "Fat", "value": "12 g" }
+    ],
+    "img": "Bara.jpg",
+    "cities": [
+      { "img": "Maheri.jpg", "title": "Maheri" },
+      { "img": "Dal_Bafla.jpg", "title": "Dal Bafla" },
+      { "img": "Ras_Kheer.jpg", "title": "Ras Kheer" },
+      { "img": "chakki_Ki_shaak.jpg", "title": "Chakki Ki Shaak" },
+      { "img": "Bhaaf_ki_Bati.jpg", "title": "Bhaaf ki Bati" },
+      { "img": "Bafafi.png", "title": "Bafafi" },
+      { "img": "Besan_Ke_Aaloo.jpg", "title": "Besan Ke Aaloo" }
+    ]
+  },
+  {
+    "label": "Dal Bafla",
+    "slug": "Dal-Bafla",
+    "category": "cuisine/Bundeli",
+    "description": "Dal Bafla is a Bundeli dish similar to Dal Baati, made with wheat dough balls boiled, baked, and served with ghee and dal.",
+    "cuisines": "A wholesome Bundelkhandi dish, Dal Bafla is enjoyed with rich ghee and spicy dal, making it a festive delicacy.",
+    "ingredients": [
+      { "item": "Wheat flour", "quantity": "2 cups" },
+      { "item": "Semolina (sooji)", "quantity": "1/2 cup" },
+      { "item": "Ghee", "quantity": "2 tablespoons" },
+      { "item": "Salt", "quantity": "1 teaspoon" },
+      { "item": "Tur dal (pigeon pea)", "quantity": "1 cup" },
+      { "item": "Onion", "quantity": "1" },
+      { "item": "Garlic", "quantity": "4 cloves" },
+      { "item": "Spices", "quantity": "as needed" }
+    ],
+    "method": [
+      "Prepare dough with wheat flour, semolina, salt, and ghee.",
+      "Make balls and boil in water till half cooked.",
+      "Bake them till crisp outside.",
+      "Serve with spicy dal and lots of ghee."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "12 g" },
+      { "label": "Carbohydrate", "value": "52 g" },
+      { "label": "Calcium", "value": "50 mg" },
+      { "label": "Energy", "value": "340 kcal" },
+      { "label": "Iron", "value": "3 mg" },
+      { "label": "Fat", "value": "14 g" }
+    ],
+    "img": "Dal_Bafla.jpg",
+    "cities": [
+      { "img": "Maheri.jpg", "title": "Maheri" },
+      { "img": "Bara.jpg", "title": "Bara" },
+      { "img": "Ras_Kheer.jpg", "title": "Ras Kheer" },
+      { "img": "chakki_Ki_shaak.jpg", "title": "Chakki Ki Shaak" },
+      { "img": "Bhaaf_ki_Bati.jpg", "title": "Bhaaf ki Bati" },
+      { "img": "Bafafi.png", "title": "Bafafi" },
+      { "img": "Besan_Ke_Aaloo.jpg", "title": "Besan Ke Aaloo" }
+    ]
+  },
+  {
+    "label": "Ras Kheer",
+    "slug": "Ras-Kheer",
+    "category": "cuisine/Bundeli",
+    "description": "Ras Kheer is a Bundeli-style rice kheer cooked with sugarcane juice instead of milk, giving it a unique caramel-like flavor.",
+    "cuisines": "A festive Bundeli dessert, Ras Kheer is prepared in winters when fresh sugarcane juice is available.",
+    "ingredients": [
+      { "item": "Rice", "quantity": "1/2 cup" },
+      { "item": "Sugarcane juice", "quantity": "4 cups" },
+      { "item": "Cardamom", "quantity": "2 pods" },
+      { "item": "Ghee", "quantity": "1 teaspoon" },
+      { "item": "Dry fruits", "quantity": "2 tablespoons" }
+    ],
+    "method": [
+      "Wash rice and cook in sugarcane juice.",
+      "Add cardamom and ghee while cooking.",
+      "Stir continuously till thickened.",
+      "Garnish with dry fruits and serve warm."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "5 g" },
+      { "label": "Carbohydrate", "value": "60 g" },
+      { "label": "Calcium", "value": "40 mg" },
+      { "label": "Energy", "value": "270 kcal" },
+      { "label": "Iron", "value": "1.2 mg" },
+      { "label": "Fat", "value": "4 g" }
+    ],
+    "img": "Ras_Kheer.jpg",
+    "cities": [
+      { "img": "Maheri.jpg", "title": "Maheri" },
+      { "img": "Bara.jpg", "title": "Bara" },
+      { "img": "Dal_Bafla.jpg", "title": "Dal Bafla" },
+      { "img": "chakki_Ki_shaak.jpg", "title": "Chakki Ki Shaak" },
+      { "img": "Bhaaf_ki_Bati.jpg", "title": "Bhaaf ki Bati" },
+      { "img": "Bafafi.png", "title": "Bafafi" },
+      { "img": "Besan_Ke_Aaloo.jpg", "title": "Besan Ke Aaloo" }
+    ]
+  },
+  {
+    "label": "Chakki Ki Shaak",
+    "slug": "Chakki-Ki-Shaak",
+    "category": "cuisine/Bundeli",
+    "description": "Chakki Ki Shaak is a Bundelkhandi curry made with wheat gluten dumplings cooked in spicy gravy.",
+    "cuisines": "This dish is prepared by kneading wheat dough, washing out the starch, and cooking the gluten pieces in a flavorful curry.",
+    "ingredients": [
+      { "item": "Wheat flour", "quantity": "2 cups" },
+      { "item": "Onion", "quantity": "2" },
+      { "item": "Tomato", "quantity": "2" },
+      { "item": "Ginger-garlic paste", "quantity": "1 tablespoon" },
+      { "item": "Spices", "quantity": "as required" },
+      { "item": "Oil", "quantity": "3 tablespoons" }
+    ],
+    "method": [
+      "Knead dough and wash under water to separate gluten.",
+      "Cut gluten into pieces and boil.",
+      "Prepare onion-tomato gravy with spices.",
+      "Add boiled gluten pieces and simmer.",
+      "Serve hot with roti."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "10 g" },
+      { "label": "Carbohydrate", "value": "40 g" },
+      { "label": "Calcium", "value": "25 mg" },
+      { "label": "Energy", "value": "250 kcal" },
+      { "label": "Iron", "value": "2.5 mg" },
+      { "label": "Fat", "value": "8 g" }
+    ],
+    "img": "chakki_Ki_shaak.jpg",
+    "cities": [
+      { "img": "Maheri.jpg", "title": "Maheri" },
+      { "img": "Bara.jpg", "title": "Bara" },
+      { "img": "Dal_Bafla.jpg", "title": "Dal Bafla" },
+      { "img": "Ras_Kheer.jpg", "title": "Ras Kheer" },
+      { "img": "Bhaaf_ki_Bati.jpg", "title": "Bhaaf ki Bati" },
+      { "img": "Bafafi.png", "title": "Bafafi" },
+      { "img": "Besan_Ke_Aaloo.jpg", "title": "Besan Ke Aaloo" }
+    ]
+  },
+  {
+    "label": "Bhaaf ki Bati",
+    "slug": "Bhaaf-ki-Bati",
+    "category": "cuisine/Bundeli",
+    "description": "Bhaaf ki Bati is a Bundelkhandi dish where wheat dough balls are steamed instead of being baked or roasted.",
+    "cuisines": "This healthier variation of bati is soft and easy to digest, usually served with ghee and dal.",
+    "ingredients": [
+      { "item": "Wheat flour", "quantity": "2 cups" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Ghee", "quantity": "2 tablespoons" },
+      { "item": "Water", "quantity": "as needed" }
+    ],
+    "method": [
+      "Knead wheat flour with salt, ghee, and water.",
+      "Shape into balls and steam till cooked.",
+      "Serve with hot dal and ghee."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "8 g" },
+      { "label": "Carbohydrate", "value": "46 g" },
+      { "label": "Calcium", "value": "28 mg" },
+      { "label": "Energy", "value": "280 kcal" },
+      { "label": "Iron", "value": "2.5 mg" },
+      { "label": "Fat", "value": "8 g" }
+    ],
+    "img": "Bhaaf_ki_Bati.jpg",
+    "cities": [
+      { "img": "Maheri.jpg", "title": "Maheri" },
+      { "img": "Bara.jpg", "title": "Bara" },
+      { "img": "Dal_Bafla.jpg", "title": "Dal Bafla" },
+      { "img": "Ras_Kheer.jpg", "title": "Ras Kheer" },
+      { "img": "chakki_Ki_shaak.jpg", "title": "Chakki Ki Shaak" },
+      { "img": "Bafafi.png", "title": "Bafafi" },
+      { "img": "Besan_Ke_Aaloo.jpg", "title": "Besan Ke Aaloo" }
+    ]
+  },
+  {
+    "label": "Bafafi",
+    "slug": "Bafafi",
+    "category": "cuisine/Bundeli",
+    "description": "Bafafi is a Bundeli sweet dish made with wheat flour and jaggery, shaped into rolls or discs and steamed.",
+    "cuisines": "It is a festive dish, prepared especially in winters, rich in energy and nutrients.",
+    "ingredients": [
+      { "item": "Wheat flour", "quantity": "2 cups" },
+      { "item": "Jaggery (gur)", "quantity": "1 cup" },
+      { "item": "Ghee", "quantity": "2 tablespoons" },
+      { "item": "Fennel seeds", "quantity": "1 teaspoon" },
+      { "item": "Water", "quantity": "as required" }
+    ],
+    "method": [
+      "Melt jaggery in water to make syrup.",
+      "Mix with wheat flour, ghee, and fennel to make a dough.",
+      "Shape into rolls or discs and steam.",
+      "Serve warm."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "7 g" },
+      { "label": "Carbohydrate", "value": "60 g" },
+      { "label": "Calcium", "value": "32 mg" },
+      { "label": "Energy", "value": "310 kcal" },
+      { "label": "Iron", "value": "2.1 mg" },
+      { "label": "Fat", "value": "6 g" }
+    ],
+    "img": "Bafafi.png",
+    "cities": [
+      { "img": "Maheri.jpg", "title": "Maheri" },
+      { "img": "Bara.jpg", "title": "Bara" },
+      { "img": "Dal_Bafla.jpg", "title": "Dal Bafla" },
+      { "img": "Ras_Kheer.jpg", "title": "Ras Kheer" },
+      { "img": "chakki_Ki_shaak.jpg", "title": "Chakki Ki Shaak" },
+      { "img": "Bhaaf_ki_Bati.jpg", "title": "Bhaaf ki Bati" },
+      { "img": "Besan_Ke_Aaloo.jpg", "title": "Besan Ke Aaloo" }
+    ]
+  },
+  {
+    "label": "Indrahar",
+    "slug": "Indrahar",
+    "category": "cuisine/Bagheli",
+    "description": "Indrahar is a traditional Bagheli sweet dish made with wheat flour and jaggery, shaped into rolls or discs and steamed.",
+    "cuisines": "This festive sweet is especially prepared during winters in the Baghelkhand region, rich in energy and nutrients, and often enjoyed with tea or milk.",
+    "ingredients": [
+      { "item": "Wheat flour", "quantity": "2 cups" },
+      { "item": "Jaggery (gur)", "quantity": "1 cup" },
+      { "item": "Ghee", "quantity": "2 tablespoons" },
+      { "item": "Fennel seeds", "quantity": "1 teaspoon" },
+      { "item": "Water", "quantity": "as required" }
+    ],
+    "method": [
+      "Melt jaggery in water to make syrup.",
+      "Mix with wheat flour, ghee, and fennel to make a dough.",
+      "Shape into rolls or discs and steam.",
+      "Serve warm."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "7 g" },
+      { "label": "Carbohydrate", "value": "60 g" },
+      { "label": "Calcium", "value": "32 mg" },
+      { "label": "Energy", "value": "310 kcal" },
+      { "label": "Iron", "value": "2.1 mg" },
+      { "label": "Fat", "value": "6 g" }
+    ],
+    "img": "Indrahar.webp",
+    "cities": [
+      { "img": "Rasaj_kadhi.jpg", "title": "Rasaj Kadhi" },
+      { "img": "Kusli.jpg", "title": "Kusli" },
+      { "img": "chicken_Bagheli.jpg", "title": "chicken Bagheli" },
+      { "img": "Jalebi.webp", "title": "Jalebi" }
+    ]
+  },
+  {
+    "label": "Rasaj Kadhi",
+    "slug": "Rasaj-Kadhi",
+    "category": "cuisine/Bagheli",
+    "description": "Rasaj Kadhi is a traditional Bagheli curry made from yogurt and gram flour, tempered with spices for a tangy and savory flavor.",
+    "cuisines": "This kadhi is a staple in Baghelkhand cuisine, light, tangy, and often served with steamed rice or rotis.",
+    "ingredients": [
+      { "item": "Curd (yogurt)", "quantity": "2 cups" },
+      { "item": "Gram flour (besan)", "quantity": "3 tablespoons" },
+      { "item": "Water", "quantity": "2 cups" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Turmeric powder", "quantity": "1/2 teaspoon" },
+      { "item": "Ginger", "quantity": "1 inch, grated" },
+      { "item": "Green chilies", "quantity": "2, slit" },
+      { "item": "Ghee or oil", "quantity": "2 tablespoons" },
+      { "item": "Cumin seeds", "quantity": "1 teaspoon" },
+      { "item": "Asafoetida (hing)", "quantity": "a pinch" }
+    ],
+    "method": [
+      "Mix curd and gram flour into a smooth paste with water.",
+      "Heat ghee, add cumin seeds and asafoetida.",
+      "Add grated ginger and green chilies, sauté briefly.",
+      "Add the yogurt-besan mixture and turmeric.",
+      "Cook on low flame, stirring until kadhi thickens.",
+      "Serve hot with rice or roti."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "6 g" },
+      { "label": "Carbohydrate", "value": "15 g" },
+      { "label": "Calcium", "value": "80 mg" },
+      { "label": "Energy", "value": "120 kcal" },
+      { "label": "Iron", "value": "1.2 mg" },
+      { "label": "Fat", "value": "5 g" }
+    ],
+    "img": "Rasaj_kadhi.jpg",
+    "cities": [
+      { "img": "Indrahar.webp", "title": "Indrahar" },
+      { "img": "Kusli.jpg", "title": "Kusli" },
+      { "img": "chicken_Bagheli.jpg", "title": "chicken Bagheli" },
+      { "img": "Jalebi.webp", "title": "Jalebi" }
+    ]
+  },
+  {
+    "label": "Kusli",
+    "slug": "Kusli",
+    "category": "cuisine/Bagheli",
+    "description": "Kusli is a crispy and savory snack from Baghelkhand made with gram flour, deep fried till golden brown.",
+    "cuisines": "A popular tea-time snack, Kusli is crunchy, lightly spiced, and perfect for festive occasions.",
+    "ingredients": [
+      { "item": "Gram flour (besan)", "quantity": "1 cup" },
+      { "item": "Rice flour", "quantity": "2 tablespoons" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Red chili powder", "quantity": "1/2 teaspoon" },
+      { "item": "Carom seeds (ajwain)", "quantity": "1/2 teaspoon" },
+      { "item": "Water", "quantity": "as needed" },
+      { "item": "Oil", "quantity": "for deep frying" }
+    ],
+    "method": [
+      "Mix all dry ingredients, add water to make thick dough.",
+      "Roll small balls, flatten slightly.",
+      "Deep fry in hot oil till golden and crisp.",
+      "Serve as snack or tea-time treat."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "5 g" },
+      { "label": "Carbohydrate", "value": "20 g" },
+      { "label": "Calcium", "value": "20 mg" },
+      { "label": "Energy", "value": "150 kcal" },
+      { "label": "Iron", "value": "1.0 mg" },
+      { "label": "Fat", "value": "8 g" }
+    ],
+    "img": "Kusli.jpg",
+    "cities": [
+      { "img": "Indrahar.webp", "title": "Indrahar" },
+      { "img": "Rasaj_kadhi.jpg", "title": "Rasaj Kadhi" },
+      { "img": "chicken_Bagheli.jpg", "title": "chicken Bagheli" },
+      { "img": "Jalebi.webp", "title": "Jalebi" }
+    ]
+  },
+  {
+    "label": "Chicken Bagheli",
+    "slug": "Chicken-Bagheli",
+    "category": "cuisine/Bagheli",
+    "description": "Chicken Bagheli is a traditional non-vegetarian curry from Baghelkhand, cooked with local spices, yogurt, and aromatic herbs.",
+    "cuisines": "A rich and flavorful dish, it is usually prepared during special occasions and festivals in the Bagheli region.",
+    "ingredients": [
+      { "item": "Chicken (cut pieces)", "quantity": "500 g" },
+      { "item": "Yogurt", "quantity": "1/2 cup" },
+      { "item": "Onion", "quantity": "2, finely chopped" },
+      { "item": "Ginger-garlic paste", "quantity": "1 tablespoon" },
+      { "item": "Turmeric powder", "quantity": "1/2 teaspoon" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Garam masala", "quantity": "1 teaspoon" },
+      { "item": "Oil", "quantity": "3 tablespoons" },
+      { "item": "Salt", "quantity": "to taste" }
+    ],
+    "method": [
+      "Marinate chicken with yogurt, turmeric, chili powder, and salt for 1 hour.",
+      "Heat oil, sauté onions till golden.",
+      "Add ginger-garlic paste, cook briefly.",
+      "Add chicken and cook till tender.",
+      "Sprinkle garam masala, simmer 5–10 minutes.",
+      "Serve hot with roti or rice."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "28 g" },
+      { "label": "Carbohydrate", "value": "6 g" },
+      { "label": "Calcium", "value": "40 mg" },
+      { "label": "Energy", "value": "260 kcal" },
+      { "label": "Iron", "value": "1.5 mg" },
+      { "label": "Fat", "value": "15 g" }
+    ],
+    "img": "chicken_Bagheli.jpg",
+    "cities": [
+      { "img": "Indrahar.webp", "title": "Indrahar" },
+      { "img": "Rasaj_kadhi.jpg", "title": "Rasaj Kadhi" },
+      { "img": "Kusli.jpg", "title": "Kusli" },
+      { "img": "Jalebi.webp", "title": "Jalebi" }
+    ]
+  },
+  {
+    "label": "Litti Chokha",
+    "slug": "Litti-Chokha",
+    "category": "cuisine/Bhojpuri",
+    "description": "Litti Chokha is a traditional Bhojpuri dish made with roasted wheat balls stuffed with sattu (gram flour) and served with mashed vegetables and chutney.",
+    "cuisines": "A wholesome and rustic dish from Bihar and eastern Uttar Pradesh, Litti Chokha is a flavorful combination of stuffed wheat balls and spicy mashed vegetables, often enjoyed with ghee or mustard oil.",
+    "ingredients": [
+      { "item": "Whole wheat flour", "quantity": "2 cups" },
+      { "item": "Sattu (roasted gram flour)", "quantity": "1 cup" },
+      { "item": "Ghee", "quantity": "3 tablespoons" },
+      { "item": "Mustard oil", "quantity": "2 tablespoons" },
+      { "item": "Garlic", "quantity": "4 cloves, minced" },
+      { "item": "Green chilies", "quantity": "2, chopped" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Boiled potatoes", "quantity": "2 medium, mashed" },
+      { "item": "Tomatoes", "quantity": "2, roasted and mashed" },
+      { "item": "Eggplant/Brinjal", "quantity": "1 small, roasted and mashed" }
+    ],
+    "method": [
+      "Prepare dough with wheat flour and water; keep aside.",
+      "Mix sattu with salt, mustard oil, chopped garlic, and green chilies for stuffing.",
+      "Divide dough into small balls, stuff with sattu mixture, and seal.",
+      "Roast littis over charcoal or bake in oven until golden brown.",
+      "For chokha, mix roasted/mash eggplant, tomatoes, and boiled potatoes with mustard oil, salt, and spices.",
+      "Serve hot litti with chokha and ghee."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "12 g" },
+      { "label": "Carbohydrate", "value": "50 g" },
+      { "label": "Calcium", "value": "60 mg" },
+      { "label": "Energy", "value": "350 kcal" },
+      { "label": "Iron", "value": "2 mg" },
+      { "label": "Fat", "value": "14 g" }
+    ],
+    "img": "Litti_Chokha.webp",
+    "cities": [
+      { "img": "Sattu_Paratha.jpg", "title": "Sattu Paratha" },
+      { "img": "Kadhi_Bari.webp", "title": "Kadhi Bari" },
+      { "img": "Chokha.jpg", "title": "Chokha" },
+      { "img": "Ghugni.jpg", "title": "Ghugni" },
+      { "img": "Dal_Pitha.jpg", "title": "Dal Pitha" },
+      { "img": "Thekua.jpg", "title": "Thekua" },
+      { "img": "Tilkut.jpg", "title": "Tilkut" },
+      { "img": "Malpua.jpg", "title": "Malpua" }
+    ]
+  },
+  {
+    "label": "Sattu Paratha",
+    "slug": "Sattu-Paratha",
+    "category": "cuisine/Bhojpuri",
+    "description": "Sattu Paratha is a stuffed flatbread made with roasted gram flour, popular in Bihar and Uttar Pradesh.",
+    "cuisines": "A high-protein and energy-rich breakfast or snack, served with ghee, curd, or pickles.",
+    "ingredients": [
+      { "item": "Whole wheat flour", "quantity": "2 cups" },
+      { "item": "Sattu", "quantity": "1 cup" },
+      { "item": "Green chilies", "quantity": "2, chopped" },
+      { "item": "Coriander leaves", "quantity": "2 tablespoons, chopped" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Ghee or oil", "quantity": "2 tablespoons" }
+    ],
+    "method": [
+      "Prepare dough with wheat flour and water; keep aside.",
+      "Mix sattu with green chilies, coriander leaves, and salt.",
+      "Roll dough balls, stuff with sattu mixture, seal, and roll again.",
+      "Cook on hot tawa with ghee until golden and crisp.",
+      "Serve hot with curd or pickle."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "10 g" },
+      { "label": "Carbohydrate", "value": "48 g" },
+      { "label": "Calcium", "value": "55 mg" },
+      { "label": "Energy", "value": "330 kcal" },
+      { "label": "Iron", "value": "2 mg" },
+      { "label": "Fat", "value": "12 g" }
+    ],
+    "img": "Sattu_Paratha.jpg",
+    "cities": [
+      { "img": "Litti_Chokha.webp", "title": "Litti Chokha" },
+      { "img": "Kadhi_Bari.webp", "title": "Kadhi Bari" },
+      { "img": "Chokha.jpg", "title": "Chokha" },
+      { "img": "Ghugni.jpg", "title": "Ghugni" },
+      { "img": "Dal_Pitha.jpg", "title": "Dal Pitha" },
+      { "img": "Thekua.jpg", "title": "Thekua" },
+      { "img": "Tilkut.jpg", "title": "Tilkut" },
+      { "img": "Malpua.jpg", "title": "Malpua" }
+    ]
+  },
+  {
+    "label": "Kadhi Bari",
+    "slug": "Kadhi-Bari",
+    "category": "cuisine/Bhojpuri",
+    "description": "Kadhi Bari is a Bhojpuri dish made with gram flour dumplings cooked in yogurt-based curry.",
+    "cuisines": "Tangy and mildly spiced, it is usually served with steamed rice and is a comfort food in Bhojpuri households.",
+    "ingredients": [
+      { "item": "Gram flour (besan)", "quantity": "1 cup" },
+      { "item": "Curd (yogurt)", "quantity": "1 cup" },
+      { "item": "Water", "quantity": "2 cups" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Turmeric powder", "quantity": "1/2 teaspoon" },
+      { "item": "Green chilies", "quantity": "2, chopped" },
+      { "item": "Ginger paste", "quantity": "1 teaspoon" },
+      { "item": "Cumin seeds", "quantity": "1 teaspoon" },
+      { "item": "Oil", "quantity": "2 tablespoons" }
+    ],
+    "method": [
+      "Make small dumplings from gram flour, salt, and water.",
+      "Fry the dumplings lightly and keep aside.",
+      "Prepare yogurt-based curry with turmeric, salt, green chilies, and cumin.",
+      "Add fried dumplings to the curry, simmer for 10 minutes.",
+      "Serve hot with rice."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "8 g" },
+      { "label": "Carbohydrate", "value": "25 g" },
+      { "label": "Calcium", "value": "80 mg" },
+      { "label": "Energy", "value": "180 kcal" },
+      { "label": "Iron", "value": "1 mg" },
+      { "label": "Fat", "value": "6 g" }
+    ],
+    "img": "Kadhi_Bari.webp",
+    "cities": [
+      { "img": "Litti_Chokha.webp", "title": "Litti Chokha" },
+      { "img": "Sattu_Paratha.jpg", "title": "Sattu Paratha" },
+      { "img": "Chokha.jpg", "title": "Chokha" },
+      { "img": "Ghugni.jpg", "title": "Ghugni" },
+      { "img": "Dal_Pitha.jpg", "title": "Dal Pitha" },
+      { "img": "Thekua.jpg", "title": "Thekua" },
+      { "img": "Tilkut.jpg", "title": "Tilkut" },
+      { "img": "Malpua.jpg", "title": "Malpua" }
+    ]
+  },
+  {
+    "label": "Chokha",
+    "slug": "Chokha",
+    "category": "cuisine/Bhojpuri",
+    "description": "Chokha is a mashed vegetable dish from Bihar, typically made with roasted eggplant, tomatoes, and potatoes, seasoned with mustard oil and spices.",
+    "cuisines": "A flavorful side dish often served with Litti, Chokha is tangy, smoky, and mildly spiced, reflecting traditional Bhojpuri flavors.",
+    "ingredients": [
+      { "item": "Eggplant/Brinjal", "quantity": "1 large, roasted" },
+      { "item": "Tomatoes", "quantity": "2, roasted" },
+      { "item": "Boiled potatoes", "quantity": "2 medium" },
+      { "item": "Green chilies", "quantity": "2, chopped" },
+      { "item": "Garlic", "quantity": "4 cloves, minced" },
+      { "item": "Mustard oil", "quantity": "2 tablespoons" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Coriander leaves", "quantity": "2 tablespoons, chopped" }
+    ],
+    "method": [
+      "Roast eggplant and tomatoes until charred, peel and mash.",
+      "Mash boiled potatoes and mix with roasted vegetables.",
+      "Add mustard oil, green chilies, garlic, salt, and coriander leaves.",
+      "Mix well and serve as a side dish with Litti."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "4 g" },
+      { "label": "Carbohydrate", "value": "20 g" },
+      { "label": "Calcium", "value": "40 mg" },
+      { "label": "Energy", "value": "150 kcal" },
+      { "label": "Iron", "value": "1 mg" },
+      { "label": "Fat", "value": "7 g" }
+    ],
+    "img": "Chokha.jpg",
+    "cities": [
+      { "img": "Litti_Chokha.webp", "title": "Litti Chokha" },
+      { "img": "Sattu_Paratha.jpg", "title": "Sattu Paratha" },
+      { "img": "Kadhi_Bari.webp", "title": "Kadhi Bari" },
+      { "img": "Ghugni.jpg", "title": "Ghugni" },
+      { "img": "Dal_Pitha.jpg", "title": "Dal Pitha" },
+      { "img": "Thekua.jpg", "title": "Thekua" },
+      { "img": "Tilkut.jpg", "title": "Tilkut" },
+      { "img": "Malpua.jpg", "title": "Malpua" }
+    ]
+  },
+  {
+    "label": "Ghugni",
+    "slug": "Ghugni",
+    "category": "cuisine/Bhojpuri",
+    "description": "Ghugni is a spicy and tangy curry made with yellow peas or black gram, commonly eaten as a snack or side dish in Bihar and eastern UP.",
+    "cuisines": "High-protein and flavorful, Ghugni is typically served with puris or as street food.",
+    "ingredients": [
+      { "item": "Yellow peas/black gram", "quantity": "1 cup, soaked" },
+      { "item": "Onion", "quantity": "1, chopped" },
+      { "item": "Tomato", "quantity": "1, chopped" },
+      { "item": "Ginger-garlic paste", "quantity": "1 teaspoon" },
+      { "item": "Green chilies", "quantity": "2, chopped" },
+      { "item": "Cumin seeds", "quantity": "1 teaspoon" },
+      { "item": "Turmeric powder", "quantity": "1/2 teaspoon" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Oil", "quantity": "2 tablespoons" }
+    ],
+    "method": [
+      "Heat oil and add cumin seeds.",
+      "Sauté onions, ginger-garlic paste, and green chilies.",
+      "Add tomatoes and cook until soft.",
+      "Add soaked peas, spices, and water; simmer until peas are tender.",
+      "Serve hot with puris or as a snack."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "12 g" },
+      { "label": "Carbohydrate", "value": "35 g" },
+      { "label": "Calcium", "value": "60 mg" },
+      { "label": "Energy", "value": "220 kcal" },
+      { "label": "Iron", "value": "2 mg" },
+      { "label": "Fat", "value": "8 g" }
+    ],
+    "img": "Ghugni.jpg",
+    "cities": [
+      { "img": "Litti_Chokha.webp", "title": "Litti Chokha" },
+      { "img": "Sattu_Paratha.jpg", "title": "Sattu Paratha" },
+      { "img": "Kadhi_Bari.webp", "title": "Kadhi Bari" },
+      { "img": "Chokha.jpg", "title": "Chokha" },
+      { "img": "Dal_Pitha.jpg", "title": "Dal Pitha" },
+      { "img": "Thekua.jpg", "title": "Thekua" },
+      { "img": "Tilkut.jpg", "title": "Tilkut" },
+      { "img": "Malpua.jpg", "title": "Malpua" }
+    ]
+  },
+  {
+    "label": "Dal Pitha",
+    "slug": "Dal-Pitha",
+    "category": "cuisine/Bhojpuri",
+    "description": "Dal Pitha is a steamed dumpling made with rice flour and stuffed with spiced lentils, popular in Bihar.",
+    "cuisines": "A healthy, protein-rich snack or meal, Dal Pitha is often served with chutney or ghee.",
+    "ingredients": [
+      { "item": "Rice flour", "quantity": "1 cup" },
+      { "item": "Cooked lentils", "quantity": "1/2 cup" },
+      { "item": "Green chilies", "quantity": "1, chopped" },
+      { "item": "Coriander leaves", "quantity": "1 tablespoon, chopped" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Water", "quantity": "as needed" }
+    ],
+    "method": [
+      "Prepare rice flour dough with water and salt.",
+      "Make small balls, flatten, and stuff with lentil mixture.",
+      "Seal and steam until cooked.",
+      "Serve hot with ghee or chutney."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "10 g" },
+      { "label": "Carbohydrate", "value": "40 g" },
+      { "label": "Calcium", "value": "50 mg" },
+      { "label": "Energy", "value": "200 kcal" },
+      { "label": "Iron", "value": "1.5 mg" },
+      { "label": "Fat", "value": "5 g" }
+    ],
+    "img": "Dal_Pitha.jpg",
+    "cities": [
+      { "img": "Litti_Chokha.webp", "title": "Litti Chokha" },
+      { "img": "Sattu_Paratha.jpg", "title": "Sattu Paratha" },
+      { "img": "Kadhi_Bari.webp", "title": "Kadhi Bari" },
+      { "img": "Chokha.jpg", "title": "Chokha" },
+      { "img": "Ghugni.jpg", "title": "Ghugni" },
+      { "img": "Thekua.jpg", "title": "Thekua" },
+      { "img": "Tilkut.jpg", "title": "Tilkut" },
+      { "img": "Malpua.jpg", "title": "Malpua" }
+    ]
+  },
+  {
+    "label": "Thekua",
+    "slug": "Thekua",
+    "category": "cuisine/Bhojpuri",
+    "description": "Thekua is a deep-fried sweet snack made from wheat flour, jaggery, and cardamom, popular during Chhath Puja.",
+    "cuisines": "A crunchy and sweet delicacy, Thekua is often offered to the Sun God and enjoyed as a festive snack.",
+    "ingredients": [
+      { "item": "Wheat flour", "quantity": "2 cups" },
+      { "item": "Jaggery", "quantity": "1 cup" },
+      { "item": "Cardamom powder", "quantity": "1 teaspoon" },
+      { "item": "Ghee", "quantity": "2 tablespoons" },
+      { "item": "Water", "quantity": "as needed" }
+    ],
+    "method": [
+      "Mix wheat flour, jaggery, cardamom, and ghee to make dough.",
+      "Shape into small discs.",
+      "Deep fry until golden brown.",
+      "Cool and serve as a snack or festive offering."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "5 g" },
+      { "label": "Carbohydrate", "value": "60 g" },
+      { "label": "Calcium", "value": "30 mg" },
+      { "label": "Energy", "value": "320 kcal" },
+      { "label": "Iron", "value": "1 mg" },
+      { "label": "Fat", "value": "10 g" }
+    ],
+    "img": "Thekua.jpg",
+    "cities": [
+      { "img": "Litti_Chokha.webp", "title": "Litti Chokha" },
+      { "img": "Sattu_Paratha.jpg", "title": "Sattu Paratha" },
+      { "img": "Kadhi_Bari.webp", "title": "Kadhi Bari" },
+      { "img": "Chokha.jpg", "title": "Chokha" },
+      { "img": "Ghugni.jpg", "title": "Ghugni" },
+      { "img": "Dal_Pitha.jpg", "title": "Dal Pitha" },
+      { "img": "Tilkut.jpg", "title": "Tilkut" },
+      { "img": "Malpua.jpg", "title": "Malpua" }
+    ]
+  },
+  {
+    "label": "Tilkut",
+    "slug": "Tilkut",
+    "category": "cuisine/Bhojpuri",
+    "description": "Tilkut is a sweet made from sesame seeds and jaggery, commonly prepared during winters in Bihar.",
+    "cuisines": "Crunchy and sweet, Tilkut is an energy-rich traditional snack.",
+    "ingredients": [
+      { "item": "Sesame seeds", "quantity": "1 cup" },
+      { "item": "Jaggery", "quantity": "1 cup" },
+      { "item": "Ghee", "quantity": "1 teaspoon" }
+    ],
+    "method": [
+      "Roast sesame seeds lightly.",
+      "Melt jaggery with ghee and mix with sesame seeds.",
+      "Pour on a greased plate and flatten.",
+      "Cool and cut into pieces."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "6 g" },
+      { "label": "Carbohydrate", "value": "55 g" },
+      { "label": "Calcium", "value": "40 mg" },
+      { "label": "Energy", "value": "300 kcal" },
+      { "label": "Iron", "value": "2 mg" },
+      { "label": "Fat", "value": "12 g" }
+    ],
+    "img": "Tilkut.jpg",
+    "cities": [
+      { "img": "Litti_Chokha.webp", "title": "Litti Chokha" },
+      { "img": "Sattu_Paratha.jpg", "title": "Sattu Paratha" },
+      { "img": "Kadhi_Bari.webp", "title": "Kadhi Bari" },
+      { "img": "Chokha.jpg", "title": "Chokha" },
+      { "img": "Ghugni.jpg", "title": "Ghugni" },
+      { "img": "Dal_Pitha.jpg", "title": "Dal Pitha" },
+      { "img": "Thekua.jpg", "title": "Thekua" },
+      { "img": "Malpua.jpg", "title": "Malpua" }
+    ]
+  },
+  {
+    "label": "Malpua",
+    "slug": "Malpua",
+    "category": "cuisine/Bhojpuri",
+    "description": "Malpua is a sweet pancake made from wheat flour, sugar, and milk, deep-fried and soaked in sugar syrup.",
+    "cuisines": "A festive dessert, Malpua is soft, sweet, and aromatic, often garnished with dry fruits.",
+    "ingredients": [
+      { "item": "Wheat flour", "quantity": "1 cup" },
+      { "item": "Sugar", "quantity": "1/4 cup" },
+      { "item": "Milk", "quantity": "1/2 cup" },
+      { "item": "Fennel seeds", "quantity": "1/2 teaspoon" },
+      { "item": "Oil", "quantity": "for frying" },
+      { "item": "Sugar syrup", "quantity": "1/2 cup" }
+    ],
+    "method": [
+      "Prepare batter with wheat flour, milk, sugar, and fennel seeds.",
+      "Heat oil and pour small portions of batter to fry pancakes.",
+      "Soak fried malpuas in sugar syrup for a few minutes.",
+      "Serve warm, garnished with dry fruits."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "4 g" },
+      { "label": "Carbohydrate", "value": "50 g" },
+      { "label": "Calcium", "value": "40 mg" },
+      { "label": "Energy", "value": "250 kcal" },
+      { "label": "Iron", "value": "1 mg" },
+      { "label": "Fat", "value": "10 g" }
+    ],
+    "img": "Malpua.jpg",
+    "cities": [
+      { "img": "Litti_Chokha.webp", "title": "Litti Chokha" },
+      { "img": "Sattu_Paratha.jpg", "title": "Sattu Paratha" },
+      { "img": "Kadhi_Bari.webp", "title": "Kadhi Bari" },
+      { "img": "Chokha.jpg", "title": "Chokha" },
+      { "img": "Ghugni.jpg", "title": "Ghugni" },
+      { "img": "Dal_Pitha.jpg", "title": "Dal Pitha" },
+      { "img": "Thekua.jpg", "title": "Thekua" },
+      { "img": "Tilkut.jpg", "title": "Tilkut" }
+    ]
+  },
+  {
+    "label": "Murg Malali Kebab",
+    "slug": "Murg-malali-Kebab",
+    "category": "cuisine/Mughlai",
+    "description": "Murg Malali Kebab is a rich and succulent Mughlai chicken kebab, marinated with aromatic spices and cooked to perfection. It is a popular starter in Mughlai cuisine.",
+    "cuisines": "Murg Malali Kebab combines juicy chicken pieces with a flavorful marinade of yogurt, spices, and herbs, grilled or roasted to perfection. It is a classic Mughlai delicacy, perfect for festive meals or special occasions.",
+    "ingredients": [
+      { "item": "Chicken (boneless, cut into pieces)", "quantity": "500 g" },
+      { "item": "Yogurt", "quantity": "1/2 cup" },
+      { "item": "Ginger-garlic paste", "quantity": "1 tablespoon" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Garam masala", "quantity": "1 teaspoon" },
+      { "item": "Lemon juice", "quantity": "2 tablespoons" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Oil or ghee", "quantity": "2 tablespoons" }
+    ],
+    "method": [
+      "Marinate chicken with yogurt, ginger-garlic paste, red chili powder, garam masala, lemon juice, and salt for at least 2 hours.",
+      "Heat a grill pan or oven and cook chicken pieces until golden and fully cooked.",
+      "Baste occasionally with oil or ghee for extra flavor and juiciness.",
+      "Serve hot garnished with fresh coriander and lemon wedges."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "30 g" },
+      { "label": "Carbohydrate", "value": "4 g" },
+      { "label": "Calcium", "value": "50 mg" },
+      { "label": "Energy", "value": "250 kcal" },
+      { "label": "Iron", "value": "1.5 mg" },
+      { "label": "Mineral", "value": "0.5 g" },
+      { "label": "Fat", "value": "12 g" }
+    ],
+    "img": "Murg_malali_Kebab.webp",
+    "cities": [
+      { "img": "Mutton_Galouti.jpg", "title": "Mutton Galouti" },
+      { "img": "Reshimi_kebab.jpg", "title": "Reshimi kebab" },
+      { "img": "Matton_Rogan_Josh.jpg", "title": "Matton Rogan Josh" },
+      { "img": "Murgh_musallam.jpg", "title": "Murgh musallam" },
+      { "img": "Nargisi_Kofta.jpg", "title": "Nargisi Kofta" },
+      { "img": "Shahi_Paneer.jpg", "title": "Shahi Paneer" },
+      { "img": "Malai_Kofta.jpg", "title": "Malai Kofta" },
+      { "img": "Shahi_Tukda.jpg", "title": "Shahi Tukda" },
+      { "img": "Sheer_Khurma.jpg", "title": "Sheer Khurma" }
+    ]
+  },
+  {
+    "label": "Mutton Galouti",
+    "slug": "Mutton-Galouti",
+    "category": "cuisine/Mughlai",
+    "description": "Galouti Kebab is a melt-in-mouth minced mutton kebab, delicately spiced and traditionally prepared in Lucknow.",
+    "cuisines": "Mutton Galouti is made from finely minced mutton, marinated with exotic spices and cooked on a griddle. It is a signature dish of Awadhi cuisine.",
+    "ingredients": [
+      { "item": "Minced mutton", "quantity": "500 g" },
+      { "item": "Ginger-garlic paste", "quantity": "1 tablespoon" },
+      { "item": "Green chilies", "quantity": "2, chopped" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Garam masala", "quantity": "1 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Ghee", "quantity": "2 tablespoons" }
+    ],
+    "method": [
+      "Mix minced mutton with all spices and green chilies.",
+      "Shape into small patties.",
+      "Cook on a griddle with ghee until golden brown.",
+      "Serve hot with paratha or roomali roti."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "28 g" },
+      { "label": "Carbohydrate", "value": "3 g" },
+      { "label": "Calcium", "value": "40 mg" },
+      { "label": "Energy", "value": "280 kcal" },
+      { "label": "Iron", "value": "2 mg" },
+      { "label": "Fat", "value": "18 g" }
+    ],
+    "img": "Mutton_Galouti.jpg",
+    "cities": [
+      { "img": "Murg_malali_Kebab.webp", "title": "Murg Malali Kebab" },
+      { "img": "Reshimi_kebab.jpg", "title": "Reshimi kebab" },
+      { "img": "Matton_Rogan_Josh.jpg", "title": "Matton Rogan Josh" },
+      { "img": "Murgh_musallam.jpg", "title": "Murgh musallam" },
+      { "img": "Nargisi_Kofta.jpg", "title": "Nargisi Kofta" },
+      { "img": "Shahi_Paneer.jpg", "title": "Shahi Paneer" },
+      { "img": "Malai_Kofta.jpg", "title": "Malai Kofta" },
+      { "img": "Shahi_Tukda.jpg", "title": "Shahi Tukda" },
+      { "img": "Sheer_Khurma.jpg", "title": "Sheer Khurma" }
+    ]
+  },
+  {
+    "label": "Reshimi Kebab",
+    "slug": "Reshimi-Kebab",
+    "category": "cuisine/Mughlai",
+    "description": "Reshimi Kebab is a soft chicken kebab, marinated with yogurt and cream, spiced delicately and grilled to perfection.",
+    "cuisines": "Juicy and tender, Reshimi Kebab is a Mughlai classic served as an appetizer or starter.",
+    "ingredients": [
+      { "item": "Chicken (boneless)", "quantity": "500 g" },
+      { "item": "Yogurt", "quantity": "1/2 cup" },
+      { "item": "Cream", "quantity": "2 tablespoons" },
+      { "item": "Ginger-garlic paste", "quantity": "1 tablespoon" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Garam masala", "quantity": "1 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" }
+    ],
+    "method": [
+      "Marinate chicken with yogurt, cream, ginger-garlic paste, spices, and salt for 2 hours.",
+      "Skewer the chicken pieces and grill or bake until cooked.",
+      "Serve hot with green chutney or salad."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "30 g" },
+      { "label": "Carbohydrate", "value": "4 g" },
+      { "label": "Calcium", "value": "50 mg" },
+      { "label": "Energy", "value": "260 kcal" },
+      { "label": "Iron", "value": "1.5 mg" },
+      { "label": "Fat", "value": "14 g" }
+    ],
+    "img": "Reshimi_kebab.jpg",
+    "cities": [
+      { "img": "Murg_malali_Kebab.webp", "title": "Murg Malali Kebab" },
+      { "img": "Mutton_Galouti.jpg", "title": "Mutton Galouti" },
+      { "img": "Matton_Rogan_Josh.jpg", "title": "Matton Rogan Josh" },
+      { "img": "Murgh_musallam.jpg", "title": "Murgh musallam" },
+      { "img": "Nargisi_Kofta.jpg", "title": "Nargisi Kofta" },
+      { "img": "Shahi_Paneer.jpg", "title": "Shahi Paneer" },
+      { "img": "Malai_Kofta.jpg", "title": "Malai Kofta" },
+      { "img": "Shahi_Tukda.jpg", "title": "Shahi Tukda" },
+      { "img": "Sheer_Khurma.jpg", "title": "Sheer Khurma" }
+    ]
+  },
+  {
+    "label": "Matton Rogan Josh",
+    "slug": "Matton-Rogan-Josh",
+    "category": "cuisine/Mughlai",
+    "description": "Rogan Josh is a slow-cooked mutton curry in a rich, aromatic gravy, famous in Mughlai cuisine.",
+    "cuisines": "Tender mutton pieces are simmered in yogurt-based spicy gravy, a royal dish from Mughal kitchens.",
+    "ingredients": [
+      { "item": "Mutton pieces", "quantity": "500 g" },
+      { "item": "Yogurt", "quantity": "1 cup" },
+      { "item": "Onion paste", "quantity": "1/2 cup" },
+      { "item": "Ginger-garlic paste", "quantity": "1 tablespoon" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Garam masala", "quantity": "1 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Oil", "quantity": "3 tablespoons" }
+    ],
+    "method": [
+      "Heat oil, add onion paste and fry till golden.",
+      "Add ginger-garlic paste and sauté.",
+      "Add mutton and cook for 5–10 minutes.",
+      "Mix yogurt, spices, and cook on low flame until mutton is tender.",
+      "Garnish with fresh coriander and serve hot."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "28 g" },
+      { "label": "Carbohydrate", "value": "5 g" },
+      { "label": "Calcium", "value": "40 mg" },
+      { "label": "Energy", "value": "300 kcal" },
+      { "label": "Iron", "value": "2 mg" },
+      { "label": "Fat", "value": "20 g" }
+    ],
+    "img": "Matton_Rogan_Josh.jpg",
+    "cities": [
+      { "img": "Murg_malali_Kebab.webp", "title": "Murg Malali Kebab" },
+      { "img": "Mutton_Galouti.jpg", "title": "Mutton Galouti" },
+      { "img": "Reshimi_kebab.jpg", "title": "Reshimi kebab" },
+      { "img": "Murgh_musallam.jpg", "title": "Murgh musallam" },
+      { "img": "Nargisi_Kofta.jpg", "title": "Nargisi Kofta" },
+      { "img": "Shahi_Paneer.jpg", "title": "Shahi Paneer" },
+      { "img": "Malai_Kofta.jpg", "title": "Malai Kofta" },
+      { "img": "Shahi_Tukda.jpg", "title": "Shahi Tukda" },
+      { "img": "Sheer_Khurma.jpg", "title": "Sheer Khurma" }
+    ]
+  },
+  {
+    "label": "Murgh Musallam",
+    "slug": "Murgh-Musallam",
+    "category": "cuisine/Mughlai",
+    "description": "Murgh Musallam is a whole chicken marinated with aromatic spices, stuffed, and cooked slowly in a rich gravy.",
+    "cuisines": "This royal Mughlai dish is served during special occasions, combining tender chicken with flavorful stuffing and a creamy, spiced sauce.",
+    "ingredients": [
+      { "item": "Whole chicken", "quantity": "1.2 kg" },
+      { "item": "Yogurt", "quantity": "1/2 cup" },
+      { "item": "Ginger-garlic paste", "quantity": "2 tablespoons" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Garam masala", "quantity": "1 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Oil or ghee", "quantity": "3 tablespoons" },
+      { "item": "Stuffing (boiled egg + minced meat)", "quantity": "as needed" }
+    ],
+    "method": [
+      "Marinate chicken with yogurt, ginger-garlic paste, spices, and salt for 3–4 hours.",
+      "Prepare stuffing with boiled egg and minced meat.",
+      "Stuff the chicken and tie it securely.",
+      "Cook in a pan with oil/ghee on low flame until fully cooked.",
+      "Serve hot garnished with fried onions and fresh coriander."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "32 g" },
+      { "label": "Carbohydrate", "value": "4 g" },
+      { "label": "Calcium", "value": "50 mg" },
+      { "label": "Energy", "value": "350 kcal" },
+      { "label": "Iron", "value": "2 mg" },
+      { "label": "Fat", "value": "20 g" }
+    ],
+    "img": "Murgh_musallam.jpg",
+    "cities": [
+      { "img": "Murg_malali_Kebab.webp", "title": "Murg Malali Kebab" },
+      { "img": "Mutton_Galouti.jpg", "title": "Mutton Galouti" },
+      { "img": "Reshimi_kebab.jpg", "title": "Reshimi kebab" },
+      { "img": "Matton_Rogan_Josh.jpg", "title": "Matton Rogan Josh" },
+      { "img": "Nargisi_Kofta.jpg", "title": "Nargisi Kofta" },
+      { "img": "Shahi_Paneer.jpg", "title": "Shahi Paneer" },
+      { "img": "Malai_Kofta.jpg", "title": "Malai Kofta" },
+      { "img": "Shahi_Tukda.jpg", "title": "Shahi Tukda" },
+      { "img": "Sheer_Khurma.jpg", "title": "Sheer Khurma" }
+    ]
+  },
+  {
+    "label": "Nargisi Kofta",
+    "slug": "Nargisi-Kofta",
+    "category": "cuisine/Mughlai",
+    "description": "Nargisi Kofta are boiled eggs encased in spiced minced meat, cooked in rich Mughlai gravy.",
+    "cuisines": "A classic Mughlai delicacy, Nargisi Kofta is elegant and flavorful, often served during weddings or festive meals.",
+    "ingredients": [
+      { "item": "Boiled eggs", "quantity": "4" },
+      { "item": "Minced mutton", "quantity": "250 g" },
+      { "item": "Ginger-garlic paste", "quantity": "1 tablespoon" },
+      { "item": "Red chili powder", "quantity": "1 teaspoon" },
+      { "item": "Garam masala", "quantity": "1 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Oil", "quantity": "2 tablespoons" },
+      { "item": "Onion paste", "quantity": "1/2 cup" }
+    ],
+    "method": [
+      "Wrap boiled eggs with spiced minced mutton to form balls.",
+      "Fry lightly in oil until golden.",
+      "Prepare gravy with onion paste, spices, and cook koftas in it for 10 minutes.",
+      "Serve hot garnished with coriander or cream."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "25 g" },
+      { "label": "Carbohydrate", "value": "5 g" },
+      { "label": "Calcium", "value": "40 mg" },
+      { "label": "Energy", "value": "300 kcal" },
+      { "label": "Iron", "value": "2 mg" },
+      { "label": "Fat", "value": "18 g" }
+    ],
+    "img": "Nargisi_Kofta.jpg",
+    "cities": [
+      { "img": "Murg_malali_Kebab.webp", "title": "Murg Malali Kebab" },
+      { "img": "Mutton_Galouti.jpg", "title": "Mutton Galouti" },
+      { "img": "Reshimi_kebab.jpg", "title": "Reshimi kebab" },
+      { "img": "Matton_Rogan_Josh.jpg", "title": "Matton Rogan Josh" },
+      { "img": "Murgh_musallam.jpg", "title": "Murgh Musallam" },
+      { "img": "Shahi_Paneer.jpg", "title": "Shahi Paneer" },
+      { "img": "Malai_Kofta.jpg", "title": "Malai Kofta" },
+      { "img": "Shahi_Tukda.jpg", "title": "Shahi Tukda" },
+      { "img": "Sheer_Khurma.jpg", "title": "Sheer Khurma" }
+    ]
+  },
+  {
+    "label": "Shahi Paneer",
+    "slug": "Shahi-Paneer",
+    "category": "cuisine/Mughlai",
+    "description": "Shahi Paneer is a rich and creamy paneer curry made with nuts, cream, and aromatic spices.",
+    "cuisines": "A vegetarian Mughlai delight, Shahi Paneer is popular in royal kitchens, best enjoyed with naan or pulao.",
+    "ingredients": [
+      { "item": "Paneer cubes", "quantity": "250 g" },
+      { "item": "Onion paste", "quantity": "1/2 cup" },
+      { "item": "Tomato paste", "quantity": "1/4 cup" },
+      { "item": "Cream", "quantity": "1/4 cup" },
+      { "item": "Cashew paste", "quantity": "2 tablespoons" },
+      { "item": "Ginger-garlic paste", "quantity": "1 teaspoon" },
+      { "item": "Garam masala", "quantity": "1 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" },
+      { "item": "Oil/ghee", "quantity": "2 tablespoons" }
+    ],
+    "method": [
+      "Heat oil/ghee, sauté onion paste until golden.",
+      "Add ginger-garlic paste, tomato paste, and cook.",
+      "Add cream, cashew paste, and spices.",
+      "Add paneer cubes and simmer for 5–7 minutes.",
+      "Serve hot garnished with coriander and cream."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "15 g" },
+      { "label": "Carbohydrate", "value": "10 g" },
+      { "label": "Calcium", "value": "120 mg" },
+      { "label": "Energy", "value": "280 kcal" },
+      { "label": "Iron", "value": "1 mg" },
+      { "label": "Fat", "value": "18 g" }
+    ],
+    "img": "Shahi_Paneer.jpg",
+    "cities": [
+      { "img": "Murg_malali_Kebab.webp", "title": "Murg Malali Kebab" },
+      { "img": "Mutton_Galouti.jpg", "title": "Mutton Galouti" },
+      { "img": "Reshimi_kebab.jpg", "title": "Reshimi kebab" },
+      { "img": "Matton_Rogan_Josh.jpg", "title": "Matton Rogan Josh" },
+      { "img": "Murgh_musallam.jpg", "title": "Murgh Musallam" },
+      { "img": "Nargisi_Kofta.jpg", "title": "Nargisi Kofta" },
+      { "img": "Malai_Kofta.jpg", "title": "Malai Kofta" },
+      { "img": "Shahi_Tukda.jpg", "title": "Shahi Tukda" },
+      { "img": "Sheer_Khurma.jpg", "title": "Sheer Khurma" }
+    ]
+  },
+  {
+    "label": "Malai Kofta",
+    "slug": "Malai-Kofta",
+    "category": "cuisine/Mughlai",
+    "description": "Malai Kofta consists of deep-fried paneer and potato balls served in a rich, creamy tomato-based gravy.",
+    "cuisines": "A vegetarian Mughlai delicacy, Malai Kofta is rich, flavorful, and perfect with naan or jeera rice.",
+    "ingredients": [
+      { "item": "Paneer", "quantity": "200 g" },
+      { "item": "Boiled potatoes", "quantity": "2 medium" },
+      { "item": "Cornflour", "quantity": "2 tablespoons" },
+      { "item": "Oil", "quantity": "for frying" },
+      { "item": "Onion paste", "quantity": "1/2 cup" },
+      { "item": "Tomato puree", "quantity": "1/4 cup" },
+      { "item": "Cream", "quantity": "1/4 cup" },
+      { "item": "Cashew paste", "quantity": "2 tablespoons" },
+      { "item": "Garam masala", "quantity": "1 teaspoon" },
+      { "item": "Salt", "quantity": "to taste" }
+    ],
+    "method": [
+      "Mash paneer and boiled potatoes, add cornflour and shape into balls.",
+      "Deep fry the balls until golden brown and set aside.",
+      "Prepare gravy by sautéing onion paste, adding tomato puree, cream, cashew paste, and spices.",
+      "Add koftas into the gravy and simmer for 5 minutes.",
+      "Serve hot garnished with cream or coriander."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "12 g" },
+      { "label": "Carbohydrate", "value": "20 g" },
+      { "label": "Calcium", "value": "120 mg" },
+      { "label": "Energy", "value": "300 kcal" },
+      { "label": "Iron", "value": "1 mg" },
+      { "label": "Fat", "value": "18 g" }
+    ],
+    "img": "Malai_Kofta.jpg",
+    "cities": [
+      { "img": "Murg_malali_Kebab.webp", "title": "Murg Malali Kebab" },
+      { "img": "Mutton_Galouti.jpg", "title": "Mutton Galouti" },
+      { "img": "Reshimi_kebab.jpg", "title": "Reshimi kebab" },
+      { "img": "Matton_Rogan_Josh.jpg", "title": "Matton Rogan Josh" },
+      { "img": "Murgh_musallam.jpg", "title": "Murgh Musallam" },
+      { "img": "Nargisi_Kofta.jpg", "title": "Nargisi Kofta" },
+      { "img": "Shahi_Paneer.jpg", "title": "Shahi Paneer" },
+      { "img": "Shahi_Tukda.jpg", "title": "Shahi Tukda" },
+      { "img": "Sheer_Khurma.jpg", "title": "Sheer Khurma" }
+    ]
+  },
+  {
+    "label": "Shahi Tukda",
+    "slug": "Shahi-Tukda",
+    "category": "cuisine/Mughlai",
+    "description": "Shahi Tukda is a royal Mughlai dessert made with fried bread slices soaked in sugar syrup and topped with thickened milk, nuts, and saffron.",
+    "cuisines": "A traditional Mughlai dessert, Shahi Tukda is rich, sweet, and aromatic, often served at weddings and festivals.",
+    "ingredients": [
+      { "item": "Bread slices", "quantity": "6" },
+      { "item": "Ghee", "quantity": "for frying" },
+      { "item": "Sugar", "quantity": "1/2 cup" },
+      { "item": "Water", "quantity": "1/4 cup" },
+      { "item": "Milk (thickened)", "quantity": "1/2 cup" },
+      { "item": "Saffron strands", "quantity": "a pinch" },
+      { "item": "Chopped nuts", "quantity": "2 tablespoons" }
+    ],
+    "method": [
+      "Fry bread slices in ghee until golden brown.",
+      "Prepare sugar syrup with sugar and water, soak fried bread in it.",
+      "Pour thickened milk over the soaked bread, sprinkle saffron and chopped nuts.",
+      "Serve chilled or at room temperature."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "6 g" },
+      { "label": "Carbohydrate", "value": "40 g" },
+      { "label": "Calcium", "value": "80 mg" },
+      { "label": "Energy", "value": "280 kcal" },
+      { "label": "Iron", "value": "1 mg" },
+      { "label": "Fat", "value": "12 g" }
+    ],
+    "img": "Shahi_Tukda.jpg",
+    "cities": [
+      { "img": "Murg_malali_Kebab.webp", "title": "Murg Malali Kebab" },
+      { "img": "Mutton_Galouti.jpg", "title": "Mutton Galouti" },
+      { "img": "Reshimi_kebab.jpg", "title": "Reshimi kebab" },
+      { "img": "Matton_Rogan_Josh.jpg", "title": "Matton Rogan Josh" },
+      { "img": "Murgh_musallam.jpg", "title": "Murgh Musallam" },
+      { "img": "Nargisi_Kofta.jpg", "title": "Nargisi Kofta" },
+      { "img": "Shahi_Paneer.jpg", "title": "Shahi Paneer" },
+      { "img": "Malai_Kofta.jpg", "title": "Malai Kofta" },
+      { "img": "Sheer_Khurma.jpg", "title": "Sheer Khurma" }
+    ]
+  },
+  {
+    "label": "Sheer Khurma",
+    "slug": "Sheer-Khurma",
+    "category": "cuisine/Mughlai",
+    "description": "Sheer Khurma is a festive Mughlai dessert made with vermicelli, milk, sugar, dates, and nuts.",
+    "cuisines": "Traditionally prepared during Eid, Sheer Khurma is rich, creamy, and packed with the flavors of dry fruits and saffron.",
+    "ingredients": [
+      { "item": "Vermicelli", "quantity": "50 g" },
+      { "item": "Milk", "quantity": "500 ml" },
+      { "item": "Sugar", "quantity": "1/4 cup" },
+      { "item": "Dates (chopped)", "quantity": "2 tablespoons" },
+      { "item": "Chopped nuts", "quantity": "2 tablespoons" },
+      { "item": "Cardamom powder", "quantity": "1/2 teaspoon" },
+      { "item": "Saffron strands", "quantity": "a pinch" }
+    ],
+    "method": [
+      "Roast vermicelli lightly in ghee.",
+      "Boil milk and add roasted vermicelli, cook until soft.",
+      "Add sugar, dates, nuts, cardamom, and saffron.",
+      "Simmer for 5 minutes and serve warm or chilled."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "6 g" },
+      { "label": "Carbohydrate", "value": "45 g" },
+      { "label": "Calcium", "value": "120 mg" },
+      { "label": "Energy", "value": "280 kcal" },
+      { "label": "Iron", "value": "1 mg" },
+      { "label": "Fat", "value": "10 g" }
+    ],
+    "img": "Sheer_Khurma.jpg",
+    "cities": [
+      { "img": "Murg_malali_Kebab.webp", "title": "Murg Malali Kebab" },
+      { "img": "Mutton_Galouti.jpg", "title": "Mutton Galouti" },
+      { "img": "Reshimi_kebab.jpg", "title": "Reshimi kebab" },
+      { "img": "Matton_Rogan_Josh.jpg", "title": "Matton Rogan Josh" },
+      { "img": "Murgh_musallam.jpg", "title": "Murgh Musallam" },
+      { "img": "Nargisi_Kofta.jpg", "title": "Nargisi Kofta" },
+      { "img": "Shahi_Paneer.jpg", "title": "Shahi Paneer" },
+      { "img": "Malai_Kofta.jpg", "title": "Malai Kofta" },
+      { "img": "Shahi_Tukda.jpg", "title": "Shahi Tukda" }
+    ]
   }
+
 ]
