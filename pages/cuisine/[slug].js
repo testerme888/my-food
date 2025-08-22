@@ -80,7 +80,7 @@ export default function StatePage() {
         <div className="relative w-full h-[200px] md:h-auto">
        
       
-        <UttarPradeshMap stateName={cuisineData.state} />
+        <UttarPradeshMap stateName={cuisineData.state} region={cuisineData.slug} />
       </div>
 
         {/* Text Content Section */}

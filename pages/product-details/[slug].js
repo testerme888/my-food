@@ -81,7 +81,7 @@ export default function StatePage() {
         <div className="relative overflow-hidden md:w-[65%] h-[250px] md:h-auto">
         
           <MotionImage
-            src={`/products/${productData.category}/${productData.img}`}
+            src={`/${productData.category}/${productData.img}`}
             width={400} // or any fixed value
             height={165}
             alt={productData.title}
@@ -208,7 +208,7 @@ export default function StatePage() {
             <Link key={index} href={`/product-details/${story.title.replace(/\s+/g, '-')}`}>
               <div className="h-[100px] md:h-[165px] overflow-hidden">
                 <MotionImage
-                  src={`/products/${productData.category}/${story.img}`}
+                  src={`/${productData.category}/${story.img}`}
                   width={400} // or any fixed value
                   height={165}
                   alt={story.title}

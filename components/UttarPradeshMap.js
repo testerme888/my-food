@@ -8,8 +8,29 @@ import { geoMercator, geoPath } from "d3-geo";
 import { useEffect, useState } from "react";
 
 const districtGeoUrl = "/india_district.geojson";
-
-export default function UttarPradeshMap({ stateName }) {
+const regions = {
+  Braj: ["Agra", "Mathura", "Firozabad", "Mainpuri", "Hathras", "Aligarh", "Etah","Kasganj"],
+  Awadhi: [
+    "Lucknow","Barabanki","Ayodhya","Sultanpur","Raebareli","Pratapgarh","Amethi",
+    "Unnao","Hardoi","Sitapur","Lakhimpur Kheri","Bahraich","Shravasti",
+    "Gonda","Balrampur"
+  ],
+  Kannauji: ["Kannauj","Farrukhabad","Etawah","Auraiya"],
+  Kaurvi: [
+    "Meerut","Ghaziabad","Bulandshahr","Baghpat","Muzaffarnagar",
+    "Shamli","Hapur","Gautam Buddha Nagar"
+  ],
+  Bundeli: ["Jhansi","Lalitpur","Jalaun","Hamirpur","Mahoba","Banda","Chitrakoot"],
+  Bagheli: ["Mirzapur","Sonbhadra","Prayagraj"],
+  Bhojpuri: [
+    "Varanasi","Chandauli","Ghazipur","Ballia","Mau","Deoria","Gorakhpur",
+    "Kushinagar","Maharajganj","Azamgarh","Jaunpur","Sant Kabir Nagar",
+    "Basti","Siddharth Nagar"
+  ],
+  Mughlai: ["Agra","Fatehpur","Etawah","Mainpuri"]
+  
+ };
+export default function UttarPradeshMap({ stateName, region = null }) {
   const formattedName = stateName?.replace(/-/g, " ").toLowerCase();
   const [filteredGeos, setFilteredGeos] = useState([]);
   const [projection, setProjection] = useState(null);
@@ -18,10 +39,14 @@ export default function UttarPradeshMap({ stateName }) {
     fetch(districtGeoUrl)
       .then((res) => res.json())
       .then((data) => {
-        const filtered = data.features.filter(
+        let filtered = data.features.filter(
           (geo) => geo.properties.NAME_1.toLowerCase() === formattedName
         );
-
+        if (region && regions[region]) {
+          filtered = filtered.filter((geo) =>
+            regions[region].includes(geo.properties.NAME_2)
+          );
+        }
         if (filtered.length) {
           const proj = geoMercator();
           const path = geoPath().projection(proj);

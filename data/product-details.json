@@ -2,7 +2,7 @@
   {
     "label": "Dal Ka Dulha",
     "slug": "Dal-Ka-Dulha",
-    "category": "Indian-Rustic-Food",
+    "category": "products/Indian-Rustic-Food",
     "description": "Dal ka dulha, also known as dal pithi or dal pithori, is a dish from Bihari cuisine that's popular in Uttar Pradesh and Bihar. The dish is made with whole-wheat dumplings that are stuffed with arhar dal and then dipped in spicy lentils.",
     "cuisines":"It’s a comforting dish where whole wheat flour is used to make small dumplings — usually shaped like bow ties or rolled and pinched discs — which are then simmered in arhar/toor dal (pigeon peas). These dumplings absorb the flavor of the dal and spices as they cook, making it hearty and filling.",
     "ingredients": [
@@ -76,7 +76,7 @@
   {
     "label": "Chawal Ka Fara",
     "slug": "Chawal-Ka-Fara",
-    "category": "Indian-Rustic-Food",
+    "category": "products/Indian-Rustic-Food",
     "description": "Fara, made from rice flour, is a much-loved dish in UP. Phere made from rice flour is also called desi momos. Rice flour contains choline, which helps in taking cholesterol and triglycerides from the liver into the body.",
     "cuisines":"Chawal Ka Fara is a traditional steamed dumpling dish made from rice flour and a spiced chana dal filling, popular in Chhattisgarh and Eastern Uttar Pradesh. Soft on the outside and flavorful inside, these healthy dumplings are often enjoyed as a light snack or breakfast.",
     "ingredients": [
@@ -146,7 +146,7 @@
   {
     "label": "Nimona",
     "slug": "Nimona",
-    "category": "Indian-Rustic-Food",
+    "category": "products/Indian-Rustic-Food",
     "description": "Nimona is a green peas curry that's a winter delicacy in Uttar Pradesh and other northern regions. This recipe uses coriander, garlic, ginger, green chili, and some water, and is made with green chutney paste, chopped tomatoes, and fried potato wedges.",
     "cuisines":"Nimona is a rebellious shapeshifter who teams up with villain Ballister Blackheart to fight against a corrupt institution. Set in a futuristic medieval world, the story blends action, humor, and heart, exploring themes of identity, trust, and acceptance.",
     "ingredients": [
@@ -212,7 +212,7 @@
   {
     "label": "Rasawa",
     "slug": "Rasawa",
-    "category": "Indian-Rustic-Food",
+    "category": "products/Indian-Rustic-Food",
     "description": "Rasawa is also the name of a seasonal Lucknowi recipe that's similar to kheer and made with sugarcane juice and rice. It was a favorite of Hindus and Muslims in Lucknow, and was a must have during Holi celebrations.",
     "cuisines":"Rasawa is a typical rural village located in eastern Uttar Pradesh, within the Purvanchal region. Surrounded by fertile agricultural land, Rasawa reflects the traditional lifestyle and culture of rural India, particularly the Bhojpuri-speaking belt.",
     "ingredients": [
@@ -277,7 +277,7 @@
   {
     "label": "Kachalu Chaat",
     "slug": "Kachalu-Chaat",
-    "category": "Indian-Rustic-Food",
+    "category": "products/Indian-Rustic-Food",
     "description": "Kachalu chaat, also known as kachaloo chaat, is a popular Indian street food made with kachalu, a root vegetable with a mild, nutty taste and starchy texture. Here's a recipe for kachalu chaat.",
     "cuisines":"Kachalu Chaat is a tangy and spicy North Indian street food made with boiled kachalu (a variety of colocasia root). Tossed with bold spices like red chili, roasted cumin, chaat masala, tamarind pulp, and lemon juice, it’s garnished with green chilies and fresh coriander. This flavorful dish is known for its unique texture and zesty taste, making it a popular monsoon or festive snack.",
     "ingredients": [
@@ -345,7 +345,7 @@
   {
     "label": "Dahi Ka Chilla",
     "slug": "Dahi-Ka-Chilla",
-    "category": "Indian-Rustic-Food",
+    "category": "products/Indian-Rustic-Food",
     "description": "Curd cheela is good for health. It contains nutritious carbohydrates. It is also a good remedy for allergies and can cure digestive problems. There are about 120 calories in one cheela.",
     "cuisines":"Dahi Ka Chilla is a soft, savory pancake made with a batter of curd (dahi), gram flour (besan), and spices. Lightly spiced and often mixed with chopped vegetables or herbs, it's cooked on a tawa until golden. This protein-rich, quick-to-make dish is a popular breakfast or snack option in Indian households, loved for its tangy flavor and fluffy texture.",
     "ingredients": [
@@ -413,7 +413,7 @@
   {
     "label": "Bajre Ki Roti",
     "slug": "Bajre-Ki-Roti",
-    "category": "Indian-Rustic-Food",
+    "category": "products/Indian-Rustic-Food",
     "description":"Bajre ki roti, or pearl millet roti, is a traditional Indian flatbread made from bajra flour, which comes from the pearl millet grain. The dough typically includes the following ingredients: Bajra flour (pearl millet flour), Salt, Water, and Sunflower oil or ghee.",
     "cuisines":"Bajre Ki Roti is a traditional Indian flatbread made from pearl millet flour (bajra). Dense, earthy, and gluten-free, it is typically served hot with ghee, jaggery, or spicy curries. Popular in Rajasthan, Gujarat, and Haryana, this nutritious roti is rich in fiber and essential minerals, making it a hearty and wholesome addition to any meal, especially in winter.",
     "ingredients": [
@@ -479,7 +479,7 @@
   {
     "label": "Bathua Ka Raita",
     "slug": "Bathua-Ka-Raita",
-    "category": "Indian-Rustic-Food",
+    "category": "products/Indian-Rustic-Food",
     "description": "Bathua ka raita is a refreshing North Indian dip made with yogurt and bathua leaves. Bathua is a green leafy vegetable also known as Chenopodium album, lamb's quarter, goosefoot, or pigweed.",
     "cuisines":"Bathua Ka Raita is a refreshing and nutritious North Indian side dish made with curd (yogurt) and bathua (chenopodium or pigweed leaves). Lightly spiced and blended with boiled or blanched bathua, it offers a cooling, earthy flavor. Often served with parathas or rice meals, this seasonal raita is popular in winter for its digestive and health benefits.",
     "ingredients": [
@@ -545,7 +545,7 @@
   {
     "label": "Biya Ki Sabji",
     "slug": "Biya-Ki-Sabji",
-    "category": "Nutrition-Consultancy",
+    "category": "products/Nutrition-Consultancy",
     "description": "Biya Bhaji is a popular and spicy vegetarian dish of Goa. It is also called cashew curry or cashew tonak. It is usually prepared with fresh coconut and spices and served with roti, rice, or bread. Biya Bhaji is served at weddings and other special occasions in Goa.",
     "cuisines":"Biya Ki Sabji is a traditional dish made from raw jackfruit, often enjoyed during festive or special occasions. This flavorful sabji combines curd and aromatic spices, offering a meaty texture and rich taste similar to a non-vegetarian curry.",
     "ingredients": [
@@ -592,7 +592,7 @@
   {
     "label": "Puri Ki Lapsi",
     "slug": "Puri-Ki-Lapsi",
-    "category": "Nutrition-Consultancy",
+    "category": "products/Nutrition-Consultancy",
     "description": "Lapsi of Puri is a traditional Guyanese dessert, consisting of lapsi (a white, thick pudding) sandwiched between a puri (small fried flatbread). This sweet is usually made in the Hindu community and offered to Hindu deities, especially Durga, Kali, and Ganga. However, it can also be eaten as a sweet.",
     "cuisines":"Puri Ki Lapsi is a traditional Rajasthani sweet dish made with broken wheat (dalia), ghee, jaggery, and dry fruits. This wholesome and aromatic dessert is often prepared during festivals or special occasions, offering a delightful blend of texture and flavor.",
     "ingredients": [
@@ -642,7 +642,7 @@
   {
     "label": "Neem Aam Ka Paana",
     "slug": "Neem-Aam-Ka-Paana",
-    "category": "Nutrition-Consultancy",
+    "category": "products/Nutrition-Consultancy",
     "description": "Mango Panna is a great drink for summers. It is good for digestion, increases energy levels and also helps fight depression. Mango Panna contains Vitamin A, which is beneficial for the eyes.",
     "cuisines":"Neem Aam Ka Paana is a refreshing and tangy summer drink made from raw mangoes, infused with spices, mint, and a hint of neem for a detoxifying twist. It’s perfect for beating the heat and rehydrating the body naturally.",
     "ingredients": [
@@ -685,7 +685,7 @@
   {
     "label": "Matha Aloo",
     "slug": "Matha-Aloo",
-    "category": "Nutrition-Consultancy",
+    "category": "products/Nutrition-Consultancy",
     "description": "Matha aloo, also known as dahi aloo, is a popular North Indian dish of boiled potatoes and yogurt.You can adjust the spice level to your taste. To make the dish sweeter and sourer, you can add a bit of sugar.",
     "cuisines":"Matha Aloo is a traditional North Indian dish made with boiled potatoes simmered in a spiced yogurt (matha or buttermilk) gravy. It's a comforting, mildly tangy curry seasoned with cumin, green chilies, and sometimes fenugreek or mustard seeds, giving it a rustic and earthy flavor. Often enjoyed during fasting (vrat) or as a light summer meal, this dish pairs beautifully with plain rice, roti, or kuttu ki puri.",
     "ingredients": [
@@ -731,7 +731,7 @@
   {
     "label": "Jaggery Amla Murbba",
     "slug": "Jaggery-Amla-Murbba",
-    "category": "Indian-Immunity-Boasting-Recipes",
+    "category": "products/Indian-Immunity-Boasting-Recipes",
     "description": "I am almost surprised but kind of grateful that Amla (Indian Gooseberry) has not made it to the superfood genre yet. I am also kind of kicking myself for not attempting to make Amla Murabba at home earlier.",
     "cuisines":"Jaggery Amla Murabba is a traditional Indian sweet preserve made by slowly cooking amla (Indian gooseberry) in jaggery syrup. Rich in vitamin C and iron, this murabba combines the tanginess of amla with the natural sweetness of jaggery, offering both taste and health benefits. Commonly consumed to boost immunity, aid digestion, and improve skin health, it’s a popular remedy in Ayurvedic diets and winter wellness routines.",
     "ingredients": [
@@ -799,7 +799,7 @@
   {
     "label": "Dal Palak Shorba",
     "slug": "Dal-Palak-Shorba",
-    "category": "Indian-Immunity-Boasting-Recipes",
+    "category": "products/Indian-Immunity-Boasting-Recipes",
     "description": "Dal palak shorba is thinner in consistency than soup and a great way to start your meal. A warm and comforting dish with the goodness of lentils, spinach, ginger-garlic and mild spices. Season with fresh cream and a generous squeeze of lime.",
     "cuisines":"Dal Palak Shorba is a hearty and nutritious Indian soup made with yellow lentils (dal) and fresh spinach (palak). Lightly spiced and gently simmered, this warming dish combines the earthy flavors of lentils with the freshness of greens. Often tempered with garlic, cumin, and ghee, it's rich in protein, iron, and fiber — making it a comforting and healthy addition to any meal, especially during cooler months.",
     "ingredients": [
@@ -865,7 +865,7 @@
   {
     "label": "Chana Ghughari",
     "slug": "Chana-Ghughari",
-    "category": "Indian-Immunity-Boasting-Recipes",
+    "category": "products/Indian-Immunity-Boasting-Recipes",
     "description": "Chana Ghughri is very famous in Bihar. Some cloves make it juicy. And some cloves make it dry. It tastes very good. Chana Ghughri made of desi black gram tastes very tasty.",
     "cuisines":"Chana Ghughari is a simple and flavorful Indian snack made from boiled black chickpeas (kala chana), commonly enjoyed in states like Gujarat, Madhya Pradesh, and Bihar. Lightly spiced with mustard seeds, green chilies, and turmeric, it's often garnished with fresh coriander and a dash of lemon juice. Nutritious and protein-rich, Chana Ghughari is a wholesome tea-time snack or breakfast option, especially popular during festivals or fasting days.",
     "ingredients": [
@@ -931,7 +931,7 @@
   {
     "label": "Turmeric Hony Milk",
     "slug": "Turmeric-Hony-Milk",
-    "category": "Indian-Immunity-Boasting-Recipes",
+    "category": "products/Indian-Immunity-Boasting-Recipes",
     "description": "However, people with kidney problems should avoid drinking turmeric milk, as it may worsen kidney stones or cause them to form in large quantities. Too much turmeric may also make it difficult for the body to absorb iron, which could lead to iron deficiency.",
     "cuisines":"Turmeric Honey Milk, also known as Golden Milk, is a soothing and health-boosting drink made by blending warm milk with turmeric and a touch of honey. Known for its anti-inflammatory and antioxidant properties, this traditional Ayurvedic remedy supports immunity, improves digestion, and promotes better sleep. Often enjoyed before bedtime, it's a comforting and natural wellness tonic.",
     "ingredients": [
@@ -995,7 +995,7 @@
   {
     "label": "Tulsi Aloevera Sharbat",
     "slug": "Tulsi-Aloevera-Sharbat",
-    "category": "Indian-Immunity-Boasting-Recipes",
+    "category": "products/Indian-Immunity-Boasting-Recipes",
     "description": "This juice helps to clear the blood and it also helps in joint pain. Relieves the body of detox (harmful elements). This juice increases metabolism in our body. This juice increases good cholesterol by lowering the levels of bed cholesterol, which helps in reducing obesity.",
     "cuisines":"Tulsi Aloe Vera Sharbat is a refreshing and herbal Indian drink made from the medicinal blend of tulsi (holy basil) and aloe vera. Known for its detoxifying and immunity-boosting properties, this sharbat helps cool the body, supports digestion, and promotes skin health. Naturally soothing and mildly sweet, it's perfect for summer hydration and Ayurvedic wellness.",
     "ingredients": [
@@ -1068,7 +1068,7 @@
   {
     "label": "Kokum Sol Khadi",
     "slug": "Kokum-Sol-Khadi",
-    "category": "Indian-Immunity-Boasting-Recipes",
+    "category": "products/Indian-Immunity-Boasting-Recipes",
     "description": "Solkadhi recipe (also known as solkadi, sol kadhi, kokum kadhi or kokum curry) is an essential drink for cooling the body during blistering Goan summers. This mauve-hued, tart digestive beverage is easy to make, and takes just 10 minutes of active time to prepare.",
     "cuisines":"Kokum Sol Kadhi is a cooling, tangy drink from the coastal regions of India, especially Goa and Maharashtra, made using kokum (a sour fruit) and coconut milk. Infused with garlic, green chili, and cumin, this mildly spiced beverage aids digestion and is typically served as a refreshing accompaniment to meals or as a light appetizer during summer.",
     "ingredients": [
@@ -1134,7 +1134,7 @@
   {
     "label": "Banana Daliya",
     "slug": "Banana-Daliya",
-    "category": "Indian-Immunity-Boasting-Recipes",
+    "category": "products/Indian-Immunity-Boasting-Recipes",
     "description": "Bathua ka raita is a refreshing North Indian dip made with yogurt and bathua leaves. Bathua is a green leafy vegetable also known as Chenopodium album, lamb's quarter, goosefoot, or pigweed.",
     "cuisines":"Bathua Ka Raita is a refreshing and nutritious North Indian side dish made with curd (yogurt) and bathua (chenopodium or pigweed leaves). Lightly spiced and blended with boiled or blanched bathua, it offers a cooling, earthy flavor. Often served with parathas or rice meals, this seasonal raita is popular in winter for its digestive and health benefits.",
     "ingredients": [
@@ -1200,7 +1200,7 @@
   {
     "label": "Moringa Ki Sabji",
     "slug": "Moringa-Ki-Sabji",
-    "category": "Indian-Immunity-Boasting-Recipes",
+    "category": "products/Indian-Immunity-Boasting-Recipes",
     "description": "Moringa or drumstick vegetable is a treasure trove of nutrients. Moringa vegetable, which is very beneficial for health, is beneficial in many diseases. It is especially used in bone pain. Regular consumption of Moringa also strengthens the liver and digestion.",
     "cuisines":"Moringa, also known as drumstick or Sahjan, is a highly nutritious plant native to parts of India and Africa. Rich in vitamins A, C, and E, calcium, and antioxidants, both its leaves and pods are used in traditional cooking and medicine. Moringa leaves are commonly added to dals, curries, and soups, while the long pods are often cooked in sambhar and stews. Known for its immunity-boosting and anti-inflammatory properties, moringa is considered a superfood in many cultures.",
     "ingredients": [
@@ -1266,7 +1266,7 @@
   {
     "label": "Moong Dal Khichdi",
     "slug": "Moong-Dal-Khichdi",
-    "category": "Indian-Heart-Healthy-Recipes",
+    "category": "products/Indian-Heart-Healthy-Recipes",
     "description": "Moong dal khichdi is easy to digest and provides a good balance of protein, carbohydrates, and nutrients. Moong dal is a yellow-skinned lentil that's high in protein and fiber, and helps you feel full for longer.",
     "cuisines":"Moong Dal Khichdi is a simple, comforting, and nourishing one-pot dish made from split yellow moong dal (lentils) and rice. Soft, mildly spiced, and easy on the stomach, it's often considered a healing food in Indian households — especially for those recovering from illness or looking for a light, nutritious meal.",
     "ingredients": [
@@ -1340,7 +1340,7 @@
   {
     "label": "Vegitable Daliya",
     "slug": "Vegitable-Daliya",
-    "category": "Indian-Heart-Healthy-Recipes",
+    "category": "products/Indian-Heart-Healthy-Recipes",
     "description": "Vegetable dalia is a healthy, tasty, and mildly spicy Indian dish made with broken wheat, also known as cracked wheat, bulgur wheat, or couscous, and vegetables.",
     "cuisines":"Moong Dal Khichdi is a traditional Indian comfort food made from split yellow moong dal and rice, simmered together with mild spices. Light, wholesome, and easy to digest, it's a go-to meal for both everyday nourishment and times of illness or detox.",
     "ingredients": [
@@ -1411,7 +1411,7 @@
   {
     "label": "Moong Dal Palak Cheela",
     "slug": "Moong-Dal-Palak-Cheela",
-    "category": "Indian-Heart-Healthy-Recipes",
+    "category": "products/Indian-Heart-Healthy-Recipes",
     "description": "Moong Dal Palak Cheela can also be served with tomato sauce or green coriander chutney. The cheela batter should neither be too thin nor too thick. It is better to use non-stick pan to make cheela.",
     "cuisines":"Moong Dal Palak Cheela is a nutritious and protein-rich savory Indian pancake made from soaked moong dal (split yellow lentils) blended with fresh spinach (palak) and spices. Crisp on the edges and soft in the center, these cheelas are a healthy, gluten-free alternative to traditional breakfast or snack options.",
     "ingredients": [
@@ -1481,7 +1481,7 @@
   {
     "label": "Tandoori Masala Mushroom",
     "slug": "Tandoori-Masala-Mushroom",
-    "category": "Indian-Heart-Healthy-Recipes",
+    "category": "products/Indian-Heart-Healthy-Recipes",
     "description": "Tandoori mushrooms are a healthy Indian appetizer made by marinating mushrooms in yogurt and spices, then grilling or roasting. Here's a recipe for tandoori mushrooms using an air fryer.",
     "cuisines":"Tandoori Masala Mushroom is a smoky, spicy Indian appetizer made by marinating white button mushrooms in a flavorful blend of yogurt, spices, and aromatic whole masalas. Air-fried or grilled until golden and slightly charred, this dish offers the essence of tandoori cooking without needing a clay oven. The mushrooms soak up the marinade beautifully, making each bite juicy, creamy, and packed with bold, layered flavors.",
     "ingredients": [
@@ -1553,7 +1553,7 @@
   {
     "label": "Grilled Masala Fish",
     "slug": "Grilled-Masala-Fish",
-    "category": "Indian-Heart-Healthy-Recipes",
+    "category": "products/Indian-Heart-Healthy-Recipes",
     "description": "Grilled masala fish is a popular dish in Karachi that's spicy and tangy, with crispy skin and moist, soft flesh.Some fish that work well for grilling include salmon, tuna, shrimp, whole trout, mahimahi, and snapper.",
     "cuisines":"Grilled Masala Fish is a flavorful and aromatic dish where fish fillets are coated in a spiced marinade made from ginger-garlic paste, chili powder, coriander powder, turmeric, lemon juice, and garam masala. Marinated to perfection and grilled until charred and flaky, this dish is a delicious balance of tangy, spicy, and smoky flavors. It’s best enjoyed with lemon wedges, mint chutney, or a fresh salad, and makes for a light yet satisfying meal.",
     "ingredients": [
@@ -1621,7 +1621,7 @@
   {
     "label": "Tandoori Chicken",
     "slug": "Tandoori-Chicken",
-    "category": "Indian-Heart-Healthy-Recipes",
+    "category": "products/Indian-Heart-Healthy-Recipes",
     "description": "Tandoori chicken is a dish of chicken that's marinated in yogurt and spices and then roasted in a tandoor, a cylindrical clay oven. The dish originated in Punjab before India's partition and became popular in the late 1940s at the Moti Mahal restaurant in New Delhi.",
     "cuisines":"Tandoori Chicken is a classic North Indian dish known for its smoky, spicy flavor and vibrant red hue. Marinated in thick yogurt and a blend of spices including Kashmiri chili powder, turmeric, and lemon juice, the chicken is traditionally cooked in a tandoor (clay oven) but can also be grilled or roasted in a regular oven. The marinade tenderizes the meat while infusing it with rich, tangy, and aromatic flavors, making it a favorite in Indian cuisine.",
     "ingredients": [
@@ -1690,7 +1690,7 @@
   {
     "label": "Dal Palak",
     "slug": "Dal-Palak",
-    "category": "Indian-Heart-Healthy-Recipes",
+    "category": "products/Indian-Heart-Healthy-Recipes",
     "description": "Dal palak, or spinach dal, is a protein-rich Indian dish made with lentils, spinach, spices, and herbs.Dal palak can be served with rice, roti, chapati, or bhakri.",
     "cuisines":"Dal Palak is a hearty and wholesome Indian dish made by simmering lentils (usually toor dal, moong dal, or a mix) with fresh spinach (palak) and a blend of aromatic spices. This comforting curry combines the protein-rich goodness of lentils with the iron and fiber of spinach, making it both nutritious and satisfying.",
     "ingredients": [
@@ -1762,7 +1762,7 @@
   {
     "label": "Masala Chaas",
     "slug": "Masala-Chaas",
-    "category": "Indian-Heart-Healthy-Recipes",
+    "category": "products/Indian-Heart-Healthy-Recipes",
     "description": "Masala chaas, also known as spiced buttermilk, is a popular Indian drink made from yogurt, water, and spices and herbs.Masala chaas is refreshing and cooling, and is often consumed on hot summer days or with spicy meals. It's vegetarian, gluten free, and low carb.",
     "cuisines":"Masala Chaas is a refreshing, spiced Indian buttermilk drink made by blending yogurt with water and infusing it with traditional spices and herbs. Light, cooling, and tangy, it’s especially popular during the hot summer months and is known for aiding digestion.",
     "ingredients": [
@@ -1833,7 +1833,7 @@
   {
     "label": "Moong Dal Cheela",
     "slug": "Moong-Dal-Cheela",
-    "category": "Indian-Weight-Loss-Food-Recipes",
+    "category": "products/Indian-Weight-Loss-Food-Recipes",
     "description": "You can make the chilla soft or crisp. For a soft chilla, pour and spread the batter lightly. For a crisp chilla, spread the batter thinly and add extra oil. You can serve moong dal chilla with pickles, chutneys, ginger chai, or curries.",
     "cuisines": "Moong Dal Cheela is a light and nutritious North Indian savory pancake made from ground soaked moong dal, spices, and vegetables like carrot and coriander. It’s a popular breakfast or snack option, often served with green chutney.",
     "ingredients": [
@@ -1902,7 +1902,7 @@
   {
     "label": "Tandoori Soya Chaap",
     "slug": "Tandoori-Soya-Chaap",
-    "category": "Indian-Weight-Loss-Food-Recipes",
+    "category": "products/Indian-Weight-Loss-Food-Recipes",
     "description": "Tandoori soya chaap is a vegetarian Indian dish of soybean skewers that are marinated and grilled until browned and charred. Arrange the soya chaap, onions, and peppers on the wire rack and grill for 15 minutes.",
     "cuisines": "Tandoori Soya Chaap is a delicious North Indian vegetarian dish where soy protein sticks are marinated in a spiced yogurt mixture and grilled or roasted until smoky and charred. It’s a popular plant-based alternative to tandoori meat dishes, often served with mint chutney and onions.",
     "ingredients": [
@@ -1976,7 +1976,7 @@
   {
     "label": "Tandoori Fish Tikka",
     "slug": "Tandoori-Fish-Tikka",
-    "category": "Indian-Weight-Loss-Food-Recipes",
+    "category": "products/Indian-Weight-Loss-Food-Recipes",
     "description": "Tandoori fish tikka is a popular, low-carb appetizer of boneless fish pieces coated in a thick tandoori marinade and grilled in a tandoor, a clay oven. The fish is cooked until crispy and has a smoky flavor from the fats dripping onto the hot coals while grilling.",
     "cuisines": "Tandoori Fish Tikka is a popular North Indian seafood appetizer made by marinating fish fillets in spiced yogurt and then grilling or baking them to smoky perfection. It's a healthy and flavorful dish often served with lemon wedges, onion slices, and green chutney.",
     "ingredients": [
@@ -2043,7 +2043,7 @@
   {
     "label": "Lassoni Palak Corn Bhurji",
     "slug": "Lassoni-Palak-Corn-Bhurji",
-    "category": "Indian-Weight-Loss-Food-Recipes",
+    "category": "products/Indian-Weight-Loss-Food-Recipes",
     "description": "Lasooni corn palak is a creamy spinach curry with sweet corn and a spicy, garlicky tadka. You can also watch a video of a restaurant-style lasooni corn palak recipe.",
     "cuisines": "Lassoni Palak Corn Bhurji is a savory North Indian dish made with garlic-flavored spinach and sweet corn, cooked together with aromatic spices and a rich tadka. It’s a healthy and flavorful side dish perfect for lunch or dinner.",
     "ingredients": [
@@ -2111,7 +2111,7 @@
   {
     "label": "Tandoori Mushroom Tikka",
     "slug": "Tandoori-Mushroom-Tikka",
-    "category": "Indian-Weight-Loss-Food-Recipes",
+    "category": "products/Indian-Weight-Loss-Food-Recipes",
     "description": "To make mushroom tikka, you can marinate mushrooms in yogurt, spices, and other ingredients, then cook them on skewers in the oven, air fryer, or on the stove.",
     "cuisines":"Tandoori Mushroom Tikka is a flavorful North Indian appetizer made by marinating mushrooms and vegetables in spiced curd and roasting them until smoky and charred. It's a vegetarian alternative to classic tandoori dishes, popular at BBQs and dinner parties.",
     "ingredients": [
@@ -2183,7 +2183,7 @@
   {
     "label": "Besan Halwa In Jaggery Pwd",
     "slug": "Besan-Halwa-In-Jaggery-Pwd",
-    "category": "Indian-Weight-Loss-Food-Recipes",
+    "category": "products/Indian-Weight-Loss-Food-Recipes",
     "description": "Besan halwa can be a healthy snack or breakfast food, and it's adaptable to your taste. It contains healthy fats, magnesium, fiber-rich almonds, and whole grains. Besan halwa is an Indian dessert made with gram flour, jaggery, ghee,milk and nuts.",
     "cuisines":"Besan Halwa made with jaggery powder is a wholesome and aromatic Indian dessert. It is prepared by roasting gram flour (besan) in ghee, then sweetened with jaggery and flavored with dry ginger, cardamom, saffron, and turmeric. A nourishing and comforting sweet treat, especially enjoyed in winters.",
       "ingredients": [
@@ -2252,7 +2252,7 @@
   {
     "label": "Soya Nuts Proteen Bar",
     "slug": "Soya-Nuts-Proteen-Bar",
-    "category": "Indian-Weight-Loss-Food-Recipes",
+    "category": "products/Indian-Weight-Loss-Food-Recipes",
     "description": "Soya Bar is a nutritious snack made up with soybean flour, dried fruits and nuts. It offers delicious ways to enjoy goodness of soy including oats, almonds, walnut, jaggery, honey, sesame and coconut flakes.",
     "cuisines":"The Soya Nuts Protein Bar is a healthy, energy-packed snack combining roasted oats, nuts, dried fruits, soy flour, and natural sweeteners like jaggery and honey. Perfect as a pre/post-workout bite or a mid-day energy boost, these bars are nutrient-dense and rich in plant-based protein, fiber, and essential fats.",
     "ingredients": [
@@ -2326,7 +2326,7 @@
   {
     "label": "Roasted Makhana Chaat",
     "slug": "Roasted-Makhana-Chaat",
-    "category": "Indian-Weight-Loss-Food-Recipes",
+    "category": "products/Indian-Weight-Loss-Food-Recipes",
     "description": "Makhanas are gluten-free, high in carbohydrates, and rich in protein. They can also be fried in ghee until they pop, similar to popcorn, and eaten with black salt as a snack.",
     "cuisines":"Roasted Makhana Chaat is a light, crunchy, and tangy Indian snack combining roasted foxnuts (makhana) with creamy yogurt, chutneys, spices, and fresh toppings. It's a fusion of textures—soft curd, crisp makhana, crunchy sev, and bursts of sweetness from pomegranate—making it a refreshing and nutritious chaat option.",
     "ingredients": [
@@ -2406,7 +2406,7 @@
   {
     "label": "Bombay Potatoes",
     "slug": "Bombay-Potatoes",
-    "category": "Indian-Gluten-Free-Dite-Food-Recipe",
+    "category": "products/Indian-Gluten-Free-Dite-Food-Recipe",
     "description": "A popular Indian side dish made with boiled potatoes sautéed in aromatic spices.",
     "cuisines":"Bombay Potatoes are a flavorful and spicy Indian dish where boiled potatoes are tossed with cumin, mustard seeds, onions, tomatoes, and a blend of ground spices. It's a quick and easy recipe often served as a side with roti, naan, or rice. The crispy edges and soft centers of the potatoes absorb the rich masala, making each bite deliciously bold and comforting.",
     "ingredients": [
@@ -2484,7 +2484,7 @@
   {
     "label": "Antipasto Platter",
     "slug": "Antipasto-Platter",
-    "category": "Indian-Gluten-Free-Dite-Food-Recipe",
+    "category": "products/Indian-Gluten-Free-Dite-Food-Recipe",
     "description": "A traditional Italian appetizer platter with a variety of cured meats, cheeses, olives, marinated vegetables, and breadsticks. Perfect for gatherings and celebrations.",
     "cuisines": "A traditional Italian appetizer platter with a variety of cured meats, cheeses, olives, marinated vegetables, and breadsticks. Perfect for gatherings and celebrations.",
     "ingredients": [
@@ -2552,7 +2552,7 @@
   {
     "label": "Weelicious",
     "slug": "Weelicious",
-    "category": "Indian-Gluten-Free-Dite-Food-Recipe",
+    "category": "products/Indian-Gluten-Free-Dite-Food-Recipe",
     "description": "A healthy and kid-friendly recipe from Weelicious, promoting nutritious meals for toddlers and families.",
     "cuisines": "A healthy and kid-friendly recipe from Weelicious, promoting nutritious meals for toddlers and families.",
     "ingredients": [
@@ -2617,7 +2617,7 @@
   {
     "label": "Sweet Orange",
     "slug": "Sweet-Orange",
-    "category": "Indian-Gluten-Free-Dite-Food-Recipe",
+    "category": "products/Indian-Gluten-Free-Dite-Food-Recipe",
     "description": "A refreshing juice made from sweet oranges, perfect for breakfast or as a healthy refreshment.",
     "cuisines": "A refreshing juice made from sweet oranges, perfect for breakfast or as a healthy refreshment.",
     "ingredients": [
@@ -2677,7 +2677,7 @@
   {
     "label": "San Antonio",
     "slug": "San-Antonio",
-    "category": "Indian-Gluten-Free-Dite-Food-Recipe",
+    "category": "products/Indian-Gluten-Free-Dite-Food-Recipe",
     "description": "Makhanas are gluten-free, high in carbohydrates, and rich in protein. They can also be fried in ghee until they pop, similar to popcorn, and eaten with black salt as a snack.",
     "cuisines":"Roasted Makhana Chaat is a light, crunchy, and tangy Indian snack combining roasted foxnuts (makhana) with creamy yogurt, chutneys, spices, and fresh toppings. It's a fusion of textures—soft curd, crisp makhana, crunchy sev, and bursts of sweetness from pomegranate—making it a refreshing and nutritious chaat option.",
     "ingredients": [
@@ -2757,7 +2757,7 @@
   {
     "label": "Tripadvisor",
     "slug": "Tripadvisor",
-    "category": "Indian-Gluten-Free-Dite-Food-Recipe",
+    "category": "products/Indian-Gluten-Free-Dite-Food-Recipe",
     "description": "A popular Indian sweet made by deep-frying flour batter in circular shapes, soaked in saffron sugar syrup. Crispy on the outside and juicy on the inside.",
     "cuisines":"A popular Indian sweet made by deep-frying flour batter in circular shapes, soaked in saffron sugar syrup. Crispy on the outside and juicy on the inside.",
     "ingredients": [
@@ -2824,7 +2824,7 @@
   {
     "label": "Anipasto",
     "slug": "Anipasto",
-    "category": "Indian-Gluten-Free-Dite-Food-Recipe",
+    "category": "products/Indian-Gluten-Free-Dite-Food-Recipe",
     "description": "Antipasto is a traditional Italian appetizer platter consisting of cured meats, cheeses, marinated vegetables, and olives. It's served before the main course to stimulate the appetite.",
     "description": "Antipasto is a traditional Italian appetizer platter consisting of cured meats, cheeses, marinated vegetables, and olives. It's served before the main course to stimulate the appetite.",
     "ingredients": [
@@ -2891,7 +2891,7 @@
   {
     "label": "Honey Cake",
     "slug": "Honey-Cake",
-    "category": "Indian-Gluten-Free-Dite-Food-Recipe",
+    "category": "products/Indian-Gluten-Free-Dite-Food-Recipe",
     "description": "Honey Cake is a classic Indian bakery-style dessert, especially popular in South Indian states like Tamil Nadu and Karnataka. Despite its name, honey is only a part of the sugar syrup poured over the cake after baking.",
     "cuisines": "Honey Cake is a soft, moist Indian-style sponge cake soaked in a honey-sugar syrup and topped with fruit jam and grated coconut. It's a nostalgic bakery favorite in South India, especially known for its bright red jam glaze and tender crumb.",
     "ingredients": [
@@ -2967,7 +2967,7 @@
   {
     "label": "Moong Dal Halwa",
     "slug": "Moong-Dal-Halwa",
-    "category": "Indian-Lactic-Free-Desserts",
+    "category": "products/Indian-Lactic-Free-Desserts",
     "description": "Moong dal halwa is a classic Indian dessert made from lentils, milk, sugar, ghee, and cardamom powder. The lentils are ground and fried until golden, then cooked with milk and sweetened with sugar.",
     "cuisines": "Moong Dal Halwa is a rich and indulgent Indian dessert made with yellow moong dal, ghee, sugar, and flavored with saffron and cardamom. Known for its grainy texture and melt-in-the-mouth richness, it's a festive favorite, especially in North India during winters and weddings.",
     "ingredients": [
@@ -3037,7 +3037,7 @@
   {
     "label": "Suji Halwa",
     "slug": "Suji-Halwa",
-    "category": "Indian-Lactic-Free-Desserts",
+    "category": "products/Indian-Lactic-Free-Desserts",
     "description": "Suji halwa, also known as sheera, is a traditional Indian dessert or pudding made from semolina, ghee, sugar, and other ingredients. It can be served for breakfast or dessert and is often offered as prasadam in temples or on special occasions.",
     "cuisines": "Suji Halwa is a classic Indian dessert made with semolina (rava), ghee, sugar, and dry fruits. It's quick to prepare and has a rich, nutty flavor with a soft texture. Often served during festivals or with puris and chana, this halwa is a beloved comfort sweet across India.",
     "ingredients": [
@@ -3108,7 +3108,7 @@
   {
     "label": "Sweet Potato Gulab Jamun",
     "slug": "Sweet-Potato-Gulab-Jamun",
-    "category": "Indian-Lactic-Free-Desserts",
+    "category": "products/Indian-Lactic-Free-Desserts",
     "description": "Sweet potato gulab jamun is a North Indian dessert made from mashed sweet potatoes, flour, and a rose-flavored syrup. The dough balls are deep-fried and soaked in the syrup.",
     "cuisines": "Sweet Potato Gulab Jamun is a unique twist on the classic Indian dessert. Made with mashed sweet potatoes, flour, and milk powder, these deep-fried dumplings are soaked in saffron and clove-infused sugar syrup. Soft, juicy, and subtly spiced, they are a delicious and healthier variation of the traditional gulab jamun.",
     "ingredients": [
@@ -3177,7 +3177,7 @@
   {
     "label": "Jalebi",
     "slug": "Jalebi",
-    "category": "Indian-Lactic-Free-Desserts",
+    "category": "products/Indian-Lactic-Free-Desserts",
     "description": "Jalebi is a popular Indian dessert made from a fermented batter of all-purpose flour, gram flour, and sugar syrup that's deep-fried in spirals or circles and soaked in sugar syrup. The batter should be thick but free-flowing, and the sugar syrup should be one-string consistency.",
     "cuisines": "Jalebi is a classic Indian dessert known for its crispy, spiral shape soaked in fragrant sugar syrup. Made with fermented all-purpose flour and yogurt batter, jalebi is deep-fried until golden and then soaked in syrup, making it sweet, crunchy, and juicy. Often enjoyed during festivals and special occasions.",
     "ingredients": [
@@ -3250,7 +3250,7 @@
   {
     "label": "Almond Milk Rava Kesari",
     "slug": "Almond-Milk-Rava-Kesari",
-    "category": "Indian-Lactic-Free-Desserts",
+    "category": "products/Indian-Lactic-Free-Desserts",
     "description": "Almond milk rava kesari is a fragrant South Indian dessert made with semolina (rava), ghee, sugar, water, and almonds. You can also add other nuts and dried fruits, such as cashews, raisins, and sultanas, to rava kesari.",
     "cuisines": "Almond Milk Rava Kesari is a delicious South Indian dessert made with semolina (rava), homemade badam milk powder, ghee, and flavored with saffron and cardamom. This variation adds a rich almond flavor to the classic kesari, making it aromatic, creamy, and perfect for festive occasions.",
     "ingredients": [
@@ -3319,7 +3319,7 @@
   {
     "label": "Paruppu Payasam",
     "slug": "Paruppu-Payasam",
-    "category": "Indian-Lactic-Free-Desserts",
+    "category": "products/Indian-Lactic-Free-Desserts",
     "description": "Paruppu payasam, also known as moong dal payasam, is a traditional South Indian pudding made from soft cooked lentils, coconut milk, jaggery, and cardamom. The dish is often tempered with ghee and fried nuts, raisins, and sometimes coconut.",
     "cuisines": "Paruppu Payasam is a traditional South Indian dessert made with moong dal, jaggery, and coconut milk. It is often prepared during festivals like Onam and offered as prasad in temples. This creamy and mildly sweet dish is usually garnished with nuts and raisins, and can be served hot or cold with vada or appalam.",
     "ingredients": [
@@ -3386,7 +3386,7 @@
   {
     "label": "Ahe Ka Sheera",
     "slug": "Ahe-Ka-Sheera",
-    "category": "Indian-Lactic-Free-Desserts",
+    "category": "products/Indian-Lactic-Free-Desserts",
     "description": "Atte ka sheera or atte ka halwa is a traditional Indian sweet made from wheat flour, ghee, and jaggery or sugar. It is generally prepared for festivals and offerings.",
     "cuisines": "Aate ka Sheera is a traditional Indian dessert made from wheat flour, ghee, sugar, and flavored with cardamom and nuts. It is typically served warm and enjoyed as a comfort sweet during festivals or after meals.",
     "ingredients": [
@@ -3452,7 +3452,7 @@
   {
     "label": "Moti Choor Ladoo",
     "slug": "Moti-Choor-Ladoo",
-    "category": "Indian-Lactic-Free-Desserts",
+    "category": "products/Indian-Lactic-Free-Desserts",
     "description": "Moti choor ladoo is a popular Indian dessert made from gram flour or besan (chickpea flour), sugar, water, and sometimes nuts and seeds. The flour is made into tiny balls called boondi, which are fried in ghee or oil and then simmered in sugar syrup until they plump up.",
     "cuisines": "Moti Choor Ladoo is a traditional Indian sweet made from tiny gram flour pearls (boondis), soaked in flavored sugar syrup, and shaped into round laddoos. It's commonly served during festivals and special occasions.",
     "ingredients": [
@@ -3519,7 +3519,7 @@
   {
     "label": "Kuchumbri Salad",
     "slug": "Kuchumbri-Salad",
-    "category": "Indian-Eatable-Raw-Foods",
+    "category": "products/Indian-Eatable-Raw-Foods",
     "description": "Kachumber is a fresh, crunchy, and flavorful Indian salad that's made without dressing and typically contains cucumbers, tomatoes, onions, cilantro or mint, and spices.",
     "cuisines": "Kachumbari is a fresh, crunchy East African salad made from chopped vegetables like onions, tomatoes, and cucumbers, with a tangy lemon dressing. It’s typically served as a refreshing side with grilled meat, rice dishes, or stews.",
     "ingredients": [
@@ -3589,7 +3589,7 @@
   {
     "label": "Sprouted Salad",
     "slug": "Sprouted-Salad",
-    "category": "Indian-Eatable-Raw-Foods",
+    "category": "products/Indian-Eatable-Raw-Foods",
     "description": "Sprouts salads can be made with many types of sprouts, including mung bean, alfalfa, moth bean, horse gram, red lentil, and black chickpea sprouts. Sprouts salads are rich in vitamins, minerals, and antioxidants, and can help maintain overall organ health.",
      "cuisines": "Sprouted Salad is a nutritious and refreshing mix of steamed sprouts and fresh vegetables, flavored with spices and lemon juice. It's a perfect light meal or healthy snack, rich in protein, fiber, and essential nutrients.",
     "ingredients": [
@@ -3658,7 +3658,7 @@
   {
     "label": "Beetroot Banana Smoothie",
     "slug": "Beetroot-Banana-Smoothie",
-    "category": "Indian-Eatable-Raw-Foods",
+    "category": "products/Indian-Eatable-Raw-Foods",
     "description": "Beetroot banana smoothies are a healthy, antioxidant-rich option that can be great after a workout.",
     "cuisines": "Beetroot Banana Smoothie is a healthy and vibrant smoothie packed with antioxidants and nutrients. It combines the earthy flavor of beetroot with the sweetness of banana and berries, perfect for breakfast or a post-workout refreshment.",
     "ingredients": [
@@ -3722,7 +3722,7 @@
   {
     "label": "Mango Lassi",
     "slug": "Mango-Lassi",
-    "category": "Indian-Eatable-Raw-Foods",
+    "category": "products/Indian-Eatable-Raw-Foods",
     "description": "Mango lassi is a popular Indian yogurt-based drink made with sweet mangoes, yogurt, milk, and cardamom. Mango lassi can be made vegan by using non-dairy yogurt and oat milk or water.",
     "cuisines": "Mango Lassi is a popular Indian yogurt-based drink made with ripe mangoes, curd, milk or ice, and flavored with cardamom. It's a refreshing and cooling beverage, perfect for summer.",
     "ingredients": [
@@ -3785,7 +3785,7 @@
   {
     "label": "Dried Fruits",
     "slug": "Dried-Fruits",
-    "category": "Indian-Eatable-Raw-Foods",
+    "category": "products/Indian-Eatable-Raw-Foods",
     "description": "Dried fruits are fruits that have had most of their water content removed through natural drying, dehydrators, or specialized dryers. They can be high in fiber, nutrients, and antioxidants, but also high in calories and sugar.",
     "cuisines": "Dried Fruits is a healthy snack made by dehydrating various fruits to preserve them and concentrate their natural sweetness. Common fruits used include bananas, figs, prunes, raisins, and mixed dried berries.",
     "ingredients": [
@@ -3846,7 +3846,7 @@
   {
     "label": "Fresh Fruit Salad",
     "slug": "Fresh-Fruit-Salad",
-    "category": "Indian-Eatable-Raw-Foods",
+    "category": "products/Indian-Eatable-Raw-Foods",
     "description": "Salads are popular because they are light and refreshing, and they are often high in fiber. They can help with weight management, lower the risk of cancer, and regulate cholesterol levels.",
     "cuisines": "Fresh Food Salad is a nutrient-rich, plant-based salad combining leafy greens, vibrant vegetables, seeds, and healthy fats, ideal for a light and wholesome meal.",
     "ingredients": [
@@ -3914,7 +3914,7 @@
   {
     "label": "Haldi Milk",
     "slug": "Haldi-Milk",
-    "category": "Indian-Eatable-Raw-Foods",
+    "category": "products/Indian-Eatable-Raw-Foods",
     "description": "Haldi milk is a home remedy for colds, coughs, congestion, and skin problems. It's also a nourishing bedtime drink that's beneficial for people with inflammation-related issues, poor immunity, or sleep disturbances.",
     "cuisines": "Haldi Milk, also known as Golden Milk, is a traditional Indian drink made by warming milk with turmeric and other spices. It is known for its immunity-boosting and anti-inflammatory properties.",
     "ingredients": [
@@ -3980,7 +3980,7 @@
   {
     "label": "Cucumber Raita",
     "slug": "Cucumber-Raita",
-    "category": "Indian-Eatable-Raw-Foods",
+    "category": "products/Indian-Eatable-Raw-Foods",
     "description": "Cucumber raita is a refreshing, savory condiment made with yogurt, cucumber, and other ingredients. It's often served with biryani or pulao to enhance the flavor of the dish.",
     "cuisines": "Cucumber Raita is a refreshing Indian side dish made with chilled yogurt, cucumber, mint, and mild seasonings. It’s perfect to serve with spicy biryanis, pulao, or curries to balance the heat.",
     "ingredients": [
@@ -4043,7 +4043,7 @@
   {
     "label": "Dal Chawal",
     "slug": "Dal-Chawal",
-    "category": "Indian-Healthy-Meals",
+    "category": "products/Indian-Healthy-Meals",
     "description": "Dal chawal, also known as dal bhat, is a dish of lentils and rice that is considered a healthy comfort food. It's packed with nutrients, including protein, fiber, vitamins, calcium, iron, folate, and potassium. The combination of dal and rice is also gut-friendly and can help with digestion and metabolism.",
     "cuisines": "Dal Chawal is a classic Indian comfort food dish consisting of steamed basmati rice served with a mildly spiced lentil curry made from toor dal and masoor dal. It's a wholesome, hearty, and nutritious meal widely enjoyed across India.",
     "ingredients": [
@@ -4125,7 +4125,7 @@
   {
     "label": "Rajma Chawal",
     "slug": "Rajma-Chawal",
-    "category": "Indian-Healthy-Meals",
+    "category": "products/Indian-Healthy-Meals",
     "description": "This Rajma recipe is a lightly spiced, creamy and delicious Punjabi style curry made with protein rich kidney beans, aromatics like onions, ginger, garlic, fragrant spices and tangy tomatoes.",
     "cuisines": "Rajma Chawal is a beloved North Indian comfort food made with red kidney beans (rajma) cooked in a spicy onion-tomato masala, served with steamed rice. It's hearty, protein-rich, and full of warming spices.",
     "ingredients": [
@@ -4207,7 +4207,7 @@
   {
     "label": "Cholla Chawal",
     "slug": "Cholla-Chawal",
-    "category": "Indian-Healthy-Meals",
+    "category": "products/Indian-Healthy-Meals",
     "description": "Punjabi Chole Masala is one of the most popular vegetarian curry dishes in India. It is a chickpea curry cooked with onions, tomatoes and lots of spices. Chole is one of those core curries in northern India without which no party or wedding festivities is complete.",
     "cuisines": "Cholla Chawal is a popular North Indian dish made with tender chickpeas cooked in a rich and aromatic blend of whole spices, typically served with steamed rice. It's a wholesome, protein-rich, and flavorful meal enjoyed across India.",
     "ingredients": [
@@ -4284,7 +4284,7 @@
   {
     "label": "Khicdhi Dahi",
     "slug": "Khicdhi-Dahi",
-    "category": "Indian-Healthy-Meals",
+    "category": "products/Indian-Healthy-Meals",
     "description": "This Khichdi recipe is a light and easy to digest Indian dish made with rice and moong dal. Nutritious and light on the tummy, serve this healthy, comforting and nourishing porridge-like Dal Khichdi with curd, raita or papad.",
     "cuisines": "Khichdi Dahi is a comforting and wholesome North Indian dish made with moong dal and rice, lightly spiced and cooked until soft. It is typically served with yogurt (dahi) and ghee, making it a soothing meal perfect for digestion and nourishment.",
     "ingredients": [
@@ -4358,7 +4358,7 @@
   {
     "label": "Multigrain Khichdi",
     "slug": "Multigrain-Khichdi",
-    "category": "Indian-Healthy-Meals",
+    "category": "products/Indian-Healthy-Meals",
     "description": "While this is not my go-to recipe, I do enjoy it occasionally. Let me unabashedly take credit for this recipe. It is totally my own creation! My goal was to make this recipe more wholesome. Great for a day when you donâ€™t have time to cook a lot, make it a tasty one-pot dish and get a whole lot of nutrients.",
     "cuisines": "Multigrain Khichdi is a hearty and nutritious one-pot meal made with a mix of whole grains, lentils, and fresh vegetables. Packed with fiber, protein, and essential nutrients, this wholesome dish is perfect for a healthy lunch or dinner and is easy to digest.",
     "ingredients": [
@@ -4431,7 +4431,7 @@
   {
     "label": "Raggi Idli Coconuts",
     "slug": "Raggi-Idli-Coconuts",
-    "category": "Indian-Healthy-Meals",
+    "category": "products/Indian-Healthy-Meals",
     "description": "If you are an idli lover like I am, then this Ragi Idli is a recipe that you really canâ€™t miss. It is always good to have food, which is delicious as well as fits aptly on health parameters as well. An Idli as such is a healthy foodstuff.",
     "cuisines": "Ragi Idli is a nutritious South Indian steamed breakfast made with a fermented batter of finger millet (ragi), idli rice, urad dal, and poha. It combines the soft, fluffy texture of traditional idlis with the earthy flavor and high calcium content of ragi, making it a wholesome and diabetic-friendly option.",
     "ingredients": [
@@ -4502,7 +4502,7 @@
   {
     "label": "Tandoori Soya Chap Roll",
     "slug": "Tandoori-Soya-Chap-Roll",
-    "category": "Indian-Healthy-Meals",
+    "category": "products/Indian-Healthy-Meals",
     "description": "For you to indulge in those flavours of tandoor, here we bring you a recipe of tandoori chaap that can be enjoyed by vegetarians as well as non-vegetarians.",
     "cuisines": "Tandoori Soya Chaap Roll is a delicious North Indian fusion dish where marinated soya chaap is grilled until charred and smoky, then wrapped in a soft roti or paratha with spicy, creamy sauces. Packed with protein and bold tandoori flavors, it's a perfect street-style snack or quick meal.",
     "ingredients": [
@@ -4574,7 +4574,7 @@
   {
     "label": "Tawa Fry Fish",
     "slug": "Tawa-Fry-Fish",
-    "category": "Indian-Healthy-Meals",
+    "category": "products/Indian-Healthy-Meals",
     "description": "We've taken our basic fish fry to another level, the fish is fried yet it's succulent and coconut milk and tamarind and other spices come together to make it finger-licking goodness!.",
     "cuisines": "Tawa Fry Fish is a spicy and flavorful South Indian-style fish preparation where marinated fish pieces are lightly shallow-fried on a tawa (flat pan) and then coated in a rich masala made with onions, coconut milk, tamarind, and aromatic spices. The dish combines crisp textures with tangy and creamy flavors, making it a perfect side or main for rice or flatbreads.",
     "ingredients": [
@@ -4652,7 +4652,7 @@
   {
     "label": "Masala Puri Lemon Pickle",
     "slug": "Masala-Puri-Lemon-Pickle",
-    "category": "Indian-Kids-Lunch-Box-Ideas",
+    "category": "products/Indian-Kids-Lunch-Box-Ideas",
     "description": "Masala puri is a Bangalore-style chaat made with puris or papdis, a spicy masala, and various chutneys and other toppings.Here's a recipe for masala puri that includes lemon juice in the spicy water.",
     "cuisines": "Masala Puri Lemon Pickle is a tangy and spicy Indian street food made with crisp puris, spicy gravy, lemon juice, fresh vegetables, and savory toppings.",
     "ingredients": [
@@ -4721,7 +4721,7 @@
   {
     "label": "Vegetable Pulao",
     "slug": "Vegetable-Pulao",
-    "category": "Indian-Kids-Lunch-Box-Ideas",
+    "category": "products/Indian-Kids-Lunch-Box-Ideas",
     "description": "Vegetable pulao is a popular rice dish from South Asia, Central Asia, and the Middle East that can be made with a variety of vegetables.You can also add garam masala powder, turmeric powder, and red chili powder.",
     "cuisines": "Vegetable Pulao is a fragrant and colorful Indian rice dish cooked with mixed vegetables, aromatic spices, and herbs for a wholesome and flavorful meal.",
     "ingredients": [
@@ -4800,7 +4800,7 @@
   {
     "label": "Aloo Sandwich",
     "slug": "Aloo-Sandwich",
-    "category": "Indian-Kids-Lunch-Box-Ideas",
+    "category": "products/Indian-Kids-Lunch-Box-Ideas",
     "description": "An aloo sandwich typically makes four servings, and uses eight slices of bread. Aloo sandwiches can be made with a variety of ingredients, including potatoes, onions, tomatoes, and spices.",
     "cuisines": "Aloo Sandwich is a popular Indian street-style snack made with spiced mashed potato filling, layered between bread slices, and toasted until golden brown.",
     "ingredients": [
@@ -4873,7 +4873,7 @@
   {
     "label": "Idli With Coconet Chutney",
     "slug": "Idli-With-Coconet-Chutney",
-    "category": "Indian-Kids-Lunch-Box-Ideas",
+    "category": "products/Indian-Kids-Lunch-Box-Ideas",
     "description": "Idli is often served with coconut chutney, a condiment that originated in India and is commonly eaten with other South Indian breakfast dishes like dosa, vada, and upma.",
     "cuisines": "Idli with Coconut Chutney is a classic South Indian breakfast dish where soft, steamed rice cakes are served with a creamy, mildly spiced coconut-based chutney.",
     "ingredients": [
@@ -4935,7 +4935,7 @@
   {
     "label": "Bharwa Aloo Kachori",
     "slug": "Bharwa-Aloo-Kachori",
-    "category": "Indian-Kids-Lunch-Box-Ideas",
+    "category": "products/Indian-Kids-Lunch-Box-Ideas",
     "description": "Aloo kachori, or potato kachori, is a deep-fried flatbread stuffed with a spicy potato filling. It's a popular breakfast snack in Northern India, especially in Mathura-Vrindavan in Uttar Pradesh, and is often served with aloo sabzi, curd, chutneys, or pumpkin sabzi.",
     "cuisines": "Bharwa Aloo Kachori is a crispy, deep-fried Indian snack stuffed with a spiced potato and pea mixture, flavored with aromatic spices and herbs, often served with chutney.",
     "ingredients": [
@@ -5013,7 +5013,7 @@
   {
     "label": "Vegetable Nuts Uttapam",
     "slug": "Vegetable-Nuts-Uttapam",
-    "category": "Indian-Kids-Lunch-Box-Ideas",
+    "category": "products/Indian-Kids-Lunch-Box-Ideas",
     "description": "Vegetable uttapam is a dish made with a batter and a variety of vegetables, and sometimes nuts.Uttapam is high in fiber and low in calories, and it contains vitamins, minerals, protein, and heart-healthy fats.",
      "cuisines": "Vegetable Nuts Uttapam is a South Indian-style thick pancake made from dosa batter, topped with fresh vegetables, roasted peanut powder, and sesame seeds, cooked until golden and served with chutney.",
     "ingredients": [
@@ -5082,7 +5082,7 @@
   {
     "label": "Dahi Suji Cheela",
     "slug": "Dahi-Suji-Cheela",
-    "category": "Indian-Kids-Lunch-Box-Ideas",
+    "category": "products/Indian-Kids-Lunch-Box-Ideas",
     "description": "Suji dahi chilla, also known as rava chilla or suji ka cheela, is a healthy and tasty breakfast dish made with semolina, yogurt, and other ingredients.",
     "cuisines": "Dahi Suji Cheela is a healthy, savory Indian pancake made with semolina, yogurt, and fresh vegetables, spiced with aromatic herbs and roasted to golden perfection, ideal for breakfast or a light snack.",
     "ingredients": [
@@ -5161,7 +5161,7 @@
   {
     "label": "Malai Fruit's Sandwich",
     "slug": "Malai-Fruit's-Sandwich",
-    "category": "Indian-Kids-Lunch-Box-Ideas",
+    "category": "products/Indian-Kids-Lunch-Box-Ideas",
     "description": "Malai sandwiches are a popular Indian street food that can be made with a variety of fillings, bread, and clotted cream (malai). The bread is spread with malai and then filled with a mixture of vegetables, cheese, and spices, and then grilled or toasted until golden and crispy.",
     "cuisines": "Malai Fruit's Sandwich is a rich, creamy, and flavorful snack made with fresh vegetables, cream, and spices layered between bread slices and grilled until golden brown, perfect for breakfast or evening tea.",
     "ingredients": [
@@ -5235,7 +5235,7 @@
   {
     "label": "Daliya",
     "slug": "Daliya",
-    "category": "Indian-Quick-Easy-Meal",
+    "category": "products/Indian-Quick-Easy-Meal",
     "description": "Daliya, also known as broken wheat or porridge, is a cracked wheat foodstuff that's a staple breakfast in many Indian households. It's a good source of protein and low in fat, and can be prepared in many ways.",
     "cuisines": "Daliya is a wholesome and versatile Indian dish made with cracked wheat, lentils, and vegetables, often prepared either sweet with milk, sugar, and dry fruits, or savory as a healthy upma or pulao.",
     "ingredients": [
@@ -5301,7 +5301,7 @@
   {
     "label": "Poha",
     "slug": "Poha",
-    "category": "Indian-Quick-Easy-Meal",
+    "category": "products/Indian-Quick-Easy-Meal",
     "description": "Poha, also known as flattened rice, is a popular Indian breakfast dish that originated in Northern India. It's made from parboiled and pressed rice that requires little to no cooking.",
     "cuisines": "Poha is a light and healthy Indian breakfast dish made with flattened rice, peanuts, onions, peas, and mild spices, often garnished with curry leaves and lime juice.",
     "ingredients": [
@@ -5374,7 +5374,7 @@
   {
     "label": "Vegetable Khichdi",
     "slug": "Vegetable-Khichdi",
-    "category": "Indian-Quick-Easy-Meal",
+    "category": "products/Indian-Quick-Easy-Meal",
     "description": "Khichdi is often eaten by babies and people who are sick because it soothes the stomach and intestines. It's also part of the Ayurvedic diet because it balances the three doshas, or energies, of Vatta, Pitta, and Kapha.",
     "cuisines": "Vegetable Khichdi is a wholesome Indian comfort dish made with rice, toor dal, and a mix of vegetables, flavored with spices and cooked to a soft, porridge-like consistency.",
     "ingredients": [
@@ -5444,7 +5444,7 @@
   {
     "label": "Dal And Rice",
     "slug": "Dal-And-Rice",
-    "category": "Indian-Quick-Easy-Meal",
+    "category": "products/Indian-Quick-Easy-Meal",
     "description": "Dal chawal, or dal and rice, is a traditional North Indian dish that's a staple of the Indian diet. It's a complete meal that's high in fiber, low in calories, and fat free except for any added oil or ghee. Dal chawal is also a good source of protein, vitamins, calcium, and carbs.",
     "cuisines": "Dal and Rice is a simple and comforting Indian meal made by cooking toor dal and rice together with onions, tomatoes, and aromatic spices.",
     "ingredients": [
@@ -5514,7 +5514,7 @@
   {
     "label": "Egg Roll",
     "slug": "Egg-Roll",
-    "category": "Indian-Quick-Easy-Meal",
+    "category": "products/Indian-Quick-Easy-Meal",
     "description": "These homemade Egg Rolls are crisp on the outside with a satisfying pork and vegetable filling. Learn the secrets to an ultra-crisp shell. Watch the video recipe and learn how to make egg rolls that are better than takeout.",
     "cuisines": "Egg Roll is a popular street food made with a thin flatbread, eggs, vegetables, and tangy seasonings, rolled into a handheld snack.",
     "ingredients": [
@@ -5585,7 +5585,7 @@
   {
     "label": "Curd Rice",
     "slug": "Curd-Rice",
-    "category": "Indian-Quick-Easy-Meal",
+    "category": "products/Indian-Quick-Easy-Meal",
     "description": "Curd rice, also known as dahi chawal or thayir sadam in Hindi and Tamil, is a dish that originated in South India and is eaten throughout the country. It's made with precooked rice, yogurt, herbs, and spices, and is often eaten with pickles.",
     "cuisines": "Curd Rice is a comforting South Indian dish made with cooked rice mixed with yogurt, tempered spices, and vegetables, served chilled or at room temperature for a refreshing meal.",
     "ingredients": [
@@ -5655,7 +5655,7 @@
   {
     "label": "Rava Dosa",
     "slug": "Rava-Dosa",
-    "category": "Indian-Quick-Easy-Meal",
+    "category": "products/Indian-Quick-Easy-Meal",
     "description": "Rava dosa can also be made with vegetables like carrots, cilantro, and onions. One variation is onion rava dosa, which includes finely chopped onions in the batter for a crispy dosa with a subtle onion flavor.",
     "cuisines": "Rava Dosa is a thin, crispy South Indian crepe made from semolina, rice flour, and spices, prepared with a watery batter and cooked until golden brown, often served with chutney and sambar.",
     "ingredients": [
@@ -5727,7 +5727,7 @@
   {
     "label": "Besan Ka Cheela",
     "slug": "Besan-Ka-Cheela",
-    "category": "Indian-Quick-Easy-Meal",
+    "category": "products/Indian-Quick-Easy-Meal",
     "description": "We've taken our basic fish fry to another level, the fish is fried yet it's succulent and coconut milk and tamarind and other spices come together to make it finger-licking goodness!.",
     "cuisines": "Besan Ka Cheela is a savory Indian pancake made from gram flour and finely chopped vegetables, flavored with spices and herbs, and cooked until golden, often served for breakfast or as a light snack.",
     "ingredients": [
@@ -5796,7 +5796,7 @@
   {
     "label": "Aloo Chana Chaat",
     "slug": "Aloo-Chana-Chaat",
-    "category": "Indian-Healthy-Salads",
+    "category": "products/Indian-Healthy-Salads",
     "description": "Aloo chana chaat is a dish of boiled potatoes and chickpeas tossed with spices, chutneys, and toppings.",
     "cuisines": "Aloo Chana Chaat is a tangy and spicy Indian street food made with boiled potatoes, chickpeas, fresh vegetables, chutneys, and crunchy sev, served as a refreshing and flavorful snack.",
     "ingredients": [
@@ -5872,7 +5872,7 @@
   {
     "label": "Tandoori Shashlik Paneer Tikka Chaat",
     "slug": "Tandoori-Shashlik-Paneer-Tikka-Chaat",
-    "category": "Indian-Healthy-Salads",
+    "category": "products/Indian-Healthy-Salads",
     "description": "Paneer tikka shashlik is a vegetarian Indian dish of paneer cubes marinated in spices and skewered on bamboo skewers. It's a dry appetizer that's similar to chicken tikka, but made with paneer instead of meat.",
     "cuisines": "Tandoori Shashlik Paneer Tikka Chaat is a smoky, spiced Indian appetizer made by marinating paneer cubes in yogurt and tandoori spices, skewering them with vegetables, and roasting until charred, then serving as a flavorful chaat.",
     "ingredients": [
@@ -5942,7 +5942,7 @@
   {
     "label": "Roasted Peanut Pea Salad",
     "slug": "Roasted-Peanut-Pea-Salad",
-    "category": "Indian-Healthy-Salads",
+    "category": "products/Indian-Healthy-Salads",
     "description": "This crunchy and creamy pea and peanut salad is destined to be the belle of the ball at potlucks and cookouts this summer! It's a totally easy side dish filled with sweet peas, crispy bacon, roasted peanuts, chopped celery, and diced red onion dressing.",
     "cuisines": "Roasted Peanut Pea Salad is a creamy, crunchy, and refreshing side dish combining sweet green peas, roasted peanuts, and fresh vegetables in a tangy-sweet dressing. Perfect for quick summer gatherings.",
     "ingredients": [
@@ -6008,7 +6008,7 @@
   {
     "label": "Mint Mango Salad",
     "slug": "Mint-Mango-Salad",
-    "category": "Indian-Healthy-Salads",
+    "category": "products/Indian-Healthy-Salads",
     "description": "This Mango Salad with Mint is so easy and so delicious! With only 3 ingredients, it comes together in minutes and is so refreshing. Mangoes, mint, and limes are all you need to make this easy side dish salad.",
     "cuisines": "Mint Mango Salad is a refreshing tropical blend where sweet mango pairs with fresh mint, tangy lemon, and a hint of chili heat. Tossed in a smooth mango-mint dressing, it delivers a balance of sweetness, spice, and zest.",
     "ingredients": [
@@ -6075,7 +6075,7 @@
   {
     "label": "Roasted Butter Chicken Salad",
     "slug": "Roasted-Butter-Chicken-Salad",
-    "category": "Indian-Healthy-Salads",
+    "category": "products/Indian-Healthy-Salads",
     "description": "This recipe is all about taking the flavours of butter chicken and turning them into a salad. It's incredibly simple â€“ and you can use chicken thigh or breast. Add 5 minutes roasting time for the chicken thigh.",
      "cuisines": "Roasted Butter Chicken Salad combines the smoky tenderness of grilled butter chicken with fresh, crisp vegetables and herbs. Served with lentils and lettuce, and drizzled with warm butter chicken sauce, it’s a hearty yet refreshing salad with Indian-inspired flavors.",
     "ingredients": [
@@ -6146,7 +6146,7 @@
   {
     "label": "Chaat Ka Lachha Salad",
     "slug": "Chaat-Ka-Lachha-Salad",
-    "category": "Indian-Healthy-Salads",
+    "category": "products/Indian-Healthy-Salads",
     "description": "Chaat Lachha Salad, also known as Lachha Pyaaz or Masala Pyaaz, is an Indian salad. It is made from freshly cut raw onion rings, ground spices, lemon, and fresh herbs. It is served with appetizers, snacks, or tandoori food.",
     "cuisines": "Chaat Ka Lachha Salad is a tangy and spicy Indian onion salad made with thickly sliced onions soaked in ice water for extra crunch, tossed with aromatic spices, fresh herbs, and a splash of lemon juice for zest. It's a refreshing side that pairs perfectly with Indian meals.",
     "ingredients": [
@@ -6218,7 +6218,7 @@
   {
     "label": "Corn Spinach Salad",
     "slug": "Corn-Spinach-Salad",
-    "category": "Indian-Healthy-Salads",
+    "category": "products/Indian-Healthy-Salads",
     "description": "Chaat Lachha Salad, also known as Lachha Pyaaz or Masala Pyaaz, is an Indian salad. It is made from freshly cut raw onion rings, ground spices, lemon, and fresh herbs. It is served with appetizers, snacks, or tandoori food.",
     "cuisines": "Corn Spinach Salad is a fresh, colorful dish combining tender spinach leaves, sweet corn, crunchy walnuts, and tangy cranberries. Dressed with a sweet and tangy blend of cider vinegar, orange marmalade, and mayonnaise, it offers a perfect balance of flavors and textures.",
     "ingredients": [
@@ -6282,7 +6282,7 @@
   {
     "label": "Beans Salad Dessecated Coconut",
     "slug": "Beans-Salad-Dessecated-Coconut",
-    "category": "Indian-Healthy-Salads",
+    "category": "products/products/Indian-Healthy-Salads",
     "description": "I love a good side salad - and this one is perfect for summer when beans are cheap! It's a great way to have them a little different then normal. It's SO delicious and is set to be a new fave.",
     "cuisines": "Beans Salad with Desiccated Coconut is a fresh, crunchy, and nutty dish combining green beans, toasted coconut, and peanuts with a tangy Asian-inspired dressing.",
     "ingredients": [
@@ -6348,7 +6348,7 @@
   {
     "label": "Gozpacho (Spain)",
     "slug": "Gozpacho-(Spain)",
-    "category": "World's-Soups",
+    "category": "products/products/World's-Soups",
     "description": "Gazpacho is a cold, spicy soup or drink that originated in the southern regions of Spain and Portugal. It's typically made from raw, blended vegetables, such as tomatoes, cucumbers, red onion, and garlic, along with water, olive oil, and vinegar.",
     "cuisines": "Gazpacho is a refreshing chilled Spanish soup made from ripe tomatoes, cucumbers, peppers, and garlic blended with olive oil and vinegar. Traditionally served cold, it’s perfect for hot summer days and bursts with fresh Mediterranean flavors.",
     "ingredients": [
@@ -6426,7 +6426,7 @@
   {
     "label": "Harira (Morocco)",
     "slug": "Harira-(Morocco)",
-    "category": "World's-Soups",
+    "category": "products/products/World's-Soups",
     "description": "Harira is a hearty, flavorful, and traditional North African soup from Morocco and Algeria. It's made with a tomato base, lentils, chickpeas, warm spices, and fresh herbs, and is often thickened with broken vermicelli pasta or rice.",
     "cuisines": "Harira is a traditional Moroccan soup made with lentils, chickpeas, tomatoes, and warm spices. It is hearty, aromatic, and often enjoyed during Ramadan to break the fast.",
     "ingredients": [
@@ -6500,7 +6500,7 @@
   {
     "label": "Mulligatawny (India)",
     "slug": "Mulligatawny-(India)",
-    "category": "World's-Soups",
+    "category": "products/products/World's-Soups",
     "description": "Mulligatawny is a creamy, spiced, and flavorful soup that originated in South Indian cuisine during British-India. The name comes from the Tamil words miá¸·agu and taá¹‡á¹‡i, which literally translates to 'pepper water'.",
     "cuisines": "Mulligatawny is a spiced Indian-origin soup that blends lentils, chicken, vegetables, and fragrant spices. Often enriched with curry flavors and finished with lemon juice, it offers a warming and hearty balance of savory and tangy notes.",
     "ingredients": [
@@ -6568,7 +6568,7 @@
   {
     "label": "Laksa (Singapore)",
     "slug": "Laksa-(Singapore)",
-    "category": "World's-Soups",
+    "category": "products/products/World's-Soups",
     "description": "Laksa is a spicy noodle soup that originated in Malaysia, Singapore, and Indonesia. It's made with a rich and spicy coconut curry soup or a broth seasoned with asam, and commonly includes thick rice noodles, chicken, prawns, or fish.",
     "cuisines": "Laksa is a flavorful Singaporean noodle soup combining rich coconut milk, aromatic spices, and fresh herbs. Often topped with chicken, prawns, or tofu, it delivers a fragrant, spicy, and creamy taste in every bowl.",
     "ingredients": [
@@ -6637,7 +6637,7 @@
   {
     "label": "Yayla Corbasi (Turkey)",
     "slug": "Yayla-Corbasi-(Turkey)",
-    "category": "World's-Soups",
+    "category": "products/products/World's-Soups",
     "description": "Yayla Ã§orbasÄ±, also known as yogurt Ã§orba or Turkish yogurt soup, is a traditional Turkish soup that's creamy, tangy, and comforting. The name translates to 'meadow soup' or 'highland soup' and is named after the high mountain meadows in northern Turkey where the soup originated.",
     "cuisines": "Yayla Çorbası is a traditional Turkish yogurt and rice soup flavored with mint or tarragon. Creamy, tangy, and comforting, it’s often served warm as a light meal or starter, especially in colder months.",
     "ingredients": [
@@ -6703,7 +6703,7 @@
   {
     "label": "Mines Trone (Italy)",
     "slug": "Mines-Trone-(Italy)",
-    "category": "World's-Soups",
+    "category": "products/products/World's-Soups",
     "description": "Minestrone is a thick, hearty Italian soup made with pasta, vegetables, and meat in a rich tomato broth. Here's a classic minestrone recipe that's high in fiber and vitamin C, but low in calories.",
     "cuisines": "Minestrone is a hearty Italian vegetable soup traditionally made with seasonal vegetables, beans, and pasta. It’s a wholesome, comforting dish with a rich broth enhanced by herbs and often a cheese rind for depth of flavor.",
     "ingredients": [
@@ -6768,7 +6768,7 @@
   {
     "label": "Tom Yum (Thailand)",
     "slug": "Tom-Yum-(Thailand)",
-    "category": "World's-Soups",
+    "category": "products/World's-Soups",
     "description": "Tom yum is a spicy, sour, and hot Thai soup that's usually made with shrimp. The name comes from the Thai words tom, which means 'boiling,' and yam, which means 'mixed'.",
     "cuisines": "Tom Yum is a classic Thai hot and sour soup known for its bold flavors from lemongrass, kaffir lime leaves, galangal, and fresh lime juice. It’s often made with prawns, mushrooms, and aromatic herbs, offering a perfect balance of spicy, sour, and savory.",
     "ingredients": [
@@ -6829,409 +6829,7 @@
   {
     "label": "Tortilla (Mexico)",
     "slug": "Tortilla-(Mexico)",
-    "category": "World's-Soups",
-    "description": "Tortilla soup is typically made with chicken broth, tomatoes, onions, garlic, and chilies, and served with shredded chicken, tortilla strips, cheese, avocado, crema, and cilantro.",
-    "cuisines": "Tortilla soup is a traditional Mexican comfort dish made with a flavorful broth, crispy fried tortilla strips, and toppings like avocado, cheese, and crema. It blends savory, tangy, and smoky flavors into a hearty, satisfying bowl.",
-    "ingredients": [
-      { "item": "Water", "quantity": "3 cups" },
-      { "item": "Low sodium chicken stock", "quantity": "1/2 cup" },
-      { "item": "Fish sauce", "quantity": "3 tablespoons" },
-      { "item": "Vegetable broth", "quantity": "4 cups" },
-      { "item": "Fish sauce", "quantity": "1 1/2 tablespoons" },
-      { "item": "Limes", "quantity": "4, juiced with pulp" },
-      { "item": "Not Available", "quantity": "-----------" }
-    ],
-    "method": [
-      "Fry tortillas in batches until golden brown.",
-      "In a deep pot over high heat, combine 4 cups of chicken broth, 2 cups of water, and tomato chile sauce.",
-      "Boil for 15–20 minutes and season with salt and pepper.",
-      "In a bowl, add shredded chicken, tortilla strips, cheese, and cotija.",
-      "Pour about 1.5 cups of hot broth into the bowl.",
-      "Top with avocado, crema, and cilantro.",
-      "To toast chiles, hold them over a gas flame with tongs for a few seconds until they blister and smell fragrant.",
-      "You can use vegetable broth instead of chicken broth to make the soup vegan.",
-      "Optional toppings include tortilla chips, sour cream, Greek yogurt, and fresh diced tomatoes."
-    ],
-    "nutrition": [
-      { "label": "Protein", "value": "" },
-      { "label": "Carbohydrate", "value": "" },
-      { "label": "Calcium", "value": "" },
-      { "label": "Energy", "value": "" },
-      { "label": "Iron", "value": "" },
-      { "label": "Mineral", "value": "" },
-      { "label": "Fat", "value": "" }
-    ],
-    "img": "tortilla-soup.jpg",
-    "cities": [
-      {
-        "img": "summer-gazpacho.webp",
-        "title": "Gozpacho (Spain)"
-      },
-      {
-        "img": "Harira.jpg",
-        "title": "Harira (Morocco)"
-      },
-      {
-        "img": "Mulligatawny.jpg",
-        "title": "Mulligatawny (India)"
-      },
-      {
-        "img": "Laksa.jpg",
-        "title": "Laksa (Singapore)"
-      },
-      {
-        "img": "Yayla_Corbasi.jpg",
-        "title": "Yayla Corbasi (Turkey)"
-      },
-      {
-        "img": "Mines_Trone.jpg",
-        "title": "Mines Trone (Italy)"
-      },
-      {
-        "img": "Spicy-tom-yum-soup.jpg",
-        "title": "Tom Yum (Thailand)"
-      }
-    ]
-  },
-  {
-    "label": "Bedmi puri (fried bread with lentil Jen Alling)",
-    "slug": "Bedmi-puri-(fried-bread-with-lentil-Jen-Alling)",
-    "category": "cuisine/Braj",
-    "description": "Tortilla soup is typically made with chicken broth, tomatoes, onions, garlic, and chilies, and served with shredded chicken, tortilla strips, cheese, avocado, crema, and cilantro.",
-    "cuisines": "Tortilla soup is a traditional Mexican comfort dish made with a flavorful broth, crispy fried tortilla strips, and toppings like avocado, cheese, and crema. It blends savory, tangy, and smoky flavors into a hearty, satisfying bowl.",
-    "ingredients": [
-      { "item": "Water", "quantity": "3 cups" },
-      { "item": "Low sodium chicken stock", "quantity": "1/2 cup" },
-      { "item": "Fish sauce", "quantity": "3 tablespoons" },
-      { "item": "Vegetable broth", "quantity": "4 cups" },
-      { "item": "Fish sauce", "quantity": "1 1/2 tablespoons" },
-      { "item": "Limes", "quantity": "4, juiced with pulp" },
-      { "item": "Not Available", "quantity": "-----------" }
-    ],
-    "method": [
-      "Fry tortillas in batches until golden brown.",
-      "In a deep pot over high heat, combine 4 cups of chicken broth, 2 cups of water, and tomato chile sauce.",
-      "Boil for 15–20 minutes and season with salt and pepper.",
-      "In a bowl, add shredded chicken, tortilla strips, cheese, and cotija.",
-      "Pour about 1.5 cups of hot broth into the bowl.",
-      "Top with avocado, crema, and cilantro.",
-      "To toast chiles, hold them over a gas flame with tongs for a few seconds until they blister and smell fragrant.",
-      "You can use vegetable broth instead of chicken broth to make the soup vegan.",
-      "Optional toppings include tortilla chips, sour cream, Greek yogurt, and fresh diced tomatoes."
-    ],
-    "nutrition": [
-      { "label": "Protein", "value": "" },
-      { "label": "Carbohydrate", "value": "" },
-      { "label": "Calcium", "value": "" },
-      { "label": "Energy", "value": "" },
-      { "label": "Iron", "value": "" },
-      { "label": "Mineral", "value": "" },
-      { "label": "Fat", "value": "" }
-    ],
-    "img": "Bedmi_puri.jpg",
-    "cities": [
-      {
-        "img": "summer-gazpacho.webp",
-        "title": "Gozpacho (Spain)"
-      },
-      {
-        "img": "Harira.jpg",
-        "title": "Harira (Morocco)"
-      },
-      {
-        "img": "Mulligatawny.jpg",
-        "title": "Mulligatawny (India)"
-      },
-      {
-        "img": "Laksa.jpg",
-        "title": "Laksa (Singapore)"
-      },
-      {
-        "img": "Yayla_Corbasi.jpg",
-        "title": "Yayla Corbasi (Turkey)"
-      },
-      {
-        "img": "Mines_Trone.jpg",
-        "title": "Mines Trone (Italy)"
-      },
-      {
-        "img": "Spicy-tom-yum-soup.jpg",
-        "title": "Tom Yum (Thailand)"
-      }
-    ]
-  },
-  {
-    "label": "Dubkiwale Aloo ( POTATO curry)",
-    "slug": "Dubkiwale-Aloo-(-POTATO-curry)",
-    "category": "cuisine",
-    "description": "Tortilla soup is typically made with chicken broth, tomatoes, onions, garlic, and chilies, and served with shredded chicken, tortilla strips, cheese, avocado, crema, and cilantro.",
-    "cuisines": "Tortilla soup is a traditional Mexican comfort dish made with a flavorful broth, crispy fried tortilla strips, and toppings like avocado, cheese, and crema. It blends savory, tangy, and smoky flavors into a hearty, satisfying bowl.",
-    "ingredients": [
-      { "item": "Water", "quantity": "3 cups" },
-      { "item": "Low sodium chicken stock", "quantity": "1/2 cup" },
-      { "item": "Fish sauce", "quantity": "3 tablespoons" },
-      { "item": "Vegetable broth", "quantity": "4 cups" },
-      { "item": "Fish sauce", "quantity": "1 1/2 tablespoons" },
-      { "item": "Limes", "quantity": "4, juiced with pulp" },
-      { "item": "Not Available", "quantity": "-----------" }
-    ],
-    "method": [
-      "Fry tortillas in batches until golden brown.",
-      "In a deep pot over high heat, combine 4 cups of chicken broth, 2 cups of water, and tomato chile sauce.",
-      "Boil for 15–20 minutes and season with salt and pepper.",
-      "In a bowl, add shredded chicken, tortilla strips, cheese, and cotija.",
-      "Pour about 1.5 cups of hot broth into the bowl.",
-      "Top with avocado, crema, and cilantro.",
-      "To toast chiles, hold them over a gas flame with tongs for a few seconds until they blister and smell fragrant.",
-      "You can use vegetable broth instead of chicken broth to make the soup vegan.",
-      "Optional toppings include tortilla chips, sour cream, Greek yogurt, and fresh diced tomatoes."
-    ],
-    "nutrition": [
-      { "label": "Protein", "value": "" },
-      { "label": "Carbohydrate", "value": "" },
-      { "label": "Calcium", "value": "" },
-      { "label": "Energy", "value": "" },
-      { "label": "Iron", "value": "" },
-      { "label": "Mineral", "value": "" },
-      { "label": "Fat", "value": "" }
-    ],
-    "img": "tortilla-soup.jpg",
-    "cities": [
-      {
-        "img": "summer-gazpacho.webp",
-        "title": "Gozpacho (Spain)"
-      },
-      {
-        "img": "Harira.jpg",
-        "title": "Harira (Morocco)"
-      },
-      {
-        "img": "Mulligatawny.jpg",
-        "title": "Mulligatawny (India)"
-      },
-      {
-        "img": "Laksa.jpg",
-        "title": "Laksa (Singapore)"
-      },
-      {
-        "img": "Yayla_Corbasi.jpg",
-        "title": "Yayla Corbasi (Turkey)"
-      },
-      {
-        "img": "Mines_Trone.jpg",
-        "title": "Mines Trone (Italy)"
-      },
-      {
-        "img": "Spicy-tom-yum-soup.jpg",
-        "title": "Tom Yum (Thailand)"
-      }
-    ]
-  },
-  {
-    "label": "Mathura Hing Kauhori",
-    "slug": "Mathura-Hing-Kauhori",
-    "category": "cuisine",
-    "description": "Tortilla soup is typically made with chicken broth, tomatoes, onions, garlic, and chilies, and served with shredded chicken, tortilla strips, cheese, avocado, crema, and cilantro.",
-    "cuisines": "Tortilla soup is a traditional Mexican comfort dish made with a flavorful broth, crispy fried tortilla strips, and toppings like avocado, cheese, and crema. It blends savory, tangy, and smoky flavors into a hearty, satisfying bowl.",
-    "ingredients": [
-      { "item": "Water", "quantity": "3 cups" },
-      { "item": "Low sodium chicken stock", "quantity": "1/2 cup" },
-      { "item": "Fish sauce", "quantity": "3 tablespoons" },
-      { "item": "Vegetable broth", "quantity": "4 cups" },
-      { "item": "Fish sauce", "quantity": "1 1/2 tablespoons" },
-      { "item": "Limes", "quantity": "4, juiced with pulp" },
-      { "item": "Not Available", "quantity": "-----------" }
-    ],
-    "method": [
-      "Fry tortillas in batches until golden brown.",
-      "In a deep pot over high heat, combine 4 cups of chicken broth, 2 cups of water, and tomato chile sauce.",
-      "Boil for 15–20 minutes and season with salt and pepper.",
-      "In a bowl, add shredded chicken, tortilla strips, cheese, and cotija.",
-      "Pour about 1.5 cups of hot broth into the bowl.",
-      "Top with avocado, crema, and cilantro.",
-      "To toast chiles, hold them over a gas flame with tongs for a few seconds until they blister and smell fragrant.",
-      "You can use vegetable broth instead of chicken broth to make the soup vegan.",
-      "Optional toppings include tortilla chips, sour cream, Greek yogurt, and fresh diced tomatoes."
-    ],
-    "nutrition": [
-      { "label": "Protein", "value": "" },
-      { "label": "Carbohydrate", "value": "" },
-      { "label": "Calcium", "value": "" },
-      { "label": "Energy", "value": "" },
-      { "label": "Iron", "value": "" },
-      { "label": "Mineral", "value": "" },
-      { "label": "Fat", "value": "" }
-    ],
-    "img": "tortilla-soup.jpg",
-    "cities": [
-      {
-        "img": "summer-gazpacho.webp",
-        "title": "Gozpacho (Spain)"
-      },
-      {
-        "img": "Harira.jpg",
-        "title": "Harira (Morocco)"
-      },
-      {
-        "img": "Mulligatawny.jpg",
-        "title": "Mulligatawny (India)"
-      },
-      {
-        "img": "Laksa.jpg",
-        "title": "Laksa (Singapore)"
-      },
-      {
-        "img": "Yayla_Corbasi.jpg",
-        "title": "Yayla Corbasi (Turkey)"
-      },
-      {
-        "img": "Mines_Trone.jpg",
-        "title": "Mines Trone (Italy)"
-      },
-      {
-        "img": "Spicy-tom-yum-soup.jpg",
-        "title": "Tom Yum (Thailand)"
-      }
-    ]
-  },
-  {
-    "label": "Agra Petha",
-    "slug": "Agra-Petha",
-    "category": "cuisine",
-    "description": "Tortilla soup is typically made with chicken broth, tomatoes, onions, garlic, and chilies, and served with shredded chicken, tortilla strips, cheese, avocado, crema, and cilantro.",
-    "cuisines": "Tortilla soup is a traditional Mexican comfort dish made with a flavorful broth, crispy fried tortilla strips, and toppings like avocado, cheese, and crema. It blends savory, tangy, and smoky flavors into a hearty, satisfying bowl.",
-    "ingredients": [
-      { "item": "Water", "quantity": "3 cups" },
-      { "item": "Low sodium chicken stock", "quantity": "1/2 cup" },
-      { "item": "Fish sauce", "quantity": "3 tablespoons" },
-      { "item": "Vegetable broth", "quantity": "4 cups" },
-      { "item": "Fish sauce", "quantity": "1 1/2 tablespoons" },
-      { "item": "Limes", "quantity": "4, juiced with pulp" },
-      { "item": "Not Available", "quantity": "-----------" }
-    ],
-    "method": [
-      "Fry tortillas in batches until golden brown.",
-      "In a deep pot over high heat, combine 4 cups of chicken broth, 2 cups of water, and tomato chile sauce.",
-      "Boil for 15–20 minutes and season with salt and pepper.",
-      "In a bowl, add shredded chicken, tortilla strips, cheese, and cotija.",
-      "Pour about 1.5 cups of hot broth into the bowl.",
-      "Top with avocado, crema, and cilantro.",
-      "To toast chiles, hold them over a gas flame with tongs for a few seconds until they blister and smell fragrant.",
-      "You can use vegetable broth instead of chicken broth to make the soup vegan.",
-      "Optional toppings include tortilla chips, sour cream, Greek yogurt, and fresh diced tomatoes."
-    ],
-    "nutrition": [
-      { "label": "Protein", "value": "" },
-      { "label": "Carbohydrate", "value": "" },
-      { "label": "Calcium", "value": "" },
-      { "label": "Energy", "value": "" },
-      { "label": "Iron", "value": "" },
-      { "label": "Mineral", "value": "" },
-      { "label": "Fat", "value": "" }
-    ],
-    "img": "tortilla-soup.jpg",
-    "cities": [
-      {
-        "img": "summer-gazpacho.webp",
-        "title": "Gozpacho (Spain)"
-      },
-      {
-        "img": "Harira.jpg",
-        "title": "Harira (Morocco)"
-      },
-      {
-        "img": "Mulligatawny.jpg",
-        "title": "Mulligatawny (India)"
-      },
-      {
-        "img": "Laksa.jpg",
-        "title": "Laksa (Singapore)"
-      },
-      {
-        "img": "Yayla_Corbasi.jpg",
-        "title": "Yayla Corbasi (Turkey)"
-      },
-      {
-        "img": "Mines_Trone.jpg",
-        "title": "Mines Trone (Italy)"
-      },
-      {
-        "img": "Spicy-tom-yum-soup.jpg",
-        "title": "Tom Yum (Thailand)"
-      }
-    ]
-  },
-  {
-    "label": "Malai Ghewar & kheer mohan",
-    "slug": "Malai-Ghewar-&-kheer-mohan",
-    "category": "cuisine",
-    "description": "Tortilla soup is typically made with chicken broth, tomatoes, onions, garlic, and chilies, and served with shredded chicken, tortilla strips, cheese, avocado, crema, and cilantro.",
-    "cuisines": "Tortilla soup is a traditional Mexican comfort dish made with a flavorful broth, crispy fried tortilla strips, and toppings like avocado, cheese, and crema. It blends savory, tangy, and smoky flavors into a hearty, satisfying bowl.",
-    "ingredients": [
-      { "item": "Water", "quantity": "3 cups" },
-      { "item": "Low sodium chicken stock", "quantity": "1/2 cup" },
-      { "item": "Fish sauce", "quantity": "3 tablespoons" },
-      { "item": "Vegetable broth", "quantity": "4 cups" },
-      { "item": "Fish sauce", "quantity": "1 1/2 tablespoons" },
-      { "item": "Limes", "quantity": "4, juiced with pulp" },
-      { "item": "Not Available", "quantity": "-----------" }
-    ],
-    "method": [
-      "Fry tortillas in batches until golden brown.",
-      "In a deep pot over high heat, combine 4 cups of chicken broth, 2 cups of water, and tomato chile sauce.",
-      "Boil for 15–20 minutes and season with salt and pepper.",
-      "In a bowl, add shredded chicken, tortilla strips, cheese, and cotija.",
-      "Pour about 1.5 cups of hot broth into the bowl.",
-      "Top with avocado, crema, and cilantro.",
-      "To toast chiles, hold them over a gas flame with tongs for a few seconds until they blister and smell fragrant.",
-      "You can use vegetable broth instead of chicken broth to make the soup vegan.",
-      "Optional toppings include tortilla chips, sour cream, Greek yogurt, and fresh diced tomatoes."
-    ],
-    "nutrition": [
-      { "label": "Protein", "value": "" },
-      { "label": "Carbohydrate", "value": "" },
-      { "label": "Calcium", "value": "" },
-      { "label": "Energy", "value": "" },
-      { "label": "Iron", "value": "" },
-      { "label": "Mineral", "value": "" },
-      { "label": "Fat", "value": "" }
-    ],
-    "img": "tortilla-soup.jpg",
-    "cities": [
-      {
-        "img": "summer-gazpacho.webp",
-        "title": "Gozpacho (Spain)"
-      },
-      {
-        "img": "Harira.jpg",
-        "title": "Harira (Morocco)"
-      },
-      {
-        "img": "Mulligatawny.jpg",
-        "title": "Mulligatawny (India)"
-      },
-      {
-        "img": "Laksa.jpg",
-        "title": "Laksa (Singapore)"
-      },
-      {
-        "img": "Yayla_Corbasi.jpg",
-        "title": "Yayla Corbasi (Turkey)"
-      },
-      {
-        "img": "Mines_Trone.jpg",
-        "title": "Mines Trone (Italy)"
-      },
-      {
-        "img": "Spicy-tom-yum-soup.jpg",
-        "title": "Tom Yum (Thailand)"
-      }
-    ]
-  },
-  {
-    "label": "Vrindaran Dahi Arbi",
-    "slug": "Vrindaran-Dahi-Arbi",
-    "category": "cuisine",
+    "category": "products/products/World's-Soups",
     "description": "Tortilla soup is typically made with chicken broth, tomatoes, onions, garlic, and chilies, and served with shredded chicken, tortilla strips, cheese, avocado, crema, and cilantro.",
     "cuisines": "Tortilla soup is a traditional Mexican comfort dish made with a flavorful broth, crispy fried tortilla strips, and toppings like avocado, cheese, and crema. It blends savory, tangy, and smoky flavors into a hearty, satisfying bowl.",
     "ingredients": [
