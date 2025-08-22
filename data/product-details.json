@@ -6829,7 +6829,7 @@
   {
     "label": "Tortilla (Mexico)",
     "slug": "Tortilla-(Mexico)",
-    "category": "products/products/World's-Soups",
+    "category": "products/World's-Soups",
     "description": "Tortilla soup is typically made with chicken broth, tomatoes, onions, garlic, and chilies, and served with shredded chicken, tortilla strips, cheese, avocado, crema, and cilantro.",
     "cuisines": "Tortilla soup is a traditional Mexican comfort dish made with a flavorful broth, crispy fried tortilla strips, and toppings like avocado, cheese, and crema. It blends savory, tangy, and smoky flavors into a hearty, satisfying bowl.",
     "ingredients": [
@@ -6890,6 +6890,65 @@
       {
         "img": "Spicy-tom-yum-soup.jpg",
         "title": "Tom Yum (Thailand)"
+      }
+    ]
+  },
+  {
+    "label": "Bedmi puri (fried bread with lentil Jen Alling)",
+    "slug": "Bedmi-puri-(fried-bread-with-lentil-Jen-Alling)",
+    "category": "cuisine/Braj",
+    "description": "Tortilla soup is typically made with chicken broth, tomatoes, onions, garlic, and chilies, and served with shredded chicken, tortilla strips, cheese, avocado, crema, and cilantro.",
+    "cuisines": "Tortilla soup is a traditional Mexican comfort dish made with a flavorful broth, crispy fried tortilla strips, and toppings like avocado, cheese, and crema. It blends savory, tangy, and smoky flavors into a hearty, satisfying bowl.",
+    "ingredients": [
+      { "item": "Water", "quantity": "3 cups" },
+      { "item": "Low sodium chicken stock", "quantity": "1/2 cup" },
+      { "item": "Fish sauce", "quantity": "3 tablespoons" },
+      { "item": "Vegetable broth", "quantity": "4 cups" },
+      { "item": "Fish sauce", "quantity": "1 1/2 tablespoons" },
+      { "item": "Limes", "quantity": "4, juiced with pulp" },
+      { "item": "Not Available", "quantity": "-----------" }
+    ],
+    "method": [
+      "Fry tortillas in batches until golden brown.",
+      "In a deep pot over high heat, combine 4 cups of chicken broth, 2 cups of water, and tomato chile sauce.",
+      "Boil for 15–20 minutes and season with salt and pepper.",
+      "In a bowl, add shredded chicken, tortilla strips, cheese, and cotija.",
+      "Pour about 1.5 cups of hot broth into the bowl.",
+      "Top with avocado, crema, and cilantro.",
+      "To toast chiles, hold them over a gas flame with tongs for a few seconds until they blister and smell fragrant.",
+      "You can use vegetable broth instead of chicken broth to make the soup vegan.",
+      "Optional toppings include tortilla chips, sour cream, Greek yogurt, and fresh diced tomatoes."
+    ],
+    "nutrition": [
+      { "label": "Protein", "value": "" },
+      { "label": "Carbohydrate", "value": "" },
+      { "label": "Calcium", "value": "" },
+      { "label": "Energy", "value": "" },
+      { "label": "Iron", "value": "" },
+      { "label": "Mineral", "value": "" },
+      { "label": "Fat", "value": "" }
+    ],
+    "img": "Bedmi_puri.jpg",
+    "cities": [
+      {
+        "img": "Dubkiwale_Aloo.jpg",
+        "title": "Dubkiwale Aloo ( POTATO curry)"
+      },
+      {
+        "img": "mathura_Hing_Kauhori.jpg",
+        "title": "Mathura Hing Kauhori"
+      },
+      {
+        "img": "Agra_Petha.jpg",
+        "title": "Agra Petha"
+      },
+      {
+        "img": "Malai_Ghewar_kheer_mohan.jpg",
+        "title": "Malai Ghewar & kheer mohan"
+      },
+      {
+        "img": "Vrindaran_Dahi_Arbl.jpg",
+        "title": "Vrindaran Dahi Arbi"
       }
     ]
   }
