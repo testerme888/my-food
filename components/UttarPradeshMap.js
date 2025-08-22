@@ -65,7 +65,7 @@ export default function UttarPradeshMap({ stateName, region = null }) {
           setFilteredGeos(filtered);
         }
       });
-  }, [formattedName]);
+  }, [formattedName, region]);
 
   if (!projection){
     return (<div className="flex items-center justify-center h-[60vh]">
