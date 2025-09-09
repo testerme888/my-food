@@ -318,6 +318,102 @@
         "title": "Sheer Khurma"
       }
     ]
+  },
+  {
+    "label": "Garhwali",
+    "slug": "Garhwali",
+    "state": "Uttaranchal",
+    "description": "Mughlai cuisine is one of the most celebrated royal cuisines of India, developed in the kitchens of the Mughal emperors (16th–19th century). It blends Persian, Turkish, and Central Asian influences with Indian spices and cooking techniques, resulting in rich, aromatic, and luxurious dishes.",
+    "foods": [
+      {
+      "img": "Murg_malali_Kebab.webp",
+      "title": "Murg malali Kebab"
+      },
+      {
+        "img": "Mutton_Galouti.jpg",
+        "title": "Mutton Galouti"
+      },
+      {
+        "img": "Reshimi_kebab.jpg",
+        "title": "Reshimi kebab"
+      },
+      {
+        "img": "Matton_Rogan_Josh.jpg",
+        "title": "Matton Rogan Josh"
+      },
+      {
+        "img": "Murgh_musallam.jpg",
+        "title": "Murgh musallam"
+      },
+      {
+        "img": "Nargisi_Kofta.jpg",
+        "title": "Nargisi Kofta"
+      },
+      {
+        "img": "Shahi_Paneer.jpg",
+        "title": "Shahi Paneer"
+      },
+      {
+        "img": "Malai_Kofta.jpg",
+        "title": "Malai Kofta"
+      },
+      {
+        "img": "Shahi_Tukda.jpg",
+        "title": "Shahi Tukda"
+      },
+      {
+        "img": "Sheer_Khurma.jpg",
+        "title": "Sheer Khurma"
+      }
+    ]
+  },
+  {
+    "label": "Kumaoni",
+    "slug": "Kumaoni",
+    "state": "Uttaranchal",
+    "description": "Mughlai cuisine is one of the most celebrated royal cuisines of India, developed in the kitchens of the Mughal emperors (16th–19th century). It blends Persian, Turkish, and Central Asian influences with Indian spices and cooking techniques, resulting in rich, aromatic, and luxurious dishes.",
+    "foods": [
+      {
+      "img": "Murg_malali_Kebab.webp",
+      "title": "Murg malali Kebab"
+      },
+      {
+        "img": "Mutton_Galouti.jpg",
+        "title": "Mutton Galouti"
+      },
+      {
+        "img": "Reshimi_kebab.jpg",
+        "title": "Reshimi kebab"
+      },
+      {
+        "img": "Matton_Rogan_Josh.jpg",
+        "title": "Matton Rogan Josh"
+      },
+      {
+        "img": "Murgh_musallam.jpg",
+        "title": "Murgh musallam"
+      },
+      {
+        "img": "Nargisi_Kofta.jpg",
+        "title": "Nargisi Kofta"
+      },
+      {
+        "img": "Shahi_Paneer.jpg",
+        "title": "Shahi Paneer"
+      },
+      {
+        "img": "Malai_Kofta.jpg",
+        "title": "Malai Kofta"
+      },
+      {
+        "img": "Shahi_Tukda.jpg",
+        "title": "Shahi Tukda"
+      },
+      {
+        "img": "Sheer_Khurma.jpg",
+        "title": "Sheer Khurma"
+      }
+    ]
   }
 
 ]

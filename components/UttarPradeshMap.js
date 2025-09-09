@@ -27,7 +27,9 @@ const regions = {
     "Kushinagar","Maharajganj","Azamgarh","Jaunpur","Sant Kabir Nagar",
     "Basti","Siddharth Nagar"
   ],
-  Mughlai: ["Agra","Fatehpur","Etawah","Mainpuri"]
+  Mughlai: ["Agra","Fatehpur","Etawah","Mainpuri"],
+  Garhwali: ["Dehra Dun","Haridwar","Pauri Garhwal","Rudraprayag","Tehri Garhwal","Uttarkashi","Chamoli"],
+  Kumaoni: ["Almora","Naini Tal","Pithoragarh","Champawat","Bageshwar","Udham Singh Nagar"]
   
  };
 export default function UttarPradeshMap({ stateName, region = null }) {
