@@ -323,47 +323,27 @@
     "label": "Garhwali",
     "slug": "Garhwali",
     "state": "Uttaranchal",
-    "description": "Mughlai cuisine is one of the most celebrated royal cuisines of India, developed in the kitchens of the Mughal emperors (16th–19th century). It blends Persian, Turkish, and Central Asian influences with Indian spices and cooking techniques, resulting in rich, aromatic, and luxurious dishes.",
+    "description": "Garhwali cuisine is the traditional food of the Garhwal region in Uttarakhand, celebrated for its nutritious ingredients, rustic flavors, and simple cooking methods. It makes use of locally grown lentils (gahat, urad), leafy greens, millets (mandua, jhangora), potatoes, and minimal spices, creating hearty meals suited to the mountain lifestyle.",
     "foods": [
       {
-      "img": "Murg_malali_Kebab.webp",
-      "title": "Murg malali Kebab"
+      "img": "Kafauli_Kapaa.jpg",
+      "title": "Kafauli |Kapaa"
       },
       {
-        "img": "Mutton_Galouti.jpg",
-        "title": "Mutton Galouti"
+        "img": "Phaanu.jpg",
+        "title": "Phaanu"
       },
       {
-        "img": "Reshimi_kebab.jpg",
-        "title": "Reshimi kebab"
+        "img": "Baadi.jpg",
+        "title": "Baadi"
       },
       {
-        "img": "Matton_Rogan_Josh.jpg",
-        "title": "Matton Rogan Josh"
+        "img": "chainsoo.jpg",
+        "title": "chainsoo"
       },
       {
-        "img": "Murgh_musallam.jpg",
-        "title": "Murgh musallam"
-      },
-      {
-        "img": "Nargisi_Kofta.jpg",
-        "title": "Nargisi Kofta"
-      },
-      {
-        "img": "Shahi_Paneer.jpg",
-        "title": "Shahi Paneer"
-      },
-      {
-        "img": "Malai_Kofta.jpg",
-        "title": "Malai Kofta"
-      },
-      {
-        "img": "Shahi_Tukda.jpg",
-        "title": "Shahi Tukda"
-      },
-      {
-        "img": "Sheer_Khurma.jpg",
-        "title": "Sheer Khurma"
+        "img": "Aloo_ke_Gutke.jpg",
+        "title": "Aloo ke Gutke"
       }
     ]
   },
@@ -371,47 +351,27 @@
     "label": "Kumaoni",
     "slug": "Kumaoni",
     "state": "Uttaranchal",
-    "description": "Mughlai cuisine is one of the most celebrated royal cuisines of India, developed in the kitchens of the Mughal emperors (16th–19th century). It blends Persian, Turkish, and Central Asian influences with Indian spices and cooking techniques, resulting in rich, aromatic, and luxurious dishes.",
+    "description": "Kumaoni cuisine is the traditional food of the Kumaon region in Uttarakhand, known for being simple, wholesome, and rich in natural flavors. It relies heavily on local pulses (like bhatt, gahat, arhar), millets (madua, jhangora), potatoes, and regional spices. The cooking style uses minimal oil and masalas but delivers a unique earthy taste.",
     "foods": [
       {
-      "img": "Murg_malali_Kebab.webp",
-      "title": "Murg malali Kebab"
+      "img": "Bhang_ki_chuthey.jpg",
+      "title": "Bhang ki chuthey"
       },
       {
-        "img": "Mutton_Galouti.jpg",
-        "title": "Mutton Galouti"
+        "img": "Kumaoni_Raita.jpg",
+        "title": "Kumaoni Raita"
       },
       {
-        "img": "Reshimi_kebab.jpg",
-        "title": "Reshimi kebab"
+        "img": "Kandalee_ka_Saag.jpg",
+        "title": "Kandadee ke saag"
       },
       {
-        "img": "Matton_Rogan_Josh.jpg",
-        "title": "Matton Rogan Josh"
+        "img": "Arsa.jpg",
+        "title": "Arsa"
       },
       {
-        "img": "Murgh_musallam.jpg",
-        "title": "Murgh musallam"
-      },
-      {
-        "img": "Nargisi_Kofta.jpg",
-        "title": "Nargisi Kofta"
-      },
-      {
-        "img": "Shahi_Paneer.jpg",
-        "title": "Shahi Paneer"
-      },
-      {
-        "img": "Malai_Kofta.jpg",
-        "title": "Malai Kofta"
-      },
-      {
-        "img": "Shahi_Tukda.jpg",
-        "title": "Shahi Tukda"
-      },
-      {
-        "img": "Sheer_Khurma.jpg",
-        "title": "Sheer Khurma"
+        "img": "gulthiya.png",
+        "title": "Gulthiya"
       }
     ]
   }
